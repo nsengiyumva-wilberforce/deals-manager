@@ -1,0 +1,1690 @@
+# @author:   AnkkSoft.com
+# Copyright: AnkkSoft 2020
+# Website:   https://www.ankksoft.com
+# CodeCanyon User:  https://codecanyon.net/user/codeloop 
+
+#: Sidebar
+
+msgid   "Dashboard"
+msgstr  "Armaturenbrett"
+
+msgid   "Deals"
+msgstr  "Angebote"
+
+msgid   "List Deals"
+msgstr  "Liste Deals"
+
+msgid   "Won Deals"
+msgstr  "Gewonnene Angebote"
+
+msgid   "Loss Deals"
+msgstr  "Loss Angebote"
+
+msgid   "Tasks"
+msgstr  "Aufgaben"
+
+msgid   "Task"
+msgstr  "Aufgabe"
+
+msgid   "All Task"
+msgstr  "alle Aufgaben"
+
+msgid   "Contacts"
+msgstr  "Impressum"
+
+msgid   "Companies"
+msgstr  "Firmen"
+
+
+msgid   "Pipeline"
+msgstr  "Pipeline"
+
+msgid   "Stages"
+msgstr  "Stufen"
+
+msgid   "Labels"
+msgstr  "Labels"
+
+msgid   "Activity"
+msgstr  "Aktivität"
+
+msgid   "Number of Active Deals"
+msgstr  "Anzahl der aktiven Angebote"
+
+msgid   "Sources"
+msgstr  "Quellen"
+
+msgid   "Products"
+msgstr  "Produkte"
+
+msgid   "Messages"
+msgstr  "Nachrichten"
+
+msgid   "Tickets"
+msgstr  "Tickets"
+
+msgid   "Exports"
+msgstr  "Exporte"
+
+msgid   "Custom Fields"
+msgstr  "Benutzerdefinierte Felder"
+
+msgid   "Users"
+msgstr  "Benutzer"
+
+msgid   "Settings"
+msgstr  "Einstellungen"
+
+#: Common
+msgid   "Name"
+msgstr  "Name"
+
+msgid   "Price"
+msgstr  "Preis"
+
+msgid   "Created"
+msgstr  "Erstellt"
+
+msgid   "Create"
+msgstr  "Schaffen"
+
+msgid   "Filter"
+msgstr  "Filter"
+
+msgid   "Yes"
+msgstr  "Ja"
+
+msgid   "No"
+msgstr  "Nein"
+
+msgid   "Date Range"
+msgstr  "Datumsbereich"
+
+msgid   "Email"
+msgstr  "Email"
+
+msgid   "Previous"
+msgstr  "Zurück"
+
+msgid   "First"
+msgstr  "Erste"
+
+msgid   "Next"
+msgstr  "Nächster"
+
+msgid   "Last"
+msgstr  "Letzte"
+
+msgid   "Page"
+msgstr  "Seite"
+
+msgid   "of"
+msgstr  "von"
+
+msgid   "Value"
+msgstr  "Wert"
+
+msgid   "at"
+msgstr  "beim"
+
+msgid   "Active Again"
+msgstr  "wieder aktiv"
+
+msgid   "By"
+msgstr  "Durch"
+
+msgid   "Save Changes"
+msgstr  "Änderungen speichern"
+
+msgid   "Loading"
+msgstr  "Laden"
+
+msgid   "Load More"
+msgstr  "Mehr laden"
+
+msgid   "Confirmation"
+msgstr  "Bestätigung"
+
+msgid   "Basic Details"
+msgstr  "Grundlegende Details"
+
+msgid   "Save"
+msgstr  "sparen"
+
+msgid   "Request has been completed."
+msgstr  "Anfrage abgeschlossen ist."
+
+msgid   "Request has been not completed."
+msgstr  "Gesuch wurde nicht abgeschlossen ."
+
+#: Header
+
+msgid   "Logout"
+msgstr  "Abmelden"
+
+#: Profile
+
+msgid   "Profile"
+msgstr  "Profil"
+
+msgid   "Picture"
+msgstr  "Bild"
+
+msgid   "Edit Profile"
+msgstr  "Profil bearbeiten"
+
+msgid   "Change Password"
+msgstr  "Kennwort ändern"
+
+msgid   "Permission"
+msgstr  "Erlaubnis"
+
+msgid   "Save Picture"
+msgstr  "Bild speichern"
+
+msgid   "First Name"
+msgstr  "Vorname"
+
+msgid   "Last Name"
+msgstr  "Nachname"
+
+msgid   "About"
+msgstr  "Etwa"
+
+msgid   "Mobile Number"
+msgstr  "Handynummer"
+
+msgid   "Gender"
+msgstr  "Geschlecht"
+
+msgid   "Location"
+msgstr  "Ort"
+
+msgid   "Web Page"
+msgstr  "Internet seite"
+
+msgid   "New Password"
+msgstr  "Neues Kennwort"
+
+msgid   "Re-type New Password"
+msgstr  "Re -type Neues Passwort"
+
+msgid   "Change Password"
+msgstr  "Kennwort ändern"
+
+msgid   "Role"
+msgstr  "Rolle"
+
+msgid   "Status"
+msgstr  "Status"
+
+msgid   "Member since"
+msgstr  "Mitglied seit"
+
+#: Task
+
+msgid   "My Task"
+msgstr  "Meine Aufgabe"
+
+msgid   "Overdue Tasks"
+msgstr  "Überfällige Aufgaben"
+
+msgid   "Today"
+msgstr  "Heute"
+
+msgid   "Later Tasks"
+msgstr  "später Aufgaben"
+
+msgid   "Appointment"
+msgstr  "Termin"
+
+msgid   "Call"
+msgstr  "Anruf"
+
+msgid   "Consultancy"
+msgstr  "Consultancy"
+
+msgid   "Quote"
+msgstr  "Zitat"
+
+msgid   "Invoice"
+msgstr  "Rechnung"
+
+msgid   "Other"
+msgstr  "Andere"
+
+msgid   "Overdue Tasks"
+msgstr  "Überfällige Aufgaben"
+
+msgid   "today"
+msgstr  "Heute"
+
+msgid   "All Pipeline"
+msgstr  "alle Pipeline"
+
+msgid   "All"
+msgstr  "Alle"
+
+
+msgid   "Are u sure to delete this task ?"
+msgstr  "Sind Sie sicher, dass u , um diese Aufgabe zu löschen ?"
+
+msgid   "Update Task"
+msgstr  "Aktualisierungsaufgaben"
+
+msgid   "Assign To"
+msgstr  "Zuweisen"
+
+msgid   "Priority"
+msgstr  "Priorität"
+
+msgid   "Date"
+msgstr  "Datum"
+
+msgid   "Time"
+msgstr  "Zeit"
+
+
+
+
+#: Deal
+
+msgid   "Are you sure to delete this Deal ? All the data related to this deal also deleted like task, notes, files, discussion."
+msgstr  "Sind Sie sicher, um dieses Abkommen zu löschen? Alle Daten zu diesem Angebot, bezogen auch gefallen Aufgabe , Notizen, Dateien , die Diskussion gelöscht."
+
+msgid   "Deal"
+msgstr  "Deal"
+
+#: Contact
+
+msgid   "Contact"
+msgstr  "Kontakt"
+
+msgid   "Are you sure to delete this contact ?"
+msgstr  "Sind Sie sicher, dass Sie diesen Kontakt löschen?"
+
+msgid   "Add Contact"
+msgstr  "Kontakt hinzufügen"
+
+msgid   "Contact Name"
+msgstr  "Kontaktname"
+
+msgid   "Select Company"
+msgstr  "Wählen Sie die Firma"
+
+msgid   "Job Title"
+msgstr  "Berufsbezeichnung"
+
+msgid   "No deal in this contact"
+msgstr  "Kein Angebot, in diesem Kontakt"
+
+msgid   "Skype"
+msgstr  "Skype"
+
+msgid   "LinkedIn"
+msgstr  "LinkedIn"
+
+msgid   "Twitter"
+msgstr  "Twitter"
+
+msgid   "Facebook"
+msgstr  "Facebook"
+
+msgid   "Social"
+msgstr  "Soziales"
+
+msgid   "Change"
+msgstr  "Wechseln"
+
+msgid   "Remove"
+msgstr  "Entfernen"
+
+msgid   "Select image"
+msgstr  "Motiv auswählen"
+
+
+#: Company
+
+msgid   "Company"
+msgstr  "Firma"
+
+
+msgid   "Phone"
+msgstr  "Telefon"
+
+msgid   "Are you sure to delete this company ?"
+msgstr  "Sind Sie sicher, dass Sie dieses Unternehmen entfernen?"
+
+msgid   "Address"
+msgstr  "Adresse"
+
+msgid   "Website"
+msgstr  "Webseite"
+
+msgid   "Permission"
+msgstr  "Erlaubnis"
+
+msgid   "Default Active"
+msgstr  "Standard Aktiv"
+
+msgid   "Company Website"
+msgstr  "Unternehmenswebseite"
+
+msgid   "Company Address"
+msgstr  "Firmenadresse"
+
+msgid   "Company Email"
+msgstr  "Firma E-Mail"
+
+msgid   "Company Phone"
+msgstr  "Firma Telefon"
+
+msgid   "Company Name"
+msgstr  "Name der Firma"
+
+msgid   "Add Company"
+msgstr  "Unternehmen hinzufügen"
+
+msgid   "No Contacts in Company"
+msgstr  "Keine Kontakte in Unternehmen"
+
+#: Pipeline
+
+msgid   "Are you sure to delete this Pipeline ? Make Sure Pipeline have no active deal.If have active deal move or delete that deals before delete pipeline."
+msgstr  "Sind Sie sicher, dass diese Pipeline löschen? Stellen Sie sicher, Pipeline haben keine aktiven deal.If haben aktive Deal verschieben oder zu löschen , dass Angebote , bevor löschen Pipeline."
+
+msgid   "Add Pipeline"
+msgstr  "In Pipeline"
+
+msgid   "To"
+msgstr  "Nach"
+
+msgid   "Pipeline Name"
+msgstr  "Pipeline -Name"
+
+
+
+#: Stages
+
+msgid   "Stage"
+msgstr  "Stufe"
+
+msgid   "Select Pipeline for Stages"
+msgstr  "Wählen Pipeline für die Stufen"
+
+msgid   "Add Stage"
+msgstr  "In Stufe"
+
+msgid   "Stage Name"
+msgstr  "Künstlername"
+
+msgid   "Are you sure to delete this Stage ? Make sure stage have no active deal.If have active deal move or delete that deals before delete this stage."
+msgstr  "Sind Sie sicher, dass diese Bühne zu löschen ? Stellen Sie sicher, Bühne keine aktiven deal.If haben aktive Deal verschieben oder zu löschen , dass Angebote , bevor dieses Stadium zu löschen."
+
+
+
+#: Labels
+
+msgid   "Label"
+msgstr  "Etikette"
+
+msgid   "Select Pipeline to Label"
+msgstr  "Wählen Pipeline zum Beschriften"
+
+msgid   "Are you sure to delete this label ? Assign this label to deals also delete."
+msgstr  "Sind Sie sicher , um dieses Label zu löschen ? Weisen Sie dieses Label zu Angebote auch zu löschen."
+
+msgid   "Label Name"
+msgstr  "Label -Name"
+
+msgid   "Add Label"
+msgstr  "Etiketten hinzufügen"
+
+msgid   "Color"
+msgstr  "Farbe"
+
+msgid   "Black"
+msgstr  "Schwarz"
+
+msgid   "Blue"
+msgstr  "Blau"
+
+msgid   "Green"
+msgstr  "Grün"
+
+msgid   "Gray"
+msgstr  "Grau"
+
+msgid   "Red"
+msgstr  "Rot"
+
+msgid   "Yellow"
+msgstr  "Gelb"
+
+msgid   "Pink"
+msgstr  "Rosa"
+
+msgid   "Orange"
+msgstr  "Orange"
+
+msgid   "Gold"
+msgstr  "Gold"
+
+
+
+
+
+#: Activity
+
+msgid   "Information"
+msgstr  "Informationen"
+
+msgid   "Are you sure to delete this activity ?"
+msgstr  "Sind Sie sicher , diese Aktivität zu löschen ?"
+
+msgid   "Activity"
+msgstr  "Aktivität"
+
+msgid   "All Pipeline"
+msgstr  "alle Pipeline"
+
+msgid   "All User"
+msgstr  "Alle Benutzer"
+
+msgid   "All Activity"
+msgstr  "alle Aktivitäten"
+
+msgid   "Created Deal"
+msgstr  "Erstellt Deal"
+
+msgid   "Deleted Deal"
+msgstr  "gelöschte Deal"
+
+msgid   "Stage changed"
+msgstr  "Bühne verändert"
+
+msgid   "Pipeline changed"
+msgstr  "Pipeline geändert"
+
+msgid   "Mark deal as won"
+msgstr  "Mark Deal als gewonnen"
+
+msgid   "Mark deal as loss"
+msgstr  "Mark Deal als Verlust"
+
+msgid   "Again Active deal from won/loss"
+msgstr  "Wieder aktiv viel von gewonnen / Verlust"
+
+msgid   "Added Task"
+msgstr  "Added Task-"
+
+msgid   "Updated Task"
+msgstr  "aktualisiert Task-"
+
+msgid   "Deleted Task"
+msgstr  "Gelöscht Task-"
+
+msgid   "Added Source to deal"
+msgstr  "Hinzugefügt Quelle zu behandeln"
+
+msgid   "Deleted Source from deal"
+msgstr  "Gelöschte Quelle von Deal"
+
+msgid   "Added contact to deal"
+msgstr  "Hinzugefügt Kontakt zu beschäftigen"
+
+msgid   "Deleted contact from deal"
+msgstr  "Gelöschte Kontakt von Deal"
+
+msgid   "Apointed user to deal"
+msgstr  "Apointed Benutzer zu umgehen"
+
+msgid   "Unpointed user from deal"
+msgstr  "Unpointed Benutzer Deal"
+
+msgid   "Commented on deal"
+msgstr  "Am Deal kommentiert"
+
+msgid   "Deleted the comment"
+msgstr  "Löschte den Kommentar"
+
+msgid   "Added Product to deal"
+msgstr  "Hinzugefügt Artikel zu umgehen"
+
+msgid   "Updated Product in deal"
+msgstr  "Aktualisiert Artikel im Angebot"
+
+msgid   "Deleted Product from deal"
+msgstr  "Gelöschte Produktion von dem Angebot,"
+
+msgid   "Uploaded File in deal"
+msgstr  "Hochgeladene Datei in Deal"
+
+msgid   "Deleted File from deal"
+msgstr  "Deleted File von Deal"
+
+msgid   "Deal Created"
+msgstr  "Deal Erstellt"
+
+msgid   "Deal Stage Changed"
+msgstr  "Deal Bühne geändert"
+
+msgid   "Deal Price Changed"
+msgstr  "Deal Preis geändert"
+
+msgid   "Deal Pipeline Changed"
+msgstr  "Deal Pipeline geändert"
+
+msgid   "Deal Won"
+msgstr  "Deal Won"
+
+msgid   "Deal Lost"
+msgstr  "Deal Passwort"
+
+msgid   "Deal Deleted"
+msgstr  "Deal Gelöscht"
+
+msgid   "Appoint User"
+msgstr  "ernennen Benutzer"
+
+msgid   "Unappoint User"
+msgstr  "Unappoint Benutzer"
+
+msgid   "Deal Reactive"
+msgstr  "Deal Reactive"
+
+msgid   "Task Created"
+msgstr  "Aufgabe Erstellt"
+
+msgid   "Task Updated"
+msgstr  "Task aktualisiert"
+
+msgid   "Task Deleted"
+msgstr  "Task gelöscht"
+
+msgid   "File Added"
+msgstr  "Datei hinzugefügt"
+
+msgid   "File Removed"
+msgstr  "Datei entfernt"
+
+msgid   "Comment Added"
+msgstr  "Kommentar hinzugefügt"
+
+msgid   "Comment Deleted"
+msgstr  "Kommentar gelöscht"
+
+msgid   "Contact Added"
+msgstr  "Kontakt hinzugefügt"
+
+msgid   "Contact Removed"
+msgstr  "Kontakt entfernt"
+
+msgid   "Product Added"
+msgstr  "Produkt hinzugefügt"
+
+msgid   "Product Updated"
+msgstr  "Artikel aktualisiert"
+
+msgid   "Product Removed"
+msgstr  "Produkt entfernt"
+
+msgid   "Source Added"
+msgstr  "Quelle hinzugefügt"
+
+msgid   "Source Removed"
+msgstr  "Quelle entfernt"
+
+
+#: Report
+
+msgid   "Active deal calculated according to date deal created."
+msgstr  "Aktive Deal nach Datum Deal geschaffen berechnet."
+
+msgid   "Number of Active Deals"
+msgstr  "Anzahl der aktiven Angebote"
+
+msgid   "Won Deals"
+msgstr  "Gewonnene Angebote"
+
+msgid   "Lost Deals"
+msgstr  "verlorene Deals"
+
+msgid   "Price of Active Deals"
+msgstr  "Preis von Active Deals"
+
+msgid   "Price of Won Deals"
+msgstr  "Preis des Won Angebote"
+
+msgid   "Price of Loss Deals"
+msgstr  "Preis von Verlust Angebote"
+
+msgid   "All Products"
+msgstr  "Alle Produkte"
+
+msgid   "All Sources"
+msgstr  "Alle Quellen"
+
+msgid   "Report"
+msgstr  "Bericht"
+
+msgid   "All Users"
+msgstr  "Alle Nutzer"
+
+msgid   "Number of Won Deals"
+msgstr  "Anzahl der Won Angebote"
+
+msgid   "Number of Lost Deals"
+msgstr  "Anzahl der verlorenen Angebote"
+
+
+
+#: Source
+msgid   "Source"
+msgstr  "Quelle"
+
+msgid   "Add Source"
+msgstr  "Quelle hinzufügen"
+
+msgid   "Are you sure to delete this Source"
+msgstr  "Sind Sie sicher, dass diese Quelle zu löschen"
+
+msgid   "Source Name"
+msgstr  "Source Name"
+
+msgid   "No deal in this source"
+msgstr  "Kein Angebot, in diesem Quell"
+
+msgid   "Active"
+msgstr  "Aktiv"
+
+msgid   "Won"
+msgstr  "Gewonnen"
+
+msgid   "Loss"
+msgstr  ""
+
+#: Product
+msgid   "Product"
+msgstr  "Produkt"
+
+msgid   "Add Product"
+msgstr  "Produkt hinzufügen"
+
+msgid   "Are you sure to delete this Product ?"
+msgstr  "Sind Sie sicher , um dieses Produkt zu löschen ?"
+
+msgid   "Product Name"
+msgstr  "Produktname"
+
+msgid   "Product Price"
+msgstr  "Produkt Preis"
+
+msgid   "No deal in this product."
+msgstr  "Kein Angebot, in diesem Artikel."
+
+
+
+#: Messages
+msgid   "Select member to message"
+msgstr  "Select Um die Nachricht"
+
+
+
+msgid   "Send message"
+msgstr  "Nachricht senden"
+
+msgid   "Message Reply"
+msgstr  "Nachricht senden Antworten"
+
+msgid   "Are you sure to delete this message ?"
+msgstr  "Sind Sie sicher, diese Nachricht löschen ?"
+
+
+
+#: Tickets
+msgid   "Ticket"
+msgstr  "Fahrkarte"
+
+msgid   "Ticket ID"
+msgstr  "Ticket-ID"
+
+msgid   "Subject"
+msgstr  "Gegenstand"
+
+msgid   "Submitted By"
+msgstr  "Eingereicht von"
+
+msgid   "Are you sure to delete this ticket ? All messages and files related to this ticket also deleted."
+msgstr  "Sind Sie sicher, dass Sie dieses Ticket löschen? Alle Nachrichten und Dateien auf diesem Ticket Zusammenhang ebenfalls gelöscht."
+
+msgid   "Open"
+msgstr  "Öffnen"
+
+msgid   "In Progress"
+msgstr  "Im Gange"
+
+msgid   "On Hold"
+msgstr  "In Wartestellung"
+
+msgid   "Reopened"
+msgstr  "Wiederbesiedlung"
+
+msgid   "Closed"
+msgstr  "Geschlossen"
+
+msgid   "Are you sure to delete this ticket ? All messages and files related to this ticket also deleted."
+msgstr  "Sind Sie sicher, dass Sie dieses Ticket löschen? Alle Nachrichten und Dateien auf diesem Ticket Zusammenhang ebenfalls gelöscht."
+
+msgid   "Message"
+msgstr  "Nachricht"
+
+msgid   "Add Ticket"
+msgstr  "Ticket hinzufügen"
+
+msgid   "Message Reply"
+msgstr  "Nachricht senden Antworten"
+
+msgid   "Status"
+msgstr  "Status"
+
+msgid   "Ticket Number"
+msgstr  "Ticketnummer"
+
+msgid   "Ticket Details"
+msgstr  "Ticketinfos"
+
+msgid   "Update Ticket"
+msgstr  "Update Ticket"
+
+#: Exports
+msgid   "Exports"
+msgstr  "Exporte"
+
+msgid   "Export"
+msgstr  "Export"
+
+msgid   "Export all companies"
+msgstr  "Exportieren Sie alle Unternehmen"
+
+msgid   "Export Company"
+msgstr  "Export Company"
+
+msgid   "Export all contacts"
+msgstr  "Exportieren Sie alle Kontakte"
+
+msgid   "Export Contacts"
+msgstr  "Kontakte exportieren"
+
+msgid   "Task Type"
+msgstr  "Aufgabentyp"
+
+msgid   "Export Task"
+msgstr  "Exportaufgabe"
+
+msgid   "Export Deals"
+msgstr  "Export- Deals"
+
+msgid   "All Deals"
+msgstr  "Alle Angebote"
+
+msgid   "Active Deals"
+msgstr  "aktive Angebote"
+
+#: Custom Fields
+
+msgid   "Field"
+msgstr  "Feld"
+
+msgid   "Text"
+msgstr  "Text"
+
+msgid   "Text Area"
+msgstr  "Textbereich"
+
+msgid   "Are you sure to delete this custom field ? Data related to this custom field also deleted."
+msgstr  "Sind Sie sicher , um dieses benutzerdefinierte Feld löschen? Daten zu dieser benutzerdefinierten Feld bezogen ebenfalls gelöscht."
+
+msgid   "Field Name"
+msgstr  "Feldname"
+
+msgid   "Text Field"
+msgstr  "Textfeld"
+
+msgid   "Custom Field added to old deal or contact or company"
+msgstr  "Benutzerdefinierte Feld um alte Geschäft oder Kontakt oder Firma hinzu"
+
+msgid   "Module"
+msgstr  "Modul"
+
+msgid   "Add Custom Field"
+msgstr  "Fügen Sie benutzerdefinierte Feld"
+
+#: Users
+msgid   "User"
+msgstr  "Benutzer"
+
+msgid   "Are you sure to delete this user ? All data related to this user also deleted."
+msgstr  "Sind Sie sicher, dass Sie diesen Benutzer löschen? Alle Daten zu dieser benutzerbezogenen ebenfalls gelöscht."
+
+msgid   "Role"
+msgstr  "Rolle"
+
+msgid   "Password"
+msgstr  "Passwort"
+
+msgid   "Add User"
+msgstr  "Benutzer hinzufügen"
+
+msgid   "Client"
+msgstr  "Klient"
+
+msgid   "Staff"
+msgstr  "Mitarbeiter"
+
+msgid   "Admin"
+msgstr  "Admin"
+
+#: Settings
+
+msgid   "Database Backup"
+msgstr  "Datenbank-Backup"  
+
+
+msgid   "<i class="fa fa-plus-circle fa-lg"></i> Database Backup"
+msgstr  "<i class="fa fa-plus-circle fa-lg"></i> Datenbank-Backup"
+
+msgid   "Title"
+msgstr  "Titel"
+
+msgid   "Title Text"
+msgstr  "Titel Text"
+
+msgid   "Logo"
+msgstr  "Logo"
+
+msgid   "Pipeline (Active)"
+msgstr  "Pipeline (Aktiv)"
+
+msgid   "Language"
+msgstr  "Sprache"
+
+msgid   "Currency"
+msgstr  "Währung"
+
+msgid   "Currency Symbol"
+msgstr  "Währungssymbol"
+
+msgid   "Date Format"
+msgstr  "Datumsformat"
+
+msgid   "Time Format"
+msgstr  "Zeitformat"
+
+msgid   "Time Zone"
+msgstr  "Zeitzone"
+
+msgid   "Address"
+msgstr  "Adresse"
+
+msgid   "City"
+msgstr  "Stadt"
+
+msgid   "State"
+msgstr  "Zustand"
+
+msgid   "Zip/Post Code"
+msgstr  "PLZ / Postleitzahl"
+
+msgid   "Country"
+msgstr  "Land"
+
+msgid   "Telephone"
+msgstr  "Telefon"
+
+msgid   "System Email"
+msgstr  "E-Mail -System"
+
+msgid   "Email (From Name)"
+msgstr  "E-Mail ( Absender Name )"
+
+msgid   "Ticket Type"
+msgstr  "Ticket-Typ"
+
+msgid   "Are you sure to delete this file backup ?"
+msgstr  "Sind Sie sicher, dass Sie diese Datei -Backup löschen?"
+
+msgid   "Are you sure to delete this Ticket Type ? Make Sure Ticket Type  have no active tickets.If have tickets delete that tickets before delete Ticket Type."
+msgstr  "Sind Sie sicher , diese Ticket-Typ löschen? Stellen Sie sicher, Ticket-Typ haben keine aktive tickets.If haben Tickets zu löschen , dass die Tickets vor dem Löschen Ticket-Typ ."
+
+msgid   "General"
+msgstr  "General"
+
+msgid   "Type"
+msgstr  "Art"
+
+msgid   "File Name"
+msgstr  "Dateiname"
+
+msgid   "Date Created"
+msgstr  "Datum erstellt"
+
+msgid   "System"
+msgstr  "System"
+
+msgid   "Email Settings"
+msgstr  "E-Mail -Einstellungen"
+
+msgid   "Notification"
+msgstr  "Mitteilung"
+
+msgid   "SMTP"
+msgstr  "SMTP"
+
+msgid   "SMTP Email Protocol"
+msgstr  "SMTP- E-Mail -Protokoll"
+
+msgid   "SMTP Host"
+msgstr  "SMTP -Host"
+
+msgid   "SMTP User"
+msgstr  "SMTP Benutzer"
+
+msgid   "SMTP Password"
+msgstr  "SMTP- Passwort"
+
+msgid   "SMTP Port"
+msgstr  "SMTP -Port"
+
+msgid   "Email Notification on add user to user (username & password)"
+msgstr  "E-Mail Benachrichtigung bei add Benutzer zu Benutzer ( Benutzername & Passwort)"
+
+msgid   "Email Notification on Ticket messages"
+msgstr  "E-Mail Benachrichtigung bei Ticket Nachrichten"
+
+msgid   "Email Notification on Messages"
+msgstr  "E-Mail Benachrichtigung bei Nachrichten"
+
+msgid   "On Local Host Please set SMTP to work notification and application."
+msgstr  "Auf Local Host Bitte stellen Sie SMTP , die Melde- und Anwendung arbeiten."
+
+
+
+#: Deal View
+
+msgid   "Uploaded By"
+msgstr  "hochgeladen von"
+
+msgid   "Files"
+msgstr  "Dateien"
+
+msgid   "Members"
+msgstr  "Mitglieder"
+
+msgid   "Notes"
+msgstr  "Hinweise"
+
+msgid   "Description"
+msgstr  "Beschreibung"
+
+msgid   "Are you sure to delete ?"
+msgstr  "Sind Sie sicher, dass Sie löschen?"
+
+msgid   "Are you sure to make deal won ?"
+msgstr  "Sind Sie sicher, dass Sie viel gewonnen zu machen?"
+
+msgid   "Are you sure to make deal loss ?"
+msgstr  "Sind Sie sicher, dass Sie viel Verlust zu machen?"
+
+msgid   "Are you sure to delete this deal? All the data related to this deal also deleted like task, notes, files, discussion."
+msgstr  "Sind Sie sicher, um dieses Abkommen zu löschen? Alle Daten zu diesem Angebot, bezogen auch gefallen Aufgabe , Notizen, Dateien , die Diskussion gelöscht."
+
+msgid   "Change Pipeline"
+msgstr  "ändern Pipeline"
+
+msgid   "General"
+msgstr  "General"
+
+
+msgid   "Notes (Private)"
+msgstr  "Anmerkungen (Private)"
+
+msgid   "Members"
+msgstr  "Mitglieder"
+
+
+msgid   "Delete"
+msgstr  "Löschen"
+
+msgid   "Post Reply"
+msgstr  "Briefantwort"
+
+msgid   "Message Reply"
+msgstr  "Nachricht senden Antworten"
+
+msgid   "Reply"
+msgstr  "Antworten"
+
+msgid   "Send message"
+msgstr  "Nachricht senden"
+
+msgid   "Message"
+msgstr  "Nachricht"
+
+msgid   "New Message"
+msgstr  "Neue Nachricht"
+
+msgid   "Low Priority"
+msgstr  "Geringe Priorität"
+
+msgid   "Medium Priority"
+msgstr  "Mittlere Priorität"
+
+msgid   "High Priority"
+msgstr  "Hohe Priorität"
+
+msgid   "No Task Added in Deal, Add new task."
+msgstr  "Keine Aufgabe Hinzugefügt in Deal , Neue Aufgabe hinzufügen ."
+
+msgid   "No Source Added in Deal, Search Source to Add."
+msgstr  "Nein Quelle Hinzugefügt in Deal , nach Quelle auf Hinzufügen."
+
+msgid   "Delete Source"
+msgstr  "Quelle löschen"
+
+msgid   "Quantity"
+msgstr  "Menge"
+
+msgid   "Discount"
+msgstr  "Rabatt"
+
+msgid   "Sum"
+msgstr  "Summe"
+
+msgid   "Delete Product"
+msgstr  "Artikel löschen"
+
+msgid   "No Product Added in Deal, Search Product to Add."
+msgstr  "Kein Produkt hinzugefügt in Deal , Produkt suchen , um hinzufügen."
+
+msgid   "Search Product"
+msgstr  "Produkt suchen"
+
+msgid   "Search Source"
+msgstr  "Suche nach Quelle"
+
+msgid   "Search Members"
+msgstr  "Benutzer suchen"
+
+msgid   "Delete Memeber"
+msgstr  "Memeber löschen"
+
+msgid   "Search Contact"
+msgstr  "Suche Kontakt"
+
+msgid   "Delete Contact"
+msgstr  "Kontakt löschen"
+
+msgid   "No Contact Added in Deal, Search Contact to Add."
+msgstr  "Kein Kontakt Hinzugefügt in Deal , Suche Kontakt zu hinzufügen."
+
+msgid   "No Task added"
+msgstr  "Keine Aufgabe hinzugefügt"
+
+msgid   "Search Deals"
+msgstr  "Suche Angebote"
+
+msgid   "Deal Details"
+msgstr  "Angebot Details"
+
+msgid   "Add Deal"
+msgstr  "Deal hinzufügen"
+
+msgid   "Deal Name"
+msgstr  "Deal -Name"
+
+msgid   "Deal Price"
+msgstr  "Deal Preis"
+
+msgid   "Deal Details"
+msgstr  "Angebot Details"
+
+msgid   "Won Deals"
+msgstr  "Gewonnene Angebote"
+
+msgid   "Lost Deals"
+msgstr  "verlorene Deals"
+
+msgid   "Later Tasks"
+msgstr  "später Aufgaben"
+
+msgid   "Delete Discussion"
+msgstr  "Diskussion löschen"
+
+msgid   "created the Deal"
+msgstr  "schuf die Deal"
+
+msgid   "Added the contact"
+msgstr  "Hinzugefügt wurde die Kontakt"
+
+msgid   "Delete the contact"
+msgstr  "Löschen Sie die Kontakt"
+
+msgid   "Added the Product"
+msgstr  "Hinzugefügt wurde die Produkt"
+
+msgid   "Updated the Product"
+msgstr  "Aktualisiert das Produkt"
+
+msgid   "Delete the Product"
+msgstr  "Löschen Sie das Produkt"
+
+msgid   "Added the Source"
+msgstr  "Fügte die Quelle hinzu"
+
+msgid   "Delete the Source"
+msgstr  "Löschen Sie die Quelle"
+
+msgid   "Added the File"
+msgstr  "Hinzugefügt wurde die Datei"
+
+msgid   "Delete the File"
+msgstr  "Löschen Sie die Datei"
+
+msgid   "Added the comment"
+msgstr  "Hinzugefügt Kommentar"
+
+msgid   "Delete the comment"
+msgstr  "Den Kommentar zu löschen"
+
+msgid   "Added the Task"
+msgstr  "Hinzugefügt wurde die Task-"
+
+msgid   "Updated the Task"
+msgstr  "Aktualisiert die Arbeitsgruppe"
+
+msgid   "Delete the Task"
+msgstr  "Löschen Sie den Task-"
+
+msgid   "Appoint the User"
+msgstr  "Ernennt den Benutzer"
+
+msgid   "Unappoint the User"
+msgstr  "Unappoint die Benutzer"
+
+msgid   "Change Deal Price from"
+msgstr  "Ändern Deal Preis ab"
+
+msgid   "Change Deal Name from"
+msgstr  "Ändern Deal Name von"
+
+msgid   "Change Deal Pipeline from"
+msgstr  "Ändern Deal Pipeline aus"
+
+msgid   "Change Deal Stage from"
+msgstr  "Ändern Deal Bühne aus"
+
+msgid   "Won the deal"
+msgstr  "Den Deal gewonnen"
+
+msgid   "Loss the deal"
+msgstr  "Verlust der Deal"
+
+msgid   "Active again deal"
+msgstr  "Wieder aktiv umzugehen"
+
+#: Admin
+
+msgid   "All Labels"
+msgstr  "Alle Labels"
+
+msgid   "Select Pipeline"
+msgstr  "Wählen Pipeline"
+
+#: Login
+
+msgid   "Email Address"
+msgstr  "E-Mail-Addresse"
+
+msgid   "Login"
+msgstr  "Einloggen"
+
+msgid   "Forgot password?"
+msgstr  "Passwort vergessen?"
+
+msgid   "Reset password"
+msgstr  "Passwort zurücksetzen"
+
+msgid   "Forgot your password?"
+msgstr  "Haben Sie Ihr Passwort vergessen?"
+
+msgid   "Enter your email address to recover your password."
+msgstr  "Geben Sie einfach Ihre E-Mail Adresse , um Ihr Passwort zu erholen."
+
+msgid   "Back to login"
+msgstr  "Zurück zum Login"
+
+msgid   "Invalid username or password"
+msgstr  "ungültiger Benutzername oder Passwort"
+
+msgid   "Inactive Account,contact admin"
+msgstr  "Inaktive Konten , Kontakt Admin"
+
+msgid   "Calendar"
+msgstr  "Kalender"
+
+#: Language
+
+msgid   "Chinese"
+msgstr  "中文"
+
+msgid   "Dutch"
+msgstr  "niederländisch"
+
+msgid   "English"
+msgstr  "Englisch"
+
+msgid   "French"
+msgstr  "Französisch"
+
+msgid   "German"
+msgstr  "Deutsche"
+
+msgid   "Italian"
+msgstr  "Italienisch"
+
+msgid   "Polish"
+msgstr  "Polieren"
+
+msgid   "Portuguese"
+msgstr  "Portugiesisch"
+
+msgid   "Romanian"
+msgstr  "rumänisch"
+
+msgid   "Russians"
+msgstr  "Russen"
+
+msgid   "Spanish"
+msgstr  "Spanisch"
+
+msgid   " System Settings"
+msgstr  "Systemeinstellungen"
+
+msgid   " Company Details"
+msgstr  "Firmendetails"
+
+msgid   " Roles"
+msgstr  "Rollen"
+
+msgid   "Admin Role"
+msgstr  "Admin-Rolle"
+
+msgid   "Reason"
+msgstr  "Grund"
+
+msgid   "Add Task"
+msgstr  "Aufgabe hinzufügen"
+
+msgid   "Category"
+msgstr  "Kategorie"
+
+msgid   "Assign"
+msgstr  "Zuordnen"
+
+msgid   "Note"
+msgstr  "Hinweis"
+
+msgid   "Close"
+msgstr  "Schließen"
+
+msgid   "Yet to Start"
+msgstr  "Noch zum Star"
+
+msgid   "Completed"
+msgstr  "Abgeschlossen"
+
+
+msgid   "Missed"
+msgstr  "Verpasst"
+
+msgid   "Tommorow"
+msgstr  "Morgen"
+
+msgid   "Later"
+msgstr  "Später"
+
+msgid   "Select Deal"
+msgstr  "Wählen Sie Deal aus"
+
+
+msgid   "Create Event"
+msgstr  "Ereignis erstellen"
+
+msgid   "month"
+msgstr  "Monat"
+
+msgid   "week"
+msgstr  "Woche"
+
+msgid   "day"
+msgstr  "Tag"
+
+msgid   "Start Date"
+msgstr  "Anfangsdatum"
+
+msgid   "End Date"
+msgstr  "Endtermin"
+
+msgid   "Public"
+msgstr  "Öffentlichkeit"
+
+msgid   "Private"
+msgstr  "Privatgelände"
+
+msgid   "Group"
+msgstr  "Gruppe"
+
+msgid   "Select Group"
+msgstr  "Wähle die Gruppe"
+
+msgid   "Active"
+msgstr  "Aktiv"
+
+msgid   "Sales"
+msgstr  "Der Umsatz"
+
+msgid   "Invoices"
+msgstr  "Rechnungen"
+
+msgid   "Issue Date"
+msgstr  "Ausgabedatum"
+
+msgid   "Due Date"
+msgstr  "Geburtstermin"
+
+msgid   "Add Invoice"
+msgstr  "Rechnung hinzufügen"
+
+msgid   "REFERENCE ID*"
+msgstr  "REFERENZ ID*"
+
+msgid   "Tax (%)"
+msgstr  "MwSt (%)"
+
+msgid   "DISCOUNT"
+msgstr  "RABATT"
+
+msgid   "TERMS"
+msgstr  "TERMS"
+
+msgid   "Select Client"
+msgstr  "Wählen Sie Client aus"
+
+msgid   "Paid"
+msgstr  "Bezahlt"
+
+msgid   "Not Paid"
+msgstr  "Nicht bezahlt"
+
+msgid   "Edit"
+msgstr  "Bearbeiten"
+
+msgid   "Add Payment"
+msgstr  "Zahlung hinzufügen"
+
+msgid   "Preview"
+msgstr  "Vorschau"
+
+msgid   "Invoice no."
+msgstr  "Rechnungsnr."
+
+msgid   "Invoice date"
+msgstr  "Rechnungsdatum"
+
+msgid   "Subtotal"
+msgstr  "Zwischensumme"
+
+msgid   "Tax (0.00%)"
+msgstr  "MwSt (0.00%)"
+
+msgid   "Total"
+msgstr  "Gesamt"
+
+msgid   "Balance Due"
+msgstr  "Saldo fällig"
+
+msgid   "Payments"
+msgstr  "Zahlungen"
+
+msgid   "Transaction ID"
+msgstr  "Transaktions-ID"
+
+msgid   "Payment Date"
+msgstr  "Zahlungsdatum"
+
+msgid   "Payment Method"
+msgstr  "Zahlungsmethode"
+
+msgid   "Amount"
+msgstr  "Menge"
+
+msgid   "Edit Invoice"
+msgstr  "Rechnung bearbeiten"
+
+msgid   "Partialy Paid"
+msgstr  "Teilweise bezahlt"
+
+msgid   "Cancelled"
+msgstr  "Abgebrochen"
+
+msgid   "Expenses"
+msgstr  "Kosten"
+
+msgid   "Add Expense"
+msgstr  "Kosten hinzufügen"
+
+msgid   "Member"
+msgstr  "Mitglied"
+
+msgid   "Select Member"
+msgstr  "Mitglied auswählen"
+
+msgid   "Attachment"
+msgstr  "Befestigung"
+
+msgid   "Payment ID"
+msgstr  "Zahlungs-ID"
+
+msgid   "Tax Rates"
+msgstr  "Steuersätze"
+
+msgid   "Percentage %"
+msgstr  "Prozentsatz %"
+
+msgid   "Add Tax Rate"
+msgstr  "Steuersatz hinzufügen"
+
+msgid   "Tax Rate Name"
+msgstr  "Steuersatz Name"
+
+msgid   "Tax Rate%"
+msgstr  "Steuersatz%"
+
+msgid   "Clients"
+msgstr  "Kunden"
+
+msgid   "Import Company"
+msgstr  "Importunternehmen"
+
+msgid   "CONTACTS"
+msgstr  "KONTAKTE"
+
+msgid   "INVOICES"
+msgstr  "RECHNUNGEN"
+
+msgid   "DEALS"
+msgstr  "ANGEBOTE"
+
+msgid   "Assign Group"
+msgstr  "Gruppe zuweisen"
+
+msgid   "Add Client"
+msgstr  "Client hinzufügen"
+
+msgid   "Edit Company"
+msgstr  "Firma bearbeiten"
+
+msgid   "Company description"
+msgstr  "Firmen Beschreibung"
+
+msgid   "Groups:"
+msgstr  "Gruppen:"
+
+msgid   "Import Contact"
+msgstr  "Kontakt importieren"
+
+msgid   "Contact description "
+msgstr  "Kontaktbeschreibung"
+
+msgid   "Reports"
+msgstr  "Berichte"
+
+msgid   "More"
+msgstr  "Mehr"
+
+msgid   "In Pipeline"
+msgstr  "In der Pipeline"
+
+msgid   "All Department"
+msgstr  "Alle Abteilung "
+
+msgid   "All Status"
+msgstr  "Alle Status"
+
+msgid   "Change Status"
+msgstr  "Status ändern"
+
+msgid   "Change Type"
+msgstr  "Typ ändern"
+
+msgid   "Assign to"
+msgstr  "Zuweisen"
+
+msgid   "From"
+msgstr  "Von"
+
+msgid   "Announcements"
+msgstr  "Ankündigungen"
+
+msgid   "Created By"
+msgstr  "Erstellt von"
+
+msgid   "Add Announcement"
+msgstr  "Ankündigung hinzufügen"
+
+msgid   "Share With"
+msgstr  "Teilen mit"
+
+msgid   "Team Members"
+msgstr  "Teammitglieder"
+
+msgid   "Team Members & Clients"
+msgstr  "Teammitglieder & Kunden"
+
+msgid   "Admins"
+msgstr  "Admins"
+
+msgid   "Add Admin"
+msgstr  "Admin hinzufügen"
+
+msgid   "Select Role"
+msgstr  "Rolle auswählen"
+
+msgid   "Inactive"
+msgstr  "Inaktiv"
+
+msgid   "Group Managers"
+msgstr  "Group Managers"
+
+msgid   "Personal"
+msgstr  "Personal"
+
+msgid   "Managers"
+msgstr  "Manager"
+
+msgid   "Add Manager"
+msgstr  "Manager hinzufügen"
+
+msgid   "Add Team Member"
+msgstr  "Teammitglied hinzufügen"
+
+msgid   "Add Staff"
+msgstr  "Staff hinzufügen"
+
+msgid   "Male"
+msgstr  "Männlich"
+
+msgid   "Female"
+msgstr  "Weiblich"
+
+msgid   "Add Group"
+msgstr  "Gruppe hinzufügen"
+
+msgid   "Groups"
+msgstr  "Gruppen"
+
+msgid   " View Members"
+msgstr  "Mitglieder anzeigen"
+
+msgid   " Groups"
+msgstr  " Los grupos"
+
+msgid   " Payment Methods"
+msgstr  "Zahlungsarten"
+
+msgid   " Expenses Category"
+msgstr  "Ausgabenkategorie"
+
+msgid   " Add Admin Role"
+msgstr  "Admin-Rolle hinzufügen"
+
+msgid   "Add Staff Role"
+msgstr  "Personalrolle hinzufügen"
+
+msgid   "Update Permission"
+msgstr  "Erlaubnis aktualisieren"
+
+msgid   "Staff Role"
+msgstr  "Rolle des Personals"
+
+msgid   "View"
+msgstr  "Aussicht"
+
+msgid   "Add"
+msgstr  "Añadir"
+
+msgid   "Module Permission"
+msgstr  "Modulgenehmigung"
+
+msgid   " Ticket Departments"
+msgstr  "Ticketabteilungen"
+
+msgid   "Add Department"
+msgstr  "Abteilung hinzufügen"
+
+msgid   "Add Ticket Department"
+msgstr  "Ticketabteilung hinzufügen"
+
+msgid   "Add Payment Method"
+msgstr  "Zahlungsmethode hinzufügen"
+
+msgid   "Add Expense Category"
+msgstr  "Ausgabenkategorie hinzufügen"
+
+msgid   "Update Announcement"
+msgstr  "Ankündigung aktualisieren"
+
+
+
+

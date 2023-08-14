@@ -1,0 +1,148 @@
+.invoice-preview{
+    max-width: 900px; 
+    margin: 0px auto;
+    background:#fff !important;
+    margin-top: 15px;
+    padding: 30px;
+}
+.invoice-preview table{
+   width: 100%; 
+   color: #444;
+}
+.invoice-pdf {
+ max-width: 1000px; 
+ margin: 0px auto;
+ background:#fff !important;
+ margin-top: 15px;
+ padding: 30px;   
+}
+.invoice-pdf table{
+   width: 100%; 
+   color: #444;
+}
+.invoice-div {
+    max-width: 1000px; 
+    margin: auto; 
+    color: #444;
+}
+.invoice-right{
+    text-align: right;
+}
+.invoice-span{
+    font-size: 90%; 
+    color: #666;
+}
+.h5{
+   line-height: 5px; 
+}
+.h10{
+   line-height: 10px; 
+}
+.h20{
+   line-height: 20px; 
+}
+.h25{
+   line-height: 25px; 
+}
+.mt5{
+   margin-top: 5px; 
+}
+.mt15{
+   margin-top: 15px; 
+}
+.tt tr th {
+    padding: 8px;
+}
+.tt tr td {
+    padding: 10px;
+}
+.w50 {
+    width: 50%;
+}
+.w10 {
+    width: 10%;
+}
+.w30 {
+    width: 30%;
+}
+.w70 {
+    width: 70%;
+}
+.invoice-qty{
+    text-align: center;  
+    width: 15%; 
+    border-right: 1px solid #eee;
+}
+.invoice-products {
+    
+}
+.invoice-id{
+    color:#1ab394;
+}
+.header-right{
+    text-align: right; 
+    line-height: 23px;
+}
+.invoice-comp {
+    border-bottom: 1px solid #f2f2f2; 
+    line-height:1px;
+}
+.invoice-item {
+    width: 50%; 
+    border-right: 1px solid #eee; 
+    text-align:left; 
+}
+.invoice-total {
+    text-align: right;  
+    width: 20%;
+}
+.product-bck {
+    background-color: #f4f4f4;
+}
+.product-name {
+    width: 50%; 
+    border: 1px solid #fff; 
+    padding: 10px;
+}
+.product-qty {
+    text-align: center; 
+    width: 15%; 
+    border: 1px solid #fff;
+}
+.product-desc {
+    color: #888; 
+    font-size: 90%;
+}
+.invoice-price{
+   text-align: right; 
+   width: 15%; 
+   border: 1px solid #fff;
+}
+.product-total {
+    text-align: right; 
+    width: 20%; 
+    border: 1px solid #fff;
+}
+.product-header {
+    font-weight: bold; 
+    background-color: #1ab394; 
+    color: #fff;
+}
+.invoice-cr { 
+    text-align: right; 
+    width: 20%; 
+    border: 1px solid #fff; 
+    background-color: #f4f4f4;
+}
+.invoice-due {
+    text-align: right; 
+    width: 20%; 
+    background-color: #1ab394; 
+    color: #fff;
+}
+.invoice-note {
+   border-top: 2px solid #f2f2f2; color:#444; 
+}
+.invoice-bill {
+    border-bottom: 1px solid #f2f2f2; margin-bottom: 5px;
+}

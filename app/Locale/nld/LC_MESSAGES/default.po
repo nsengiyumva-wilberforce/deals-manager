@@ -1,0 +1,1690 @@
+# @author:   AnkkSoft.com
+# Copyright: AnkkSoft 2020
+# Website:   https://www.ankksoft.com
+# CodeCanyon User:  https://codecanyon.net/user/codeloop 
+
+#: Sidebar
+
+msgid   "Dashboard"
+msgstr  "Dashboard"
+
+msgid   "Deals"
+msgstr  "aanbiedingen"
+
+msgid   "List Deals"
+msgstr  "lijst aanbiedingen"
+
+msgid   "Won Deals"
+msgstr  "won Aanbiedingen"
+
+msgid   "Loss Deals"
+msgstr  "verlies Aanbiedingen"
+
+msgid   "Tasks"
+msgstr  "taken"
+
+msgid   "Task"
+msgstr  "Taak"
+
+msgid   "All Task"
+msgstr  "alle Task"
+
+msgid   "Contacts"
+msgstr  "Contacten"
+
+msgid   "Companies"
+msgstr  "bedrijven"
+
+
+msgid   "Pipeline"
+msgstr  "Pijpleiding"
+
+msgid   "Stages"
+msgstr  "stadia"
+
+msgid   "Labels"
+msgstr  "etiketten"
+
+msgid   "Activity"
+msgstr  "Activiteit"
+
+msgid   "Number of Active Deals"
+msgstr  "Aantal actieve aanbiedingen"
+
+msgid   "Sources"
+msgstr  "bronnen"
+
+msgid   "Products"
+msgstr  "producten"
+
+msgid   "Messages"
+msgstr  "berichten"
+
+msgid   "Tickets"
+msgstr  "tickets"
+
+msgid   "Exports"
+msgstr  "export"
+
+msgid   "Custom Fields"
+msgstr  "aangepaste velden"
+
+msgid   "Users"
+msgstr  "gebruikers"
+
+msgid   "Settings"
+msgstr  "instellingen"
+
+#: Common
+msgid   "Name"
+msgstr  "Naam"
+
+msgid   "Price"
+msgstr  "Prijs"
+
+msgid   "Created"
+msgstr  "gemaakt"
+
+msgid   "Create"
+msgstr  "creëren"
+
+msgid   "Filter"
+msgstr  "Filter"
+
+msgid   "Yes"
+msgstr  "Ja"
+
+msgid   "No"
+msgstr  "Nee"
+
+msgid   "Date Range"
+msgstr  "Datumbereik"
+
+msgid   "Email"
+msgstr  "e-mail"
+
+msgid   "Previous"
+msgstr  "vorig"
+
+msgid   "First"
+msgstr  "Eerste"
+
+msgid   "Next"
+msgstr  "volgende"
+
+msgid   "Last"
+msgstr  "Laatste"
+
+msgid   "Page"
+msgstr  "Pagina"
+
+msgid   "of"
+msgstr  "van"
+
+msgid   "Value"
+msgstr  "Waarde"
+
+msgid   "at"
+msgstr  "op"
+
+msgid   "Active Again"
+msgstr  "actieve opnieuw"
+
+msgid   "By"
+msgstr  "Door"
+
+msgid   "Save Changes"
+msgstr  "Wijzigingen opslaan"
+
+msgid   "Loading"
+msgstr  "het laden"
+
+msgid   "Load More"
+msgstr  "Meer laden"
+
+msgid   "Confirmation"
+msgstr  "Bevestiging"
+
+msgid   "Basic Details"
+msgstr  "Basis Details"
+
+msgid   "Save"
+msgstr  "Save"
+
+msgid   "Request has been completed."
+msgstr  "Verzoek is voltooid ."
+
+msgid   "Request has been not completed."
+msgstr  "Verzoek is niet voltooid ."
+
+#: Header
+
+msgid   "Logout"
+msgstr  "Uitloggen"
+
+#: Profile
+
+msgid   "Profile"
+msgstr  "Profiel"
+
+msgid   "Picture"
+msgstr  "afbeelding"
+
+msgid   "Edit Profile"
+msgstr  "Bewerk profiel"
+
+msgid   "Change Password"
+msgstr  "Verander wachtwoord"
+
+msgid   "Permission"
+msgstr  "Toestemming"
+
+msgid   "Save Picture"
+msgstr  "Afbeelding opslaan"
+
+msgid   "First Name"
+msgstr  "Voornaam"
+
+msgid   "Last Name"
+msgstr  "Achternaam"
+
+msgid   "About"
+msgstr  "Over"
+
+msgid   "Mobile Number"
+msgstr  "Mobiel nummer"
+
+msgid   "Gender"
+msgstr  "Geslacht"
+
+msgid   "Location"
+msgstr  "ligging"
+
+msgid   "Web Page"
+msgstr  "Webpagina"
+
+msgid   "New Password"
+msgstr  "Nieuw Wachtwoord"
+
+msgid   "Re-type New Password"
+msgstr  "Re -type Nieuw wachtwoord"
+
+msgid   "Change Password"
+msgstr  "Verander wachtwoord"
+
+msgid   "Role"
+msgstr  "Rol"
+
+msgid   "Status"
+msgstr  "toestand"
+
+msgid   "Member since"
+msgstr  "Lid sinds"
+
+#: Task
+
+msgid   "My Task"
+msgstr  "mijn taak"
+
+msgid   "Overdue Tasks"
+msgstr  "achterstallige Taken"
+
+msgid   "Today"
+msgstr  "Vandaag"
+
+msgid   "Later Tasks"
+msgstr  "later Taken"
+
+msgid   "Appointment"
+msgstr  "Afspraak"
+
+msgid   "Call"
+msgstr  "telefoontje"
+
+msgid   "Consultancy"
+msgstr  "Consultancy"
+
+msgid   "Quote"
+msgstr  "Citaat"
+
+msgid   "Invoice"
+msgstr  "Factuur"
+
+msgid   "Other"
+msgstr  "ander"
+
+msgid   "Overdue Tasks"
+msgstr  "achterstallige Taken"
+
+msgid   "Today"
+msgstr  "Vandaag"
+
+msgid   "All Pipeline"
+msgstr  "alle Pipeline"
+
+msgid   "All"
+msgstr  "Alle"
+
+
+msgid   "Are u sure to delete this task ?"
+msgstr  "Bent u zeker om deze taak te verwijderen?"
+
+msgid   "Update Task"
+msgstr  "bijwerken Task"
+
+msgid   "Assign To"
+msgstr  "Toewijzen"
+
+msgid   "Priority"
+msgstr  "Prioriteit"
+
+msgid   "Date"
+msgstr  "Datum"
+
+msgid   "Time"
+msgstr  "Tijd"
+
+
+
+
+#: Deal
+
+msgid   "Are you sure to delete this Deal ? All the data related to this deal also deleted like task, notes, files, discussion."
+msgstr  "Weet je zeker dat deze Deal verwijderen? Alle gegevens met betrekking tot deze deal ook verwijderd als taak , notities , bestanden discussie."
+
+msgid   "Deal"
+msgstr  "transactie"
+
+#: Contact
+
+msgid   "Contact"
+msgstr  "Contact"
+
+msgid   "Are you sure to delete this contact ?"
+msgstr  "Weet u zeker dat u dit contact wilt verwijderen?"
+
+msgid   "Add Contact"
+msgstr  "Contactpersoon toevoegen"
+
+msgid   "Contact Name"
+msgstr  "contactnaam"
+
+msgid   "Select Company"
+msgstr  "Selecteer Company"
+
+msgid   "Job Title"
+msgstr  "Beroep"
+
+msgid   "No deal in this contact"
+msgstr  "Geen deal in dit contact"
+
+msgid   "Skype"
+msgstr  "Skype"
+
+msgid   "LinkedIn"
+msgstr  "LinkedIn"
+
+msgid   "Twitter"
+msgstr  "tjilpen"
+
+msgid   "Facebook"
+msgstr  "Facebook"
+
+msgid   "Social"
+msgstr  "sociaal"
+
+msgid   "Change"
+msgstr  "Verandering"
+
+msgid   "Remove"
+msgstr  "Verwijderen"
+
+msgid   "Select image"
+msgstr  "Selecteer afbeelding"
+
+
+#: Company
+
+msgid   "Company"
+msgstr  "Bedrijf"
+
+
+msgid   "Phone"
+msgstr  "Telefoon"
+
+msgid   "Are you sure to delete this company ?"
+msgstr  "Weet u zeker dat dit bedrijf te verwijderen ?"
+
+msgid   "Address"
+msgstr  "Adres"
+
+msgid   "Website"
+msgstr  "Website"
+
+msgid   "Permission"
+msgstr  "Toestemming"
+
+msgid   "Default Active"
+msgstr  "standaard Actieve"
+
+msgid   "Company Website"
+msgstr  "Bedrijfswebsite"
+
+msgid   "Company Address"
+msgstr  "bedrijfsadres"
+
+msgid   "Company Email"
+msgstr  "bedrijf E-mail"
+
+msgid   "Company Phone"
+msgstr  "bedrijf Telefoon"
+
+msgid   "Company Name"
+msgstr  "Bedrijfsnaam"
+
+msgid   "Add Company"
+msgstr  "Company voegen"
+
+msgid   "No Contacts in Company"
+msgstr  "Geen Contactpersonen in Company"
+
+#: Pipeline
+
+msgid   "Are you sure to delete this Pipeline ? Make Sure Pipeline have no active deal.If have active deal move or delete that deals before delete pipeline."
+msgstr  "Weet u zeker dat dit Pipeline verwijderen? Zorg ervoor dat de pijpleiding hebben geen actieve deal.If hebben actief deal verplaatsen of verwijderen die aanbiedingen voor pijpleidingen te verwijderen ."
+
+msgid   "Add Pipeline"
+msgstr  "Voeg Pipeline"
+
+msgid   "To"
+msgstr  "naar"
+
+msgid   "Pipeline Name"
+msgstr  "pipeline Naam"
+
+
+
+#: Stages
+
+msgid   "Stage"
+msgstr  "Stadium"
+
+msgid   "Select Pipeline for Stages"
+msgstr  "Selecteer Pipeline voor Stages"
+
+msgid   "Add Stage"
+msgstr  "Voeg Stage"
+
+msgid   "Stage Name"
+msgstr  "Artiestennaam"
+
+msgid   "Are you sure to delete this Stage ? Make sure stage have no active deal.If have active deal move or delete that deals before delete this stage."
+msgstr  "Weet u zeker dat dit Stage verwijderen? Zorg ervoor dat stadium geen actieve deal.If hebben actief deal verplaatsen of verwijderen die deals voordat verwijderen deze fase ."
+
+
+
+#: Labels
+
+msgid   "Label"
+msgstr  "Label"
+
+msgid   "Select Pipeline to Label"
+msgstr  "Selecteer Pipeline naar Label"
+
+msgid   "Are you sure to delete this label ? Assign this label to deals also delete."
+msgstr  "Weet u zeker dat dit label verwijderen? Wijs dit label om deals ook verwijderen."
+
+msgid   "Label Name"
+msgstr  "label Naam"
+
+msgid   "Add Label"
+msgstr  "Label toevoegen"
+
+msgid   "Color"
+msgstr  "Kleur"
+
+msgid   "Black"
+msgstr  "Zwart"
+
+msgid   "Blue"
+msgstr  "Blauw"
+
+msgid   "Green"
+msgstr  "Groen"
+
+msgid   "Gray"
+msgstr  "Grijs"
+
+msgid   "Red"
+msgstr  "Rood"
+
+msgid   "Yellow"
+msgstr  "Geel"
+
+msgid   "Pink"
+msgstr  "Roze"
+
+msgid   "Orange"
+msgstr  "Oranje"
+
+msgid   "Gold"
+msgstr  "Goud"
+
+
+
+
+
+#: Activity
+
+msgid   "Information"
+msgstr  "Informatie"
+
+msgid   "Are you sure to delete this activity ?"
+msgstr  "Weet u zeker dat u deze activiteit wilt verwijderen?"
+
+msgid   "Activity"
+msgstr  "Activiteit"
+
+msgid   "All Pipeline"
+msgstr  "alle Pipeline"
+
+msgid   "All User"
+msgstr  "alle Gebruiker"
+
+msgid   "All Activity"
+msgstr  "alle Activiteit"
+
+msgid   "Created Deal"
+msgstr  "gemaakt Deal"
+
+msgid   "Deleted Deal"
+msgstr  "verwijderde Deal"
+
+msgid   "Stage changed"
+msgstr  "Stage veranderd"
+
+msgid   "Pipeline changed"
+msgstr  "pipeline veranderd"
+
+msgid   "Mark deal as won"
+msgstr  "Mark deal gewonnen"
+
+msgid   "Mark deal as loss"
+msgstr  "Mark deal als verlies"
+
+msgid   "Again Active deal from won/loss"
+msgstr  "Weer actief deal uit gewonnen / verlies"
+
+msgid   "Added Task"
+msgstr  "Toegevoegd Task"
+
+msgid   "Updated Task"
+msgstr  "bijgewerkt Task"
+
+msgid   "Deleted Task"
+msgstr  "Verwijderde Task"
+
+msgid   "Added Source to deal"
+msgstr  "Toegevoegd Source omgaan"
+
+msgid   "Deleted Source from deal"
+msgstr  "Verwijderd Bron van deal"
+
+msgid   "Added contact to deal"
+msgstr  "Toegevoegd contact te maken"
+
+msgid   "Deleted contact from deal"
+msgstr  "Verwijderde contactpersoon van deal"
+
+msgid   "Apointed user to deal"
+msgstr  "Apointed gebruiker omgaan"
+
+msgid   "Unpointed user from deal"
+msgstr  "Ongepunt gebruiker van deal"
+
+msgid   "Commented on deal"
+msgstr  "Commentaar op deal"
+
+msgid   "Deleted the comment"
+msgstr  "Verwijderde de reactie"
+
+msgid   "Added Product to deal"
+msgstr  "Product toegevoegd omgaan"
+
+msgid   "Updated Product in deal"
+msgstr  "Geactualiseerd Product deal"
+
+msgid   "Deleted Product from deal"
+msgstr  "Verwijderde productie van de deal"
+
+msgid   "Uploaded File in deal"
+msgstr  "Geüploade bestand in deal"
+
+msgid   "Deleted File from deal"
+msgstr  "Deleted File van deal"
+
+msgid   "Deal Created"
+msgstr  "deal Gemaakt"
+
+msgid   "Deal Stage Changed"
+msgstr  "Deal Stage Changed"
+
+msgid   "Deal Price Changed"
+msgstr  "Deal Prijs Changed"
+
+msgid   "Deal Pipeline Changed"
+msgstr  "Deal Pipeline Changed"
+
+msgid   "Deal Won"
+msgstr  "deal Gewonnen"
+
+msgid   "Deal Lost"
+msgstr  "deal Lost"
+
+msgid   "Deal Deleted"
+msgstr  "deal Deleted"
+
+msgid   "Appoint User"
+msgstr  "benoemen Gebruiker"
+
+msgid   "Unappoint User"
+msgstr  "Unappoint Gebruiker"
+
+msgid   "Deal Reactive"
+msgstr  "deal Reactief"
+
+msgid   "Task Created"
+msgstr  "taak Gemaakt"
+
+msgid   "Task Updated"
+msgstr  "taak Bijgewerkt"
+
+msgid   "Task Deleted"
+msgstr  "taak Deleted"
+
+msgid   "File Added"
+msgstr  "File Toegevoegd"
+
+msgid   "File Removed"
+msgstr  "bestand verwijderd"
+
+msgid   "Comment Added"
+msgstr  "reactie toegevoegd"
+
+msgid   "Comment Deleted"
+msgstr  "commentaar verwijderd"
+
+msgid   "Contact Added"
+msgstr  "Contact Toegevoegd"
+
+msgid   "Contact Removed"
+msgstr  "Contact verwijderd"
+
+msgid   "Product Added"
+msgstr  "product toegevoegd"
+
+msgid   "Product Updated"
+msgstr  "product Bijgewerkt"
+
+msgid   "Product Removed"
+msgstr  "product verwijderd"
+
+msgid   "Source Added"
+msgstr  "bron Toegevoegd"
+
+msgid   "Source Removed"
+msgstr  "bron verwijderd"
+
+
+#: Report
+
+msgid   "Active deal calculated according to date deal created."
+msgstr  "Actieve deal berekend op basis van datum deal gemaakt ."
+
+msgid   "Number of Active Deals"
+msgstr  "Aantal actieve aanbiedingen"
+
+msgid   "Won Deals"
+msgstr  "won Aanbiedingen"
+
+msgid   "Lost Deals"
+msgstr  "verloren Aanbiedingen"
+
+msgid   "Price of Active Deals"
+msgstr  "Prijs van Active aanbiedingen"
+
+msgid   "Price of Won Deals"
+msgstr  "Prijs van Won aanbiedingen"
+
+msgid   "Price of Loss Deals"
+msgstr  "De prijs van het Verlies aanbiedingen"
+
+msgid   "All Products"
+msgstr  "Alle producten"
+
+msgid   "All Sources"
+msgstr  "alle bronnen"
+
+msgid   "Report"
+msgstr  "Rapport"
+
+msgid   "All Users"
+msgstr  "Alle gebruikers"
+
+msgid   "Number of Won Deals"
+msgstr  "Aantal Won aanbiedingen"
+
+msgid   "Number of Lost Deals"
+msgstr  "Aantal Lost aanbiedingen"
+
+
+
+#: Source
+msgid   "Source"
+msgstr  "Bron"
+
+msgid   "Add Source"
+msgstr  "Voeg Bron"
+
+msgid   "Are you sure to delete this Source"
+msgstr  "Weet u zeker dat u deze bron verwijderen"
+
+msgid   "Source Name"
+msgstr  "bron Naam"
+
+msgid   "No deal in this source"
+msgstr  "Geen deal in deze bron"
+
+msgid   "Active"
+msgstr  "Actief"
+
+msgid   "Won"
+msgstr  "Won"
+
+msgid   "Loss"
+msgstr  "Verlies"
+
+#: Product
+msgid   "Product"
+msgstr  "Product"
+
+msgid   "Add Product"
+msgstr  "Product toevoegen"
+
+msgid   "Are you sure to delete this Product ?"
+msgstr  "Weet u zeker dat u dit product wilt verwijderen?"
+
+msgid   "Product Name"
+msgstr  "productnaam"
+
+msgid   "Product Price"
+msgstr  "artikel Prijs"
+
+msgid   "No deal in this product."
+msgstr  "Geen deal in dit product ."
+
+
+
+#: Messages
+msgid   "Select member to message"
+msgstr  "Selecteer lid te bericht"
+
+
+
+msgid   "Send message"
+msgstr  "Verstuur bericht"
+
+msgid   "Message Reply"
+msgstr  "bericht Reageer"
+
+msgid   "Are you sure to delete this message ?"
+msgstr  "Weet je zeker dat dit bericht wilt verwijderen ?"
+
+
+
+#: Tickets
+msgid   "Ticket"
+msgstr  "Ticket"
+
+msgid   "Ticket ID"
+msgstr  "ticket ID"
+
+msgid   "Subject"
+msgstr  "Onderwerpen"
+
+msgid   "Submitted By"
+msgstr  "Ingezonden door"
+
+msgid   "Are you sure to delete this ticket ? All messages and files related to this ticket also deleted."
+msgstr  "Weet u zeker dat dit ticket verwijderen? Alle berichten en bestanden in verband met dit ticket ook verwijderd."
+
+msgid   "Open"
+msgstr  "Open"
+
+msgid   "In Progress"
+msgstr  "Bezig"
+
+msgid   "On Hold"
+msgstr  "In de wacht"
+
+msgid   "Reopened"
+msgstr  "heropend"
+
+msgid   "Closed"
+msgstr  "Gesloten"
+
+msgid   "Are you sure to delete this ticket ? All messages and files related to this ticket also deleted."
+msgstr  "Weet u zeker dat dit ticket verwijderen? Alle berichten en bestanden in verband met dit ticket ook verwijderd."
+
+msgid   "Message"
+msgstr  "Bericht"
+
+msgid   "Add Ticket"
+msgstr  "Ticket toevoegen"
+
+msgid   "Message Reply"
+msgstr  "bericht Reageer"
+
+msgid   "Status"
+msgstr  "toestand"
+
+msgid   "Ticket Number"
+msgstr  "Ticket nummer"
+
+msgid   "Ticket Details"
+msgstr  "ticket Details"
+
+msgid   "Update Ticket"
+msgstr  "bijwerken Ticket"
+
+#: Exports
+msgid   "Exports"
+msgstr  "export"
+
+msgid   "Export"
+msgstr  "Exporteren"
+
+msgid   "Export all companies"
+msgstr  "Alle bedrijven exporteren"
+
+msgid   "Export Company"
+msgstr  "export Company"
+
+msgid   "Export all contacts"
+msgstr  "Alle contacten exporteren"
+
+msgid   "Export Contacts"
+msgstr  "export Contacten"
+
+msgid   "Task Type"
+msgstr  "Taaktype"
+
+msgid   "Export Task"
+msgstr  "export Task"
+
+msgid   "Export Deals"
+msgstr  "export Aanbiedingen"
+
+msgid   "All Deals"
+msgstr  "alle aanbiedingen"
+
+msgid   "Active Deals"
+msgstr  "actieve aanbiedingen"
+
+#: Custom Fields
+
+msgid   "Field"
+msgstr  "Veld"
+
+msgid   "Text"
+msgstr  "Tekst"
+
+msgid   "Text Area"
+msgstr  "text Area"
+
+msgid   "Are you sure to delete this custom field ? Data related to this custom field also deleted."
+msgstr  "Weet u zeker dat dit aangepaste veld verwijderen? Gegevens met betrekking tot dit aangepaste veld ook verwijderd ."
+
+msgid   "Field Name"
+msgstr  "Veldnaam"
+
+msgid   "Text Field"
+msgstr  "tekstveld"
+
+msgid   "Custom Field added to old deal or contact or company"
+msgstr  "Aangepast veld om oude deal of contact of bedrijf voegde"
+
+msgid   "Module"
+msgstr  "module"
+
+msgid   "Add Custom Field"
+msgstr  "Voeg Aangepast veld"
+
+#: Users
+msgid   "User"
+msgstr  "Gebruiker"
+
+msgid   "Are you sure to delete this user ? All data related to this user also deleted."
+msgstr  "Weet u zeker dat u deze gebruiker wilt verwijderen? Alle gegevens voor deze gebruiker eveneens verwijderd ."
+
+msgid   "Role"
+msgstr  "Rol"
+
+msgid   "Password"
+msgstr  "Wachtwoord"
+
+msgid   "Add User"
+msgstr  "Gebruiker toevoegen"
+
+msgid   "Client"
+msgstr  "Cliënt"
+
+msgid   "Staff"
+msgstr  "Personeel"
+
+msgid   "Admin"
+msgstr  "beheerder"
+
+#: Settings
+
+msgid   "Database Backup"
+msgstr  "Database Backup"  
+
+
+msgid   "<i class="fa fa-plus-circle fa-lg"></i> Database Backup"
+msgstr  "<i class="fa fa-plus-circle fa-lg"></i> Database Backup"
+
+msgid   "Title"
+msgstr  "Titel"
+
+msgid   "Title Text"
+msgstr  "Titel tekst"
+
+msgid   "Logo"
+msgstr  "Logo"
+
+msgid   "Pipeline (Active)"
+msgstr  "Pipeline (Active )"
+
+msgid   "Language"
+msgstr  "Taal"
+
+msgid   "Currency"
+msgstr  "Valuta"
+
+msgid   "Currency Symbol"
+msgstr  "valutasymbool"
+
+msgid   "Date Format"
+msgstr  "Datumnotatie"
+
+msgid   "Time Format"
+msgstr  "Tijd formaat"
+
+msgid   "Time Zone"
+msgstr  "Tijdzone"
+
+msgid   "Company Name"
+msgstr  "Bedrijfsnaam"
+
+msgid   "Address"
+msgstr  "Adres"
+
+msgid   "City"
+msgstr  "stad"
+
+msgid   "State"
+msgstr  "Staat"
+
+msgid   "Zip/Post Code"
+msgstr  "Zip / Postcode"
+
+msgid   "Country"
+msgstr  "land"
+
+msgid   "Telephone"
+msgstr  "Telefoon"
+
+msgid   "System Email"
+msgstr  "systeem E-mail"
+
+msgid   "Email (From Name)"
+msgstr  "E-mail ( Van Name)"
+
+msgid   "Ticket Type"
+msgstr  "ticket Type"
+
+msgid   "Are you sure to delete this file backup ?"
+msgstr  "Weet u zeker dat u dit bestand back-up verwijderen?"
+
+msgid   "Are you sure to delete this Ticket Type ? Make Sure Ticket Type  have no active tickets.If have tickets delete that tickets before delete Ticket Type."
+msgstr  "Weet u zeker dat dit Ticket Type verwijderen? Zorg ervoor Ticket Type hebben geen actieve tickets.If hebben tickets te schrappen dat tickets voor verwijderen Ticket Type ."
+
+msgid   "General"
+msgstr  "Algemeen"
+
+msgid   "Type"
+msgstr  "Type"
+
+msgid   "File Name"
+msgstr  "Bestandsnaam"
+
+msgid   "Date Created"
+msgstr  "datum gecreëerd"
+
+msgid   "System"
+msgstr  "Systeem"
+
+msgid   "Email Settings"
+msgstr  "e-mailinstellingen"
+
+msgid   "Notification"
+msgstr  "Kennisgeving"
+
+msgid   "SMTP"
+msgstr  "SMTP"
+
+msgid   "SMTP Email Protocol"
+msgstr  "SMTP e-mail protocol"
+
+msgid   "SMTP Host"
+msgstr  "SMTP Host"
+
+msgid   "SMTP User"
+msgstr  "SMTP gebruiker"
+
+msgid   "SMTP Password"
+msgstr  "SMTP-wachtwoord"
+
+msgid   "SMTP Port"
+msgstr  "SMTP Port"
+
+msgid   "Email Notification on add user to user (username & password)"
+msgstr  "E-mail Notification op add gebruiker tot gebruiker (gebruikersnaam en wachtwoord )"
+
+msgid   "Email Notification on Ticket messages"
+msgstr  "E-mail Notification op Ticket berichten"
+
+msgid   "Email Notification on Messages"
+msgstr  "E-mail Notification op Berichten"
+
+msgid   "On Local Host Please set SMTP to work notification and application."
+msgstr  "Lokale Gastheer Stel SMTP kennisgeving en de toepassing werken ."
+
+
+
+#: Deal View
+
+msgid   "Uploaded By"
+msgstr  "geüpload door"
+
+msgid   "Files"
+msgstr  "bestanden"
+
+msgid   "Members"
+msgstr  "leden"
+
+msgid   "Notes"
+msgstr  "aantekeningen"
+
+msgid   "Description"
+msgstr  "Beschrijving"
+
+msgid   "Are you sure to delete ?"
+msgstr  "Weet u zeker dat u wilt verwijderen ?"
+
+msgid   "Are you sure to make deal won ?"
+msgstr  "Weet u zeker dat deal won maken ?"
+
+msgid   "Are you sure to make deal loss ?"
+msgstr  "Weet u zeker dat veel verlies maken ?"
+
+msgid   "Are you sure to delete this deal? All the data related to this deal also deleted like task, notes, files, discussion."
+msgstr  "Weet u zeker dat deze deal verwijderen? Alle gegevens met betrekking tot deze deal ook verwijderd als taak , notities , bestanden discussie."
+
+msgid   "Change Pipeline"
+msgstr  "Change Pipeline"
+
+msgid   "General"
+msgstr  "Algemeen"
+
+
+msgid   "Notes (Private)"
+msgstr  "Notes (Private )"
+
+msgid   "Members"
+msgstr  "leden"
+
+
+msgid   "Delete"
+msgstr  "verwijderen"
+
+msgid   "Post Reply"
+msgstr  "Reageer"
+
+msgid   "Message Reply"
+msgstr  "bericht Reageer"
+
+msgid   "Reply"
+msgstr  "Antwoord"
+
+msgid   "Send message"
+msgstr  "Verstuur bericht"
+
+msgid   "Message"
+msgstr  "Bericht"
+
+msgid   "New Message"
+msgstr  "Nieuw bericht"
+
+msgid   "Low Priority"
+msgstr  "Lage prioriteit"
+
+msgid   "Medium Priority"
+msgstr  "medium Priority"
+
+msgid   "High Priority"
+msgstr  "Hoge prioriteit"
+
+msgid   "No Task Added in Deal, Add new task."
+msgstr  "Geen Task Toegevoegd in Deal , toevoegen nieuwe taak ."
+
+msgid   "No Source Added in Deal, Search Source to Add."
+msgstr  "Geen Bron Toegevoegd in Deal , Zoek Bron aan toevoegen ."
+
+msgid   "Delete Source"
+msgstr  "verwijderen Source"
+
+msgid   "Quantity"
+msgstr  "Hoeveelheid"
+
+msgid   "Discount"
+msgstr  "Korting"
+
+msgid   "Sum"
+msgstr  "Som"
+
+msgid   "Delete Product"
+msgstr  "Verwijder product"
+
+msgid   "No Product Added in Deal, Search Product to Add."
+msgstr  "Nee Toegevoegd in Deal , Zoek product aan toevoegen ."
+
+msgid   "Search Product"
+msgstr  "Product zoeken"
+
+msgid   "Search Source"
+msgstr  "zoeken Source"
+
+msgid   "Search Members"
+msgstr  "Zoek leden"
+
+msgid   "Delete Memeber"
+msgstr  "Delete memeber"
+
+msgid   "Search Contact"
+msgstr  "zoeken Contact"
+
+msgid   "Delete Contact"
+msgstr  "Contactpersoon verwijderen"
+
+msgid   "No Contact Added in Deal, Search Contact to Add."
+msgstr  "Geen Contact Toegevoegd in Deal , zoeken Mail naar toe ."
+
+msgid   "No Task added"
+msgstr  "Geen Task toegevoegd"
+
+msgid   "Search Deals"
+msgstr  "Zoek Aanbiedingen"
+
+msgid   "Deal Details"
+msgstr  "deal Details"
+
+msgid   "Add Deal"
+msgstr  "Deal"
+
+msgid   "Deal Name"
+msgstr  "deal Naam"
+
+msgid   "Deal Price"
+msgstr  "deal Prijs"
+
+msgid   "Deal Details"
+msgstr  "deal Details"
+
+msgid   "Won Deals"
+msgstr  "won Aanbiedingen"
+
+msgid   "Lost Deals"
+msgstr  "verloren Aanbiedingen"
+
+msgid   "Later Tasks"
+msgstr  "later Taken"
+
+msgid   "Delete Discussion"
+msgstr  "schrappen Discussion"
+
+msgid   "created the Deal"
+msgstr  "creëerde de Deal"
+
+msgid   "Added the contact"
+msgstr  "Toegevoegd de contactpersoon"
+
+msgid   "Delete the contact"
+msgstr  "Verwijdert de contactpersoon"
+
+msgid   "Added the Product"
+msgstr  "Toegevoegd het product"
+
+msgid   "Updated the Product"
+msgstr  "Bijgewerkt het product"
+
+msgid   "Delete the Product"
+msgstr  "Het product verwijderen"
+
+msgid   "Added the Source"
+msgstr  "Toegevoegd de Bron"
+
+msgid   "Delete the Source"
+msgstr  "Verwijdert de Bron"
+
+msgid   "Added the File"
+msgstr  "Voegde de File"
+
+msgid   "Delete the File"
+msgstr  "Het bestand te verwijderen"
+
+msgid   "Added the comment"
+msgstr  "Voegde de reactie"
+
+msgid   "Delete the comment"
+msgstr  "Verwijdert de reactie"
+
+msgid   "Added the Task"
+msgstr  "Toegevoegd de Task"
+
+msgid   "Updated the Task"
+msgstr  "Bijgewerkt de Task"
+
+msgid   "Delete the Task"
+msgstr  "Verwijdert de Task"
+
+msgid   "Appoint the User"
+msgstr  "Benoemt de Gebruiker"
+
+msgid   "Unappoint the User"
+msgstr  "Unappoint Gebruiker"
+
+msgid   "Change Deal Price from"
+msgstr  "Veranderen Deal Prijs vanaf"
+
+msgid   "Change Deal Name from"
+msgstr  "Veranderen Deal Naam van"
+
+msgid   "Change Deal Pipeline from"
+msgstr  "Veranderen Deal Pipeline uit"
+
+msgid   "Change Deal Stage from"
+msgstr  "Veranderen Deal Stage uit"
+
+msgid   "Won the deal"
+msgstr  "Won de deal"
+
+msgid   "Loss the deal"
+msgstr  "Verlies van de deal"
+
+msgid   "Active again deal"
+msgstr  "Weer actief gaan"
+
+#: Admin
+
+msgid   "All Labels"
+msgstr  "alle Labels"
+
+msgid   "Select Pipeline"
+msgstr  "Selecteer Pipeline"
+
+#: Login
+
+msgid   "Email Address"
+msgstr  "E-mailadres"
+
+msgid   "Login"
+msgstr  "Aanmelden"
+
+msgid   "Forgot password?"
+msgstr  "Wachtwoord vergeten?"
+
+msgid   "Reset password"
+msgstr  "reset wachtwoord"
+
+msgid   "Forgot your password?"
+msgstr  "Je wachtwoord vergeten?"
+
+msgid   "Enter your email address to recover your password."
+msgstr  "Vul uw e -mailadres om uw wachtwoord te achterhalen."
+
+msgid   "Back to login"
+msgstr  "Terug naar Inloggen"
+
+msgid   "Invalid username or password"
+msgstr  "ongeldige gebruikersnaam of wachtwoord"
+
+msgid   "Inactive Account,contact admin"
+msgstr  "Inactieve account , contact admin"
+
+msgid   "Calendar"
+msgstr  "Kalender"
+
+#: Language
+
+msgid   "Chinese"
+msgstr  "中文"
+
+msgid   "Dutch"
+msgstr  "Nederlands"
+
+msgid   "English"
+msgstr  "Engels"
+
+msgid   "French"
+msgstr  "Frans"
+
+msgid   "German"
+msgstr  "Duits"
+
+msgid   "Italian"
+msgstr  "Italiaans"
+
+msgid   "Polish"
+msgstr  "Pools"
+
+msgid   "Portuguese"
+msgstr  "Portugees"
+
+msgid   "Romanian"
+msgstr  "Roemeense"
+
+msgid   "Russians"
+msgstr  "Russen"
+
+msgid   "Spanish"
+msgstr  "Spaans"
+
+msgid   " System Settings"
+msgstr  "Systeem instellingen"
+
+msgid   " Company Details"
+msgstr  "Bedrijfsgegevens"
+
+msgid   " Roles"
+msgstr  "Rollen"
+
+msgid   "Admin Role"
+msgstr  "Beheerdersrol"
+
+msgid   "Reason"
+msgstr  "Reden"
+
+msgid   "Add Task"
+msgstr  "Voeg taak toe"
+
+msgid   "Category"
+msgstr  "Categorie"
+
+msgid   "Assign"
+msgstr  "Toewijzen"
+
+msgid   "Note"
+msgstr  "Notitie"
+
+msgid   "Close"
+msgstr  "Dichtbij"
+
+msgid   "Yet to Start"
+msgstr  "Toch om te beginnen"
+
+msgid   "Completed"
+msgstr  "Voltooid"
+
+
+msgid   "Missed"
+msgstr  "gemiste"
+
+msgid   "Tommorow"
+msgstr  "morgen"
+
+msgid   "Later"
+msgstr  "Later"
+
+msgid   "Select Deal"
+msgstr  "Selecteer Deal"
+
+
+msgid   "Create Event"
+msgstr  "Creëer evenement"
+
+msgid   "month"
+msgstr  "maand"
+
+msgid   "week"
+msgstr  "week"
+
+msgid   "day"
+msgstr  "dag"
+
+msgid   "Start Date"
+msgstr  "Begin datum"
+
+msgid   "End Date"
+msgstr  "Einddatum"
+
+msgid   "Public"
+msgstr  "Openbaar"
+
+msgid   "Private"
+msgstr  "Privaat"
+
+msgid   "Group"
+msgstr  "Groep"
+
+msgid   "Select Group"
+msgstr  "Selecteer Groep"
+
+msgid   "Active"
+msgstr  "Actief"
+
+msgid   "Sales"
+msgstr  "verkoop"
+
+msgid   "Invoices"
+msgstr  "facturen"
+
+msgid   "Issue Date"
+msgstr  "Datum van publicatie"
+
+msgid   "Due Date"
+msgstr  "Opleveringsdatum"
+
+msgid   "Add Invoice"
+msgstr  "Factuur toevoegen"
+
+msgid   "REFERENCE ID*"
+msgstr  "REFERENTIE NUMMER"
+
+msgid   "Tax (%)"
+msgstr  "Belasting (%)"
+
+msgid   "DISCOUNT"
+msgstr  "KORTING"
+
+msgid   "TERMS"
+msgstr  "VOORWAARDEN"
+
+msgid   "Select Client"
+msgstr  "Selecteer Client"
+
+msgid   "Paid"
+msgstr  "Betaald"
+
+msgid   "Not Paid"
+msgstr  "Niet betaald"
+
+msgid   "Edit"
+msgstr  "Bewerk"
+
+msgid   "Add Payment"
+msgstr  "Voeg de betaling toe"
+
+msgid   "Preview"
+msgstr  "Voorbeeld"
+
+msgid   "Invoice no."
+msgstr  "Factuur nr."
+
+msgid   "Invoice date"
+msgstr  "Factuur datum"
+
+msgid   "Subtotal"
+msgstr  "Subtotaal"
+
+msgid   "Tax (0.00%)"
+msgstr  "Belasting (0,00%)"
+
+msgid   "Total"
+msgstr  "Totaal"
+
+msgid   "Balance Due"
+msgstr  "Saldo verschuldigd"
+
+msgid   "Payments"
+msgstr  "betalingen"
+
+msgid   "Transaction ID"
+msgstr  "Transactie ID"
+
+msgid   "Payment Date"
+msgstr  "Betaaldatum"
+
+msgid   "Payment Method"
+msgstr  "Betalingsmiddel"
+
+msgid   "Amount"
+msgstr  "Bedrag"
+
+msgid   "Edit Invoice"
+msgstr  "Factuur bewerken"
+
+msgid   "Partialy Paid"
+msgstr  "Gedeeltelijk betaald"
+
+msgid   "Cancelled"
+msgstr  "Geannuleerd"
+
+msgid   "Expenses"
+msgstr  "uitgaven"
+
+msgid   "Add Expense"
+msgstr  "Voeg kosten toe"
+
+msgid   "Member"
+msgstr  "Lid"
+
+msgid   "Select Member"
+msgstr  "Selecteer Lid"
+
+msgid   "Attachment"
+msgstr  "gehechtheid"
+
+msgid   "Payment ID"
+msgstr  "Betalings-ID"
+
+msgid   "Tax Rates"
+msgstr  "BELASTINGTARIEVEN"
+
+msgid   "Percentage %"
+msgstr  "Percentage%"
+
+msgid   "Add Tax Rate"
+msgstr  "Belastingpercentage toevoegen"
+
+msgid   "Tax Rate Name"
+msgstr  "Belastingtarief naam"
+
+msgid   "Tax Rate%"
+msgstr  "Belastingpercentage%"
+
+msgid   "Clients"
+msgstr  "cliënten"
+
+msgid   "Import Company"
+msgstr  "Importbedrijf"
+
+msgid   "CONTACTS"
+msgstr  "CONTACTEN"
+
+msgid   "INVOICES"
+msgstr  "INVOICES"
+
+msgid   "DEALS"
+msgstr  "AANBIEDINGEN"
+
+msgid   "Assign Group"
+msgstr  "Groep toewijzen"
+
+msgid   "Add Client"
+msgstr  "Voeg klant toe"
+
+msgid   "Edit Company"
+msgstr  "Bewerk bedrijf"
+
+msgid   "Company description"
+msgstr  "Bedrijfsomschrijving"
+
+msgid   "Groups:"
+msgstr  "groepen"
+
+msgid   "Import Contact"
+msgstr  "Contact importeren"
+
+msgid   "Contact description "
+msgstr  "Contact beschrijving"
+
+msgid   "Reports"
+msgstr  "rapporten"
+
+msgid   "More"
+msgstr  "Meer"
+
+msgid   "In Pipeline"
+msgstr  "In Pipeline"
+
+msgid   "All Department"
+msgstr  "Alle afdelingen"
+
+msgid   "All Status"
+msgstr  "Alle status"
+
+msgid   "Change Status"
+msgstr  "Verander status"
+
+msgid   "Change Type"
+msgstr  "Van type veranderen"
+
+msgid   "Assign to"
+msgstr  "Toewijzen"
+
+msgid   "From"
+msgstr  "Van"
+
+msgid   "Announcements"
+msgstr  "Mededelingen"
+
+msgid   "Created By"
+msgstr  "Gemaakt door"
+
+msgid   "Add Announcement"
+msgstr  "Aankondiging toevoegen"
+
+msgid   "Share With"
+msgstr  "Delen met"
+
+msgid   "Team Members"
+msgstr  "Teamleden"
+
+msgid   "Team Members & Clients"
+msgstr  "Teamleden & klanten"
+
+msgid   "Admins"
+msgstr  "Admins"
+
+msgid   "Add Admin"
+msgstr  "Admin toevoegen"
+
+msgid   "Select Role"
+msgstr  "Selecteer Rol"
+
+msgid   "Inactive"
+msgstr  "Inactief"
+
+msgid   "Group Managers"
+msgstr  "Groepsmanagers"
+
+msgid   "Personal"
+msgstr  "persoonlijk"
+
+msgid   "Managers"
+msgstr  "managers"
+
+msgid   "Add Manager"
+msgstr  "Beheer toevoegen"
+
+msgid   "Add Team Member"
+msgstr  "Teamlid toevoegen"
+
+msgid   "Add Staff"
+msgstr  "Voeg personeel toe"
+
+msgid   "Male"
+msgstr  "Mannetje"
+
+msgid   "Female"
+msgstr  "Vrouw"
+
+msgid   "Add Group"
+msgstr  "Groep toevoegen"
+
+msgid   "Groups"
+msgstr  "Bekijk leden"
+
+msgid   " View Members"
+msgstr  ""
+
+msgid   " Groups"
+msgstr  "groepen"
+
+msgid   " Payment Methods"
+msgstr  "Betaalmethodes"
+
+msgid   " Expenses Category"
+msgstr  "Uitgavencategorie"
+
+msgid   " Add Admin Role"
+msgstr  "Admin-rol toevoegen"
+
+msgid   "Add Staff Role"
+msgstr  "Voeg personeelstaak toe"
+
+msgid   "Update Permission"
+msgstr  "Machtiging bijwerken"
+
+msgid   "Staff Role"
+msgstr  "Staff Rol"
+
+msgid   "View"
+msgstr  "Uitzicht"
+
+msgid   "Add"
+msgstr  "Toevoegen"
+
+msgid   "Module Permission"
+msgstr  "Module toestemming"
+
+msgid   " Ticket Departments"
+msgstr  "Ticketafdelingen"
+
+msgid   "Add Department"
+msgstr  ""
+
+msgid   "Add Ticket Department"
+msgstr  "Afdeling toevoegen"
+
+msgid   "Add Payment Method"
+msgstr  "Betaalmethode toevoegen"
+
+msgid   "Add Expense Category"
+msgstr  "Voeg Expense Category toe"
+
+msgid   "Update Announcement"
+msgstr  "Update Announcemen"
+

@@ -1,0 +1,51 @@
+.main-email {
+   margin:0px;font-family: Arial, Helvetica, sans-serif;font-family: Calibri;background-color: #fff; 
+}
+.main-email table{
+    border-collapse: collapse; width: 90%;height: auto;margin: 15px auto;background: #FFF;  border: 1px solid #DDD;border-top: 5px solid #ddd;border-bottom: 5px solid #ddd;
+}
+.email-header {
+    width: 100%;height: auto;padding-top: 15px;text-align: center;background: #00AEEC;border-bottom: 1px dashed #DDD;
+}
+.email-header h1 {
+    text-align: center;color: #fff;
+}
+.email-header p {
+    font-style: italic;font-size: 18px;font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.content{
+    width: 100%;padding: 20px 50px;
+}
+.content h3{
+    color: #00AEEC;font-weight: normal;font-size: 25px;text-align: center;
+}
+.content h5{
+    border-bottom: 1px dashed #CCC;
+}
+.content h2 {
+    color: #555;font-weight: bold;text-transform: uppercase;
+}
+.content .pass {
+    color: #777;line-height: 25px;font-size: 16px;
+}
+.content .log {
+    color: #00AEEC;font-weight: normal;font-size: 25px;text-align: center;
+}
+.log a {
+    color: #00AEEC;
+}
+.email-footer{
+    width: 100%;padding: 0px 50px;height: 80px;border-top: 1px dashed #DDD;text-align: center;
+}
+.email-footer p {
+    color: #777;line-height: 25px;font-size: 16px;
+}
+.msg-email .content p{
+    font-style: italic;font-size: 18px;font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.signup-email .content .comp-name {
+   text-align:center;
+}
+.ticket-email .content p{
+    font-style: italic;font-size: 18px;font-family: Georgia, 'Times New Roman', Times, serif;
+}

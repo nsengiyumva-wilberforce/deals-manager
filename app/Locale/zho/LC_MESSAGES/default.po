@@ -1,0 +1,1699 @@
+# @author:   AnkkSoft.com
+# Copyright: AnkkSoft 2020
+# Website:   https://www.ankksoft.com
+# CodeCanyon User:  https://codecanyon.net/user/codeloop 
+
+#: Sidebar
+
+msgid   "Dashboard"
+msgstr  "ä»ªè¡¨æ�¿"
+
+msgid   "Deals"
+msgstr  "äº¤æ˜“"
+
+msgid   "List Deals"
+msgstr  "åˆ—è¡¨ä¸­çš„äº¤æ˜“"
+
+msgid   "Won Deals"
+msgstr  "èµ¢å�•çš„äº¤æ˜“"
+
+msgid   "Loss Deals"
+msgstr  "æ�Ÿå¤±çš„äº¤æ˜“"
+
+msgid   "Tasks"
+msgstr  "ä»»åŠ¡"
+
+msgid   "Task"
+msgstr  "ä»»åŠ¡"
+
+msgid   "All Task"
+msgstr  "æ‰€æœ‰ä»»åŠ¡"
+
+msgid   "Contacts"
+msgstr  "è�”ç³»äºº"
+
+msgid   "Companies"
+msgstr  "å…¬å�¸"
+
+
+msgid   "Pipeline"
+msgstr  "ç®¡æ��ç”Ÿäº§çº¿"
+
+msgid   "Stages"
+msgstr  "é˜¶æ®µ"
+
+msgid   "Labels"
+msgstr  "æ ‡ç­¾"
+
+msgid   "Activity"
+msgstr  "æ´»åŠ¨"
+
+msgid   "Number of Active Deals"
+msgstr  "æ´»è·ƒçš„äº¤æ˜“æ•°é‡�"
+
+msgid   "Sources"
+msgstr  "æ�¥æº�"
+
+msgid   "Products"
+msgstr  "äº§å“�"
+
+msgid   "Messages"
+msgstr  "æ¶ˆæ�¯"
+
+msgid   "Tickets"
+msgstr  "é—¨ç¥¨"
+
+msgid   "Exports"
+msgstr  "å‡ºå�£"
+
+msgid   "Custom Fields"
+msgstr  "è‡ªå®šä¹‰å­—æ®µ"
+
+msgid   "Users"
+msgstr  "ç”¨æˆ·"
+
+msgid   "Settings"
+msgstr  "è®¾ç½®"
+
+#: Common
+msgid   "Name"
+msgstr  "å��ç§°"
+
+msgid   "Price"
+msgstr  "ä»·æ ¼"
+
+msgid   "Created"
+msgstr  "åˆ›å»º"
+
+msgid   "Create"
+msgstr  "åˆ›å»º"
+
+msgid   "Filter"
+msgstr  "ç­›é€‰å™¨"
+
+msgid   "Yes"
+msgstr  "æ˜¯"
+
+msgid   "No"
+msgstr  "ä¸�"
+
+msgid   "Date Range"
+msgstr  "æ—¥æœŸèŒƒå›´"
+
+msgid   "Email"
+msgstr  "ç”µå­�é‚®ä»¶"
+
+msgid   "Previous"
+msgstr  "ä¸Šä¸€é¡µ"
+
+msgid   "First"
+msgstr  "ç¬¬ä¸€æ¬¡"
+
+msgid   "Next"
+msgstr  "ä¸‹ä¸€ä¸ª"
+
+msgid   "Last"
+msgstr  "æœ€å�Ž"
+
+msgid   "Page"
+msgstr  "é¡µé�¢"
+
+msgid   "of"
+msgstr  "çš„"
+
+msgid   "Value"
+msgstr  "ä»·å€¼"
+
+msgid   "at"
+msgstr  "åœ¨"
+
+msgid   "Active Again"
+msgstr  "æ´»è·ƒèµ·æ�¥"
+
+msgid   "By"
+msgstr  "é€šè¿‡"
+
+msgid   "Save Changes"
+msgstr  "ä¿�å­˜æ›´æ”¹"
+
+msgid   "Loading"
+msgstr  "åŠ è½½"
+
+msgid   "Load More"
+msgstr  "è½½å…¥æ›´å¤š"
+
+msgid   "Confirmation"
+msgstr  "ç¡®è®¤"
+
+msgid   "Basic Details"
+msgstr  "åŸºæœ¬çš„ç»†èŠ‚"
+
+msgid   "Save"
+msgstr  "ä¿�å­˜"
+
+msgid   "Request has been completed."
+msgstr  "è¯·æ±‚å·²å®Œæˆ�"
+
+msgid   "Request has been not completed."
+msgstr  "ä¸�å®Œæˆ�è¯·æ±‚"
+
+#: Header
+
+msgid   "Logout"
+msgstr  "æ³¨é”€"
+
+#: Profile
+
+msgid   "Profile"
+msgstr  "é…�ç½®æ–‡ä»¶"
+
+msgid   "Picture"
+msgstr  "å›¾ç‰‡"
+
+msgid   "Edit Profile"
+msgstr  "ç¼–è¾‘é…�ç½®æ–‡ä»¶"
+
+msgid   "Change Password"
+msgstr  "æ›´æ”¹å¯†ç �"
+
+msgid   "Permission"
+msgstr  "æ�ƒé™�"
+
+msgid   "Save Picture"
+msgstr  "ä¿�å­˜å›¾ç‰‡"
+
+msgid   "First Name"
+msgstr  "ç¬¬ä¸€å��"
+
+msgid   "Last Name"
+msgstr  "å§“æ°�"
+
+msgid   "About"
+msgstr  "å…³äºŽ"
+
+msgid   "Mobile Number"
+msgstr  "ç§»åŠ¨ç”µè¯�å�·ç �"
+
+msgid   "Gender"
+msgstr  "æ€§åˆ«"
+
+msgid   "Location"
+msgstr  "ä½�ç½®"
+
+msgid   "Web Page"
+msgstr  "Web é¡µ"
+
+msgid   "New Password"
+msgstr  "æ–°å¯†ç �"
+
+msgid   "Re-type New Password"
+msgstr  "é‡�æ–°é”®å…¥æ–°å¯†ç �"
+
+msgid   "Change Password"
+msgstr  "æ›´æ”¹å¯†ç �"
+
+msgid   "Role"
+msgstr  "ä½œç”¨"
+
+msgid   "Status"
+msgstr  "çŠ¶æ€�"
+
+msgid   "Member since"
+msgstr  "ä¼šå‘˜å› ä¸º"
+
+#: Task
+
+msgid   "My Task"
+msgstr  "æˆ‘çš„ä»»åŠ¡"
+
+msgid   "Overdue Tasks"
+msgstr  "è¿‡æœŸçš„ä»»åŠ¡"
+
+msgid   "Today"
+msgstr  "ä»Šå¤©"
+
+msgid   "Later Tasks"
+msgstr  "ä»¥å�Žçš„ä»»åŠ¡"
+
+msgid   "Appointment"
+msgstr  "ä»»å‘½"
+
+msgid   "Call"
+msgstr  "è°ƒç”¨"
+
+msgid   "Consultancy"
+msgstr  "é¡¾é—®"
+
+msgid   "Quote"
+msgstr  "æŠ¥ä»·"
+
+msgid   "Invoice"
+msgstr  "å�‘ç¥¨"
+
+msgid   "Other"
+msgstr  "å…¶ä»–"
+
+msgid   "Overdue Tasks"
+msgstr  "è¿‡æœŸçš„ä»»åŠ¡"
+
+msgid   "Today"
+msgstr  "ä»Šå¤©"
+
+msgid   "All Pipeline"
+msgstr  "æ‰€æœ‰ç®¡çº¿"
+
+msgid   "All"
+msgstr  "æ‰€æœ‰"
+
+msgid   "My Task"
+msgstr  "æˆ‘çš„ä»»åŠ¡"
+
+msgid   "Are u sure to delete this task ?"
+msgstr  "ç¡®å®žè¦�åˆ é™¤æ­¤ä»»åŠ¡"
+
+msgid   "Update Task"
+msgstr  "æ›´æ–°ä»»åŠ¡"
+
+msgid   "Assign To"
+msgstr  "åˆ†é…�ç»™"
+
+msgid   "Priority"
+msgstr  "ä¼˜å…ˆ"
+
+msgid   "Date"
+msgstr  "æ—¥æœŸ"
+
+msgid   "Time"
+msgstr  "æ—¶é—´"
+
+
+
+
+#: Deal
+
+msgid   "Are you sure to delete this Deal ? All the data related to this deal also deleted like task, notes, files, discussion."
+msgstr  "æ˜¯å�¦ç¡®å®žè¦�åˆ é™¤è¿™ç¬”äº¤æ˜“?æ‰€æœ‰çš„æ•°æ�®ä¹Ÿåˆ é™¤å°±è±¡ä»»åŠ¡ã€� æ³¨é‡Šã€� æ–‡ä»¶ã€� è®¨è®ºè¿™ç¬”äº¤æ˜“ä¸Žç›¸å…³."
+
+msgid   "Deal"
+msgstr  "äº¤æ˜“"
+
+#: Contact
+
+msgid   "Contact"
+msgstr  "è�”ç³»äºº"
+
+msgid   "Are you sure to delete this contact ?"
+msgstr  "æ‚¨ç¡®å®šè¦�åˆ é™¤è¿™ä¸ªè�”ç³»äºº?"
+
+msgid   "Add Contact"
+msgstr  "å¢žåŠ è�”ç³»äºº"
+
+msgid   "Contact Name"
+msgstr  "è�”ç³»äººå§“å��"
+
+msgid   "Select Company"
+msgstr  "å…¬å�¸é€‰æ‹©"
+
+msgid   "Job Title"
+msgstr  "è�Œç§°"
+
+msgid   "No deal in this contact"
+msgstr  "åœ¨è¿™è�”ç³»æ²¡æœ‰äº¤æ˜“"
+
+msgid   "Skype"
+msgstr  "Skype"
+
+msgid   "LinkedIn"
+msgstr  "LinkedIn"
+
+msgid   "Twitter"
+msgstr  "æŽ¨ç‰¹"
+
+msgid   "Facebook"
+msgstr  "Facebook"
+
+msgid   "Social"
+msgstr  "Social"
+
+msgid   "Change"
+msgstr  "æ›´æ”¹"
+
+msgid   "Remove"
+msgstr  "åˆ é™¤"
+
+msgid   "Select image"
+msgstr  "å›¾ç‰‡é€‰æ‹©"
+
+
+#: Company
+
+msgid   "Company"
+msgstr  "å…¬å�¸"
+
+
+msgid   "Phone"
+msgstr  "ç”µè¯�"
+
+msgid   "Are you sure to delete this company ?"
+msgstr  "æ‚¨ç¡®å®šè¦�åˆ é™¤è¿™å®¶å…¬å�¸?"
+
+msgid   "Address"
+msgstr  "åœ°å�€"
+
+msgid   "Website"
+msgstr  "ç½‘ç«™"
+
+msgid   "Permission"
+msgstr  "æ�ƒé™�"
+
+msgid   "Default Active"
+msgstr  "é»˜è®¤æ¿€æ´»"
+
+msgid   "Company Website"
+msgstr  "å…¬å�¸ç½‘ç«™"
+
+msgid   "Company Address"
+msgstr  "å…¬å�¸åœ°å�€"
+
+msgid   "Company Email"
+msgstr  "å…¬å�¸é‚®ç®±"
+
+msgid   "Company Phone"
+msgstr  "å…¬å�¸è�”ç³»ç”µè¯�"
+
+msgid   "Company Name"
+msgstr  "å…¬å�¸å��ç§°"
+
+msgid   "Add Company"
+msgstr  "æ·»åŠ å…¬å�¸"
+
+msgid   "No Contacts in Company"
+msgstr  "åœ¨å…¬å�¸æ²¡æœ‰è�”ç³»"
+
+#: Pipeline
+
+msgid   "Are you sure to delete this Pipeline ? Make Sure Pipeline have no active deal.If have active deal move or delete that deals before delete pipeline."
+msgstr  "æ‚¨ç¡®å®šè¦�åˆ é™¤è¿™æ�¡ç®¡é�“ï¼Ÿç¡®ä¿�ç®¡é�“æ²¡æœ‰æœ‰æ•ˆdeal.å¦‚æœ‰æ´»è·ƒçš„äº¤æ˜“ç§»åŠ¨æˆ–åˆ é™¤äº¤æ˜“ä¹‹å‰�åˆ é™¤ç®¡çº¿"
+
+msgid   "Add Pipeline"
+msgstr  "æ·»åŠ ç®¡é�“"
+
+msgid   "To"
+msgstr  "è‡³"
+
+msgid   "Pipeline Name"
+msgstr  "ç®¡é�“å��ç§°"
+
+
+
+#: Stages
+
+msgid   "Stage"
+msgstr  "é˜¶æ®µ"
+
+msgid   "Select Pipeline for Stages"
+msgstr  "é€‰æ‹©ç®¡é�“é˜¶æ®µ"
+
+msgid   "Add Stage"
+msgstr  "æ·»åŠ é˜¶æ®µ"
+
+msgid   "Stage Name"
+msgstr  "é˜¶æ®µå��ç§°"
+
+msgid   "Are you sure to delete this Stage ? Make sure stage have no active deal.If have active deal move or delete that deals before delete this stage."
+msgstr  "æ‚¨ç¡®å®šè¦�åˆ é™¤è¿™ä¸ªé˜¶æ®µï¼Ÿç¡®ä¿�é˜¶æ®µæ²¡æœ‰æœ‰æ•ˆçš„å¤„ç�†ã€‚å¦‚æžœæœ‰æ´»è·ƒçš„äº¤æ˜“ç§»åŠ¨æˆ–åˆ é™¤äº¤æ˜“ä¹‹å‰�åˆ é™¤è¿™ä¸ªé˜¶æ®µã€‚"
+
+
+
+#: Labels
+
+msgid   "Label"
+msgstr  "æ ‡ç­¾"
+
+msgid   "Select Pipeline to Label"
+msgstr  "é€‰æ‹©ç®¡é�“æ ‡ç­¾"
+
+msgid   "Are you sure to delete this label ? Assign this label to deals also delete."
+msgstr  "æ‚¨ç¡®å®šè¦�åˆ é™¤è¿™ä¸ªæ ‡ç­¾å�—ï¼Ÿåˆ†é…�æ­¤æ ‡ç­¾äº¤æ˜“ä¹Ÿåˆ é™¤ã€‚"
+
+msgid   "Label Name"
+msgstr  "æ ‡ç­¾å��ç§°"
+
+msgid   "Add Label"
+msgstr  "æ·»åŠ æ ‡ç­¾"
+
+msgid   "Color"
+msgstr  "é¢œè‰²"
+
+msgid   "Black"
+msgstr  "é»‘è‰²"
+
+msgid   "Blue"
+msgstr  "è“�è‰²"
+
+msgid   "Green"
+msgstr  "ç»¿è‰²"
+
+msgid   "Gray"
+msgstr  "ç�°è‰²"
+
+msgid   "Red"
+msgstr  "çº¢è‰²"
+
+msgid   "Yellow"
+msgstr  "é»„è‰²"
+
+msgid   "Pink"
+msgstr  "ç²‰çº¢"
+
+msgid   "Orange"
+msgstr  "æ©™è‰²"
+
+msgid   "Gold"
+msgstr  "é‡‘è‰²"
+
+
+
+
+
+#: Activity
+
+msgid   "Information"
+msgstr  "ä¿¡æ�¯"
+
+msgid   "Are you sure to delete this activity ?"
+msgstr  "æ‚¨ç¡®å®šè¦�åˆ é™¤æ­¤æ´»åŠ¨ï¼Ÿ"
+
+msgid   "Activity"
+msgstr  "æ´»åŠ¨"
+
+msgid   "All Pipeline"
+msgstr  "æ‰€æœ‰ç®¡é�“"
+
+msgid   "All User"
+msgstr  "æ‰€æœ‰ç”¨æˆ·"
+
+msgid   "All Activity"
+msgstr  "æ‰€æœ‰æ´»åŠ¨"
+
+msgid   "Created Deal"
+msgstr  "åˆ›å»ºå�ˆå�Œ"
+
+msgid   "Deleted Deal"
+msgstr  "åˆ é™¤å�ˆå�Œ"
+
+msgid   "Stage changed"
+msgstr  "é˜¶æ®µæ”¹å�˜"
+
+msgid   "Pipeline changed"
+msgstr  "ç®¡é�“æ”¹å�˜"
+
+msgid   "Mark deal as won"
+msgstr  "å�ˆå�Œæ ‡è®°ä¸ºèµ¢"
+
+msgid   "Mark deal as loss"
+msgstr  "å�ˆå�Œæ ‡è®°ä¸ºå¤±åˆ©"
+
+msgid   "Again Active deal from won/loss"
+msgstr  "ä»Žèµ¢/å¤±åˆ©å��å¤�æ´»è·ƒçš„äº¤æ˜“"
+
+msgid   "Added Task"
+msgstr  "æ–°å¢žä»»åŠ¡"
+
+msgid   "Updated Task"
+msgstr  "æ›´æ–°ä»»åŠ¡"
+
+msgid   "Deleted Task"
+msgstr  "åˆ é™¤ä»»åŠ¡"
+
+msgid   "Added Source to deal"
+msgstr  "æ·»åŠ æº�å¤„ç�†"
+
+msgid   "Deleted Source from deal"
+msgstr  "åˆ é™¤æº�ä»Žæˆ�äº¤"
+
+msgid   "Added contact to deal"
+msgstr  "æ·»åŠ çš„è�”ç³»äººå¤„ç�†"
+
+msgid   "Deleted contact from deal"
+msgstr  "ä»Žè¿™ç¬”äº¤æ˜“å·²åˆ é™¤çš„è�”ç³»äºº"
+
+msgid   "Apointed user to deal"
+msgstr  "è¢«ä»»å‘½ä¸ºç”¨æˆ·å¤„ç�†"
+
+msgid   "Unpointed user from deal"
+msgstr  "ä»Žå��è®®æŒ‡å®šçš„ç”¨æˆ·"
+
+msgid   "Commented on deal"
+msgstr  "äº¤æ˜“ä¸Šè¯„è®º"
+
+msgid   "Deleted the comment"
+msgstr  "åˆ é™¤è¯„è®º"
+
+msgid   "Added Product to deal"
+msgstr  "æ–°å¢žäº§å“�å¤„ç�†"
+
+msgid   "Updated Product in deal"
+msgstr  "åœ¨å¤„ç�†æ›´æ–°çš„äº§å“�"
+
+msgid   "Deleted Product from deal"
+msgstr  "ä»Žæˆ�äº¤åˆ é™¤äº§å“�"
+
+msgid   "Uploaded File in deal"
+msgstr  "åœ¨è¿™ç¬”äº¤æ˜“ä¸Šè½½çš„æ–‡ä»¶"
+
+msgid   "Deleted File from deal"
+msgstr  "ä»Žæˆ�äº¤åˆ é™¤çš„æ–‡ä»¶"
+
+msgid   "Deal Created"
+msgstr  "åˆ›å»ºå�ˆå�Œ"
+
+msgid   "Deal Stage Changed"
+msgstr  "å¤„ç�†é˜¶æ®µæ”¹å�˜"
+
+msgid   "Deal Price Changed"
+msgstr  "äº¤æ˜“ä»·æ ¼æ”¹å�˜"
+
+msgid   "Deal Pipeline Changed"
+msgstr  "äº¤æ˜“æ¸ é�“å�˜æ›´"
+
+msgid   "Deal Won"
+msgstr  "å�ˆå�Œæˆ�åŠŸ"
+
+msgid   "Deal Lost"
+msgstr  "å�ˆå�Œå¤±è´¥"
+
+msgid   "Deal Deleted"
+msgstr  "åˆ é™¤å�ˆå�Œ"
+
+msgid   "Appoint User"
+msgstr  "ä»»å‘½ç”¨æˆ·"
+
+msgid   "Unappoint User"
+msgstr  "é™¤å��ç”¨æˆ·"
+
+msgid   "Deal Reactive"
+msgstr  "å�ˆå�Œå��åº”"
+
+msgid   "Task Created"
+msgstr  "ä»»åŠ¡åˆ›å»º"
+
+msgid   "Task Updated"
+msgstr  "ä»»åŠ¡æ›´æ–°"
+
+msgid   "Task Deleted"
+msgstr  "ä»»åŠ¡åˆ é™¤"
+
+msgid   "File Added"
+msgstr  "æ–‡ä»¶ä¸­æ·»åŠ "
+
+msgid   "File Removed"
+msgstr  "æ–‡ä»¶ä¸­åˆ é™¤"
+
+msgid   "Comment Added"
+msgstr  "æ·»åŠ è¯„è®º"
+
+msgid   "Comment Deleted"
+msgstr  "åˆ é™¤è¯„è®º"
+
+msgid   "Contact Added"
+msgstr  "è�”ç³»æ–¹å¼�æ·»åŠ "
+
+msgid   "Contact Removed"
+msgstr  "è�”ç³»åˆ é™¤"
+
+msgid   "Product Added"
+msgstr  "äº§å“�é™„åŠ å€¼"
+
+msgid   "Product Updated"
+msgstr  "äº§å“�æ›´æ–°"
+
+msgid   "Product Removed"
+msgstr  "äº§å“�ä¸­åˆ é™¤"
+
+msgid   "Source Added"
+msgstr  "èµ„æº�è¡¥å……"
+
+msgid   "Source Removed"
+msgstr  "èµ„æº�åˆ é™¤"
+
+
+#: Report
+
+msgid   "Active deal calculated according to date deal created."
+msgstr  "æ ¹æ�®åˆ›å»ºæ—¥æœŸäº¤æ˜“æ´»åŠ¨çš„äº¤æ˜“è®¡ç®—å‡ºæ�¥çš„ã€‚"
+
+msgid   "Number of Active Deals"
+msgstr  "æ´»è·ƒå�ˆå�Œæ•°é‡�â€œ
+
+msgid   "Won Deals"
+msgstr  "è�£èŽ·å�ˆå�Œ"
+
+msgid   "Lost Deals"
+msgstr  "å¤±åŽ»å�ˆå�Œ"
+
+msgid   "Price of Active Deals"
+msgstr  "æ´»è·ƒå�ˆå�Œä»·æ ¼"
+
+msgid   "Price of Won Deals"
+msgstr  "å�ˆå�Œæˆ�äº¤ä»·"
+
+msgid   "Price of Loss Deals"
+msgstr  "å�ˆå�Œå¤±åŽ»ä»·"
+
+msgid   "All Products"
+msgstr  "æ‰€æœ‰äº§å“�"
+
+msgid   "All Sources"
+msgstr  "æ‰€æœ‰èµ„æº�"
+
+msgid   "Report"
+msgstr  "æŠ¥å‘Š"
+
+msgid   "All Users"
+msgstr  "å…¨éƒ¨ç”¨æˆ·"
+
+msgid   "Number of Won Deals"
+msgstr  "è�£èŽ·å�ˆå�Œæ•°é‡�"
+
+msgid   "Number of Lost Deals"
+msgstr  "å¤±åŽ»å�ˆå�Œæ•°é‡�"
+
+msgid   "Save"
+msgstr  "ä¿�å­˜"
+
+
+
+
+#: Source
+msgid   "Source"
+msgstr  "èµ„æº�"
+
+msgid   "Add Source"
+msgstr  "æ·»åŠ èµ„æº�"
+
+msgid   "Are you sure to delete this Source"
+msgstr  "æ‚¨ç¡®å®šè¦�åˆ é™¤æ­¤èµ„æº�"
+
+msgid   "Source Name"
+msgstr  "èµ„æº�å��ç§°"
+
+msgid   "No deal in this source"
+msgstr  "è¿™èµ„æº�æ— æˆ�äº¤"
+
+msgid   "Active"
+msgstr  "æ´»è·ƒ"
+
+msgid   "Won"
+msgstr  "æˆ�åŠŸ"
+
+msgid   "Loss"
+msgstr  "å¤±è´¥"
+
+#: Product
+msgid   "Product"
+msgstr  "äº§å“�"
+
+msgid   "Add Product"
+msgstr  "æ·»åŠ äº§å“�"
+
+msgid   "Are you sure to delete this Product ?"
+msgstr  "æ‚¨ç¡®å®šè¦�åˆ é™¤æ­¤äº§å“�"
+
+msgid   "Product Name"
+msgstr  "äº§å“�å��ç§°"
+
+msgid   "Product Price"
+msgstr  "äº§å“�ä»·æ ¼"
+
+msgid   "No deal in this product."
+msgstr  "è¯¥äº§å“�çš„æ— äº¤æ˜“"
+
+
+
+#: Messages
+msgid   "Select member to message"
+msgstr  "é€‰æ‹©æˆ�å‘˜å�‘ä¿¡æ�¯"
+
+
+msgid   "Send message"
+msgstr  "å�‘ä¿¡æ�¯"
+
+msgid   "Message Reply"
+msgstr  "ç•™è¨€å›žå¤�"
+
+msgid   "Are you sure to delete this message ?"
+msgstr  "æ‚¨ç¡®å®šè¦�åˆ é™¤è¿™ä¿¡æ�¯?"
+
+
+
+#: Tickets
+msgid   "Ticket"
+msgstr  "ç¥¨"
+
+msgid   "Ticket ID"
+msgstr  "ç¥¨å�·"
+
+msgid   "Subject"
+msgstr  "ä¸»é¢˜"
+
+msgid   "Submitted By"
+msgstr  "æ��äº¤è€…"
+
+msgid   "Are you sure to delete this ticket ? All messages and files related to this ticket also deleted."
+msgstr  "æ‚¨ç¡®å®šè¦�åˆ é™¤è¿™å¼ ç¥¨ï¼Ÿä¸Žæ­¤ç›¸å…³çš„ç¥¨æ�®çš„æ‰€æœ‰é‚®ä»¶å’Œæ–‡ä»¶ä¹Ÿè¢«åˆ é™¤ã€‚"
+
+msgid   "Open"
+msgstr  "æ‰“å¼€"
+
+msgid   "In Progress"
+msgstr  "è¿›è¡Œä¸­"
+
+msgid   "On Hold"
+msgstr  "æš‚å�œ"
+
+msgid   "Reopened"
+msgstr  "é‡�å�¯"
+
+msgid   "Closed"
+msgstr  "å…³é—­"
+
+msgid   "Are you sure to delete this ticket ? All messages and files related to this ticket also deleted."
+msgstr  "æ‚¨ç¡®å®šè¦�åˆ é™¤è¿™å¼ ç¥¨ï¼Ÿä¸Žæ­¤ç›¸å…³çš„ç¥¨æ�®çš„æ‰€æœ‰é‚®ä»¶å’Œæ–‡ä»¶ä¹Ÿè¢«åˆ é™¤ã€‚"
+
+msgid   "Message"
+msgstr  "ä¿¡æ�¯"
+
+msgid   "Add Ticket"
+msgstr  "æ·»åŠ ç¥¨"
+
+msgid   "Message Reply"
+msgstr  "ç•™è¨€å›žå¤�"
+
+msgid   "Status"
+msgstr  "çŠ¶æ€�"
+
+msgid   "Ticket Number"
+msgstr  "ç¥¨å�·"
+
+msgid   "Ticket Details"
+msgstr  "ç¥¨è¯¦ç»†ä¿¡æ�¯"
+
+msgid   "Update Ticket"
+msgstr  "æ›´æ–°ç¥¨"
+
+#: Exports
+msgid   "Exports"
+msgstr  "å¯¼å‡º"
+
+msgid   "Export"
+msgstr  "å¯¼å‡º"
+
+msgid   "Export all companies"
+msgstr  "å¯¼å‡ºæ‰€æœ‰å…¬å�¸"
+
+msgid   "Export Company"
+msgstr  "å¯¼å‡ºå…¬å�¸"
+
+msgid   "Export all contacts"
+msgstr  "å¯¼å‡ºå…¨éƒ¨è�”ç³»äºº"
+
+msgid   "Export Contacts"
+msgstr  "å¯¼å‡ºè�”ç³»äºº"
+
+msgid   "Task Type"
+msgstr  "ä»»åŠ¡ç±»åž‹"
+
+msgid   "Export Task"
+msgstr  "å¯¼å‡ºä»»åŠ¡"
+
+msgid   "Export Deals"
+msgstr  "å¯¼å‡ºäº¤æ˜“"
+
+msgid   "All Deals"
+msgstr  "æ‰€æœ‰äº¤æ˜“"
+
+msgid   "Active Deals"
+msgstr  "æ´»è·ƒäº¤æ˜“"
+
+#: Custom Fields
+
+msgid   "Field"
+msgstr  "å­—æ®µ"
+
+msgid   "Text"
+msgstr  "æ–‡æœ¬"
+
+msgid   "Text Area"
+msgstr  "æ–‡æœ¬åŒºåŸŸ"
+
+msgid   "Are you sure to delete this custom field ? Data related to this custom field also deleted."
+msgstr  "æ‚¨ç¡®å®šè¦�åˆ é™¤è¿™ä¸ªè‡ªå®šä¹‰å­—æ®µï¼Ÿä¸Žæ­¤ç›¸å…³çš„è‡ªå®šä¹‰å­—æ®µçš„æ•°æ�®ä¹Ÿè¢«åˆ é™¤"
+
+msgid   "Field Name"
+msgstr  "å­—æ®µå��ç§°"
+
+msgid   "Text Field"
+msgstr  "æ–‡æœ¬åŸŸ"
+
+msgid   "Custom Field added to old deal or contact or company"
+msgstr  "è‡ªå®šä¹‰å­—æ®µæ·»åŠ åˆ°æ—§å¤„ç�†æˆ–æŽ¥è§¦æˆ–å…¬å�¸"
+
+msgid   "Module"
+msgstr  "æ¨¡"
+
+msgid   "Add Custom Field"
+msgstr  "æ·»åŠ è‡ªå®šä¹‰å­—æ®µ"
+
+#: Users
+msgid   "User"
+msgstr  "ç”¨æˆ·"
+
+msgid   "Are you sure to delete this user ? All data related to this user also deleted."
+msgstr  "æ‚¨ç¡®å®šè¦�åˆ é™¤è¿™ä¸ªç”¨æˆ·ï¼Ÿä¸Žæ­¤ç›¸å…³çš„ç”¨æˆ·çš„æ‰€æœ‰æ•°æ�®ä¹Ÿä¼šè¢«åˆ é™¤"
+
+msgid   "Role"
+msgstr  "è§’è‰²"
+
+msgid   "Password"
+msgstr  "å¯†ç �"
+
+msgid   "Add User"
+msgstr  "æ·»åŠ ç”¨æˆ·"
+
+msgid   "Client"
+msgstr  "å®¢æˆ·"
+
+msgid   "Staff"
+msgstr  "å‘˜å·¥"
+
+msgid   "Admin"
+msgstr  "ç®¡ç�†å‘˜"
+
+#: Settings
+
+msgid   "Database Backup"
+msgstr  "æ•°æ�®åº“å¤‡ä»½"  
+
+
+msgid   "<i class="fa fa-plus-circle fa-lg"></i> Database Backup"
+msgstr  "æ•°æ�®åº“å¤‡ä»½"
+
+msgid   "Title"
+msgstr  "æ ‡é¢˜"
+
+msgid   "Title Text"
+msgstr  "æ ‡é¢˜æ–‡æœ¬"
+
+msgid   "Logo"
+msgstr  "å¾½æ ‡"
+
+msgid   "Pipeline (Active)"
+msgstr  "ç®¡é�“ï¼ˆæ´»è·ƒï¼‰"
+
+msgid   "Language"
+msgstr  "è¯­è¨€"
+
+msgid   "Currency"
+msgstr  "è´§å¸�"
+
+msgid   "Currency Symbol"
+msgstr  "è´§å¸�ç¬¦å�·"
+
+msgid   "Date Format"
+msgstr  "æ—¥æœŸæ ¼å¼�"
+
+msgid   "Time Format"
+msgstr  "æ—¶é—´æ ¼å¼�"
+
+msgid   "Time Zone"
+msgstr  "æ—¶åŒº"
+
+msgid   "Company Name"
+msgstr  "å…¬å�¸å��"
+
+msgid   "Address"
+msgstr  "åœ°å�€"
+
+msgid   "City"
+msgstr  "å¸‚"
+
+msgid   "State"
+msgstr  "å·ž"
+
+msgid   "Zip/Post Code"
+msgstr  "é‚®ç¼–"
+
+msgid   "Country"
+msgstr  "å›½å®¶"
+
+msgid   "Telephone"
+msgstr  "ç”µè¯�"
+
+msgid   "System Email"
+msgstr  "ç³»ç»Ÿç”µå­�é‚®ä»¶"
+
+msgid   "Email (From Name)"
+msgstr  "ç”µå­�é‚®ä»¶ï¼ˆä»Žå��ç§°ï¼‰"
+
+msgid   "Ticket Type"
+msgstr  "ç¥¨ç±»åˆ«"
+
+msgid   "Are you sure to delete this file backup ?"
+msgstr  "æ‚¨ç¡®å®šè¦�åˆ é™¤è¿™ä¸ªæ–‡ä»¶å¤‡ä»½"
+
+msgid   "Are you sure to delete this Ticket Type ? Make Sure Ticket Type  have no active tickets.If have tickets delete that tickets before delete Ticket Type."
+msgstr  "æ‚¨ç¡®å®šè¦�åˆ é™¤è¿™å¼ ç¥¨ç±»åž‹ï¼Ÿç¡®ä¿�é—¨ç¥¨ç§�ç±»æ²¡æœ‰æœ‰æ•ˆtickets.Ifé—¨ç¥¨åˆ é™¤é—¨ç¥¨ä¹‹å‰�åˆ é™¤é—¨ç¥¨ç±»åˆ«"
+
+msgid   "General"
+msgstr  "ä¸€èˆ¬"
+
+msgid   "Type"
+msgstr  "ç±»åž‹"
+
+msgid   "File Name"
+msgstr  "æ–‡ä»¶å��"
+
+msgid   "Date Created"
+msgstr  "åˆ›å»ºæ—¥æœŸ"
+
+msgid   "System"
+msgstr  "ç³»ç»Ÿ"
+
+msgid   "Email Settings"
+msgstr  "ç”µå­�é‚®ä»¶è®¾ç½®"
+
+msgid   "Notification"
+msgstr  "é€šçŸ¥"
+
+msgid   "SMTP"
+msgstr  "SMTP"
+
+msgid   "SMTP Email Protocol"
+msgstr  "SMTPé‚®ä»¶å��è®®"
+
+msgid   "SMTP Host"
+msgstr  "SMTPä¸»æœº"
+
+msgid   "SMTP User"
+msgstr  "SMTPç”¨æˆ·"
+
+msgid   "SMTP Password"
+msgstr  "SMTPå¯†ç �"
+
+msgid   "SMTP Port"
+msgstr  "SMTPç«¯å�£"
+
+msgid   "Email Notification on add user to user (username & password)"
+msgstr  "ç”µå­�é‚®ä»¶é€šçŸ¥çš„ç”¨æˆ·æ·»åŠ åˆ°ç”¨æˆ·ï¼ˆç”¨æˆ·å��å’Œå¯†ç �ï¼‰"
+
+msgid   "Email Notification on Ticket messages"
+msgstr  "åœ¨ä¿¡æ�¯ç”µå­�é‚®ä»¶é€šçŸ¥"
+
+msgid   "Email Notification on Messages"
+msgstr  "åœ¨æ¶ˆæ�¯ç”µå­�é‚®ä»¶é€šçŸ¥"
+
+msgid   "On Local Host Please set SMTP to work notification and application."
+msgstr  "åœ¨æœ¬åœ°ä¸»æœºè¯·è®¾ç½®SMTPå·¥ä½œçš„é€šçŸ¥å’Œåº”ç”¨"
+
+
+
+#: Deal View
+
+msgid   "Uploaded By"
+msgstr  "ä¸Šä¼ è€…"
+
+msgid   "Files"
+msgstr  "æ¡£"
+
+msgid   "Members"
+msgstr  "ä¼šå‘˜"
+
+msgid   "Notes"
+msgstr  "ç¬”è®°"
+
+msgid   "Description"
+msgstr  "æ��è¿°"
+
+msgid   "Are you sure to delete ?"
+msgstr  "æ‚¨ç¡®å®šè¦�åˆ é™¤ï¼Ÿ"
+
+msgid   "Are you sure to make deal won ?"
+msgstr  "ä½ è‚¯å®šå�šäº¤æ˜“èµ¢äº†ï¼Ÿ"
+
+msgid   "Are you sure to make deal loss ?"
+msgstr  "ä½ è‚¯å®šè®©è¿™ç¬”äº¤æ˜“æ�Ÿå¤±?"
+
+msgid   "Are you sure to delete this deal? All the data related to this deal also deleted like task, notes, files, discussion."
+msgstr  "æ‚¨ç¡®å®šè¦�åˆ é™¤è¿™ä¸ªäº¤æ˜“å�—ï¼Ÿæ‰€æœ‰ä¸Žæ­¤ç›¸å…³çš„äº¤æ˜“æ•°æ�®ä¹Ÿè¢«åˆ é™¤å–œæ¬¢çš„ä»»åŠ¡ï¼Œä¾¿ç¬ºï¼Œæ–‡ä»¶çš„è®¨è®ºã€‚"
+
+msgid   "Change Pipeline"
+msgstr  "æ›´æ”¹ç®¡é�“"
+
+msgid   "General"
+msgstr  "ä¸€èˆ¬"
+
+msgid   "Task"
+msgstr  "ä»»åŠ¡"
+
+msgid   "Notes (Private)"
+msgstr  "æ³¨ï¼ˆç§�äººï¼‰"
+
+msgid   "Members"
+msgstr  "ä¼šå‘˜"
+
+msgid   "Save"
+msgstr  "ä¿�å­˜"
+
+msgid   "Delete"
+msgstr  "åˆ é™¤"
+
+msgid   "Post Reply"
+msgstr  "å�‘è¡¨å›žå¤�"
+
+msgid   "Message Reply"
+msgstr  "ç•™è¨€å›žå¤�"
+
+msgid   "Reply"
+msgstr  "å›žå¤�"
+
+msgid   "Send message"
+msgstr  "å�‘ä¿¡æ�¯"
+
+msgid   "Message"
+msgstr  "ä¿¡æ�¯"
+
+msgid   "New Message"
+msgstr  "æ–°ä¿¡æ�¯"
+
+msgid   "Low Priority"
+msgstr  "ä½Žä¼˜å…ˆçº§"
+
+msgid   "Medium Priority"
+msgstr  "ä¸­ä¼˜å…ˆçº§"
+
+msgid   "High Priority"
+msgstr  "é«˜ä¼˜å…ˆçº§"
+
+msgid   "No Task Added in Deal, Add new task."
+msgstr  "æ²¡æœ‰ä»»åŠ¡ä¸­æ·»åŠ çš„æ–°æ”¿ï¼Œæ·»åŠ æ–°ä»»åŠ¡."
+
+msgid   "No Source Added in Deal, Search Source to Add."
+msgstr  "æ²¡æœ‰èµ„æº�æ·»åŠ å�ˆå�Œï¼Œæ�œç´¢æº�æ·»åŠ "
+
+msgid   "Delete Source"
+msgstr  "åˆ é™¤èµ„æº�"
+
+msgid   "Quantity"
+msgstr  "æ•°é‡�"
+
+msgid   "Discount"
+msgstr  "æŠ˜æ‰£"
+
+msgid   "Sum"
+msgstr  "æ€»æ•°"
+
+msgid   "Delete Product"
+msgstr  "åˆ é™¤äº§å“�"
+
+msgid   "No Product Added in Deal, Search Product to Add."
+msgstr  "å°šæœªæ·»åŠ ä»»ä½•äº§å“�çš„äº¤æ˜“ï¼Œæ�œç´¢è¦�æ·»åŠ çš„äº§å“�ã€‚"
+
+msgid   "Search Product"
+msgstr  "æ�œç´¢äº§å“�"
+
+msgid   "Search Source"
+msgstr  "æ�œç´¢èµ„æº�"
+
+msgid   "Search Members"
+msgstr  "æ�œç´¢ä¼šå‘˜"
+
+msgid   "Delete Memeber"
+msgstr  "åˆ é™¤æˆ�å‘˜"
+
+msgid   "Search Contact"
+msgstr  "æ�œç´¢è�”ç³»äºº"
+
+msgid   "Delete Contact"
+msgstr  "åˆ é™¤è�”ç³»äºº"
+
+msgid   "No Contact Added in Deal, Search Contact to Add."
+msgstr  "æ— è�”ç³»äººæ·»åŠ åœ¨äº¤æ˜“ï¼Œæ�œç´¢è�”ç³»äººæ·»åŠ "
+
+msgid   "No Task added"
+msgstr  "å¢žåŠ æ— ä»»åŠ¡"
+
+msgid   "Search Deals"
+msgstr  "æ�œç´¢äº¤æ˜“"
+
+msgid   "Deal Details"
+msgstr  "äº¤æ˜“ç»†èŠ‚"
+
+msgid   "Add Deal"
+msgstr  "æ·»åŠ äº¤æ˜“"
+
+msgid   "Deal Name"
+msgstr  "äº¤æ˜“å��ç§°"
+
+msgid   "Deal Price"
+msgstr  "äº¤æ˜“ä»·"
+
+msgid   "Deal Details"
+msgstr  "äº¤æ˜“è¯¦ç»†ä¿¡æ�¯"
+
+msgid   "Won Deals"
+msgstr  "äº¤æ˜“æˆ�åŠŸ"
+
+msgid   "Lost Deals"
+msgstr  "äº¤æ˜“å¤±è´¥"
+
+msgid   "Later Tasks"
+msgstr  "å�Žæ�¥ä»»åŠ¡"
+
+msgid   "Delete Discussion"
+msgstr  "åˆ é™¤è®¨è®º"
+
+msgid   "created the Deal"
+msgstr  "åˆ›é€ äº¤æ˜“"
+
+msgid   "Added the contact"
+msgstr  "æ·»åŠ è�”ç³»äºº"
+
+msgid   "Delete the contact"
+msgstr  "åˆ é™¤è�”ç³»äºº"
+
+msgid   "Added the Product"
+msgstr  "æ·»åŠ äº§å“�"
+
+msgid   "Updated the Product"
+msgstr  "æ›´æ–°äº§å“�"
+
+msgid   "Delete the Product"
+msgstr  "åˆ é™¤äº§å“�"
+
+msgid   "Added the Source"
+msgstr  "æ·»åŠ èµ„æº�"
+
+msgid   "Delete the Source"
+msgstr  "åˆ é™¤èµ„æº�"
+
+msgid   "Added the File"
+msgstr  "æ·»åŠ æ–‡ä»¶"
+
+msgid   "Delete the File"
+msgstr  "åˆ é™¤æ–‡ä»¶"
+
+msgid   "Added the comment"
+msgstr  "æ·»åŠ è¯„è®º"
+
+msgid   "Delete the comment"
+msgstr  "åˆ é™¤è¯„è®º"
+
+msgid   "Added the Task"
+msgstr  "æ·»åŠ ä»»åŠ¡"
+
+msgid   "Updated the Task"
+msgstr  "æ›´æ–°ä»»åŠ¡"
+
+msgid   "Delete the Task"
+msgstr  "åˆ é™¤ä»»åŠ¡"
+
+msgid   "Appoint the User"
+msgstr  "ä»»å‘½ç”¨æˆ·"
+
+msgid   "Unappoint the User"
+msgstr  "è§£é™¤ä»»å‘½ç”¨æˆ·"
+
+msgid   "Change Deal Price from"
+msgstr  "ä»Žäº¤æ˜“å��è®®ä»·"
+
+msgid   "Change Deal Name from"
+msgstr  "ä»Žäº¤æ˜“å��è®®çš„å��ç§°"
+
+msgid   "Change Deal Pipeline from"
+msgstr  "ä»Žäº¤æ˜“æ¸ é�“æ›´æ”¹"
+
+msgid   "Change Deal Stage from"
+msgstr  "ä»Žäº¤æ˜“é˜¶æ®µ"
+
+msgid   "Won the deal"
+msgstr  "èŽ·äº¤æ˜“"
+
+msgid   "Loss the deal"
+msgstr  "äº�æ�Ÿäº¤æ˜“"
+
+msgid   "Active again deal"
+msgstr  "æ´»è·ƒèµ·æ�¥äº¤æ˜“"
+
+#: Admin
+
+msgid   "All Labels"
+msgstr  "æ‰€æœ‰æ ‡ç­¾"
+
+msgid   "Select Pipeline"
+msgstr  "é€‰æ‹©ç®¡é�“"
+
+#: Login
+
+msgid   "Email Address"
+msgstr  "ç”µå­�é‚®ä»¶åœ°å�€"
+
+msgid   "Login"
+msgstr  "ç™»å½•"
+
+msgid   "Forgot password?"
+msgstr  "å¿˜äº†å¯†ç �ï¼Ÿ"
+
+msgid   "Reset password"
+msgstr  "é‡�è®¾å¯†ç �"
+
+msgid   "Forgot your password?"
+msgstr  "å¿˜è®°å¯†ç �äº†å�—ï¼Ÿ"
+
+msgid   "Enter your email address to recover your password."
+msgstr  "è¯·è¾“å…¥æ‚¨çš„ç”µå­�é‚®ä»¶åœ°å�€æ�¥æ‰¾å›žå¯†ç �"
+
+msgid   "Back to login"
+msgstr  "è¿”å›žç™»å½•é¡µ"
+
+msgid   "Invalid username or password"
+msgstr  "æ— æ•ˆçš„ç”¨æˆ·å��æˆ–å¯†ç �"
+
+msgid   "Inactive Account,contact admin"
+msgstr  "é�žæ´»è·ƒè´¦æˆ·ï¼Œè�”ç³»äººç®¡ç�†"
+
+msgid   "Calendar"
+msgstr  "日历"
+
+#: Language
+
+msgid   "Chinese"
+msgstr  "中文"
+
+msgid   "Dutch"
+msgstr  "è�·è¯­"
+
+msgid   "English"
+msgstr  "è‹±è¯­"
+
+msgid   "French"
+msgstr  "æ³•è¯­"
+
+msgid   "German"
+msgstr  "å¾·è¯­"
+
+msgid   "Italian"
+msgstr  "æ„�å¤§åˆ©è¯­"
+
+msgid   "Polish"
+msgstr  "æ³¢å…°è¯­"
+
+msgid   "Portuguese"
+msgstr  "è‘¡è�„ç‰™è¯­"
+
+msgid   "Romanian"
+msgstr  "ç½—é©¬å°¼äºšè¯­"
+
+msgid   "Russians"
+msgstr  "ä¿„è¯­"
+
+msgid   "Spanish"
+msgstr  "è¥¿ç�­ç‰™è¯­"
+
+msgid   " System Settings"
+msgstr  "系统设置"
+
+msgid   " Company Details"
+msgstr  "公司详情"
+
+msgid   " Roles"
+msgstr  "角色"
+
+msgid   "Admin Role"
+msgstr  "管理员角色"
+
+msgid   "Reason"
+msgstr  "原因"
+
+msgid   "Add Task"
+msgstr  "添加任务"
+
+msgid   "Category"
+msgstr  "类别"
+
+msgid   "Assign"
+msgstr  "分配"
+
+msgid   "Note"
+msgstr  "注意"
+
+msgid   "Close"
+msgstr  "关"
+
+msgid   "Yet to Start"
+msgstr  "然而开始"
+
+msgid   "Completed"
+msgstr  "已完成"
+
+
+msgid   "Missed"
+msgstr  "错过"
+
+msgid   "Tommorow"
+msgstr  "明天"
+
+msgid   "Later"
+msgstr  "后来"
+
+msgid   "Select Deal"
+msgstr  "选择交易"
+
+
+msgid   "Create Event"
+msgstr  "选择交易"
+
+msgid   "month"
+msgstr  "月"
+
+msgid   "week"
+msgstr  "周"
+
+msgid   "day"
+msgstr  "天"
+
+msgid   "Start Date"
+msgstr  "开始日期"
+
+msgid   "End Date"
+msgstr  "结束日期"
+
+msgid   "Public"
+msgstr  "上市"
+
+msgid   "Private"
+msgstr  "私人的"
+
+msgid   "Group"
+msgstr  "组"
+
+msgid   "Select Group"
+msgstr  "选择组"
+
+msgid   "Active"
+msgstr  "Active"
+
+msgid   "Sales"
+msgstr  "销售"
+
+msgid   "Invoices"
+msgstr  "发票"
+
+msgid   "Issue Date"
+msgstr  "发行日期"
+
+msgid   "Due Date"
+msgstr  "截止日期"
+
+msgid   "Add Invoice"
+msgstr  "添加发票"
+
+msgid   "REFERENCE ID*"
+msgstr  "参考ID"
+
+msgid   "Tax (%)"
+msgstr  "税（％）"
+
+msgid   "DISCOUNT"
+msgstr  "折扣"
+
+msgid   "TERMS"
+msgstr  "条款"
+
+msgid   "Select Client"
+msgstr  "选择客户端"
+
+msgid   "Paid"
+msgstr  "付费"
+
+msgid   "Not Paid"
+msgstr  "没有支付"
+
+msgid   "Edit"
+msgstr  "编辑"
+
+msgid   "Add Payment"
+msgstr  "添加付款"
+
+msgid   "Preview"
+msgstr  "预习"
+
+msgid   "Invoice no."
+msgstr  "发票号码。"
+
+msgid   "Invoice date"
+msgstr  "发票日期"
+
+msgid   "Subtotal"
+msgstr  "小计"
+
+msgid   "Tax (0.00%)"
+msgstr  "税（0.00％）"
+
+msgid   "Total"
+msgstr  "总"
+
+msgid   "Balance Due"
+msgstr  "余额到期"
+
+msgid   "Payments"
+msgstr  "支付"
+
+msgid   "Transaction ID"
+msgstr  "交易ID"
+
+msgid   "Payment Date"
+msgstr  "付款日期"
+
+msgid   "Payment Method"
+msgstr  "付款方法"
+
+msgid   "Amount"
+msgstr  "量"
+
+msgid   "Edit Invoice"
+msgstr  "编辑发票"
+
+msgid   "Partialy Paid"
+msgstr  "部分付费"
+
+msgid   "Cancelled"
+msgstr  "取消"
+
+msgid   "Expenses"
+msgstr  "花费"
+
+msgid   "Add Expense"
+msgstr  "添加费用"
+
+msgid   "Member"
+msgstr  "会员"
+
+msgid   "Select Member"
+msgstr  "选择会员"
+
+msgid   "Attachment"
+msgstr  "附件"
+
+msgid   "Payment ID"
+msgstr  "付款ID"
+
+msgid   "Tax Rates"
+msgstr  "税率"
+
+msgid   "Percentage %"
+msgstr  "百分比％"
+
+msgid   "Add Tax Rate"
+msgstr  "添加税率"
+
+msgid   "Tax Rate Name"
+msgstr  "税率名称"
+
+msgid   "Tax Rate%"
+msgstr  "税率％"
+
+msgid   "Clients"
+msgstr  "客户端"
+
+msgid   "Import Company"
+msgstr  "进口公司"
+
+msgid   "CONTACTS"
+msgstr  "联系"
+
+msgid   "INVOICES"
+msgstr  "发票"
+
+msgid   "DEALS"
+msgstr  "交易"
+
+msgid   "Assign Group"
+msgstr  "分配组"
+
+msgid   "Add Client"
+msgstr  "添加客户端"
+
+msgid   "Edit Company"
+msgstr  "编辑公司"
+
+msgid   "Company description"
+msgstr  "公司介绍"
+
+msgid   "Groups:"
+msgstr  "组"
+
+msgid   "Import Contact"
+msgstr  "导入联系人"
+
+msgid   "Contact description "
+msgstr  "联系方式"
+
+msgid   "Reports"
+msgstr  "报告"
+
+msgid   "More"
+msgstr  "更多"
+
+msgid   "In Pipeline"
+msgstr  "In Pipeline"
+
+msgid   "All Department"
+msgstr  "所有部门"
+
+msgid   "All Status"
+msgstr  "所有状态"
+
+msgid   "Change Status"
+msgstr  "更改类型"
+
+msgid   "Change Type"
+msgstr  "更改类型"
+
+msgid   "Assign to"
+msgstr  "分配给"
+
+msgid   "From"
+msgstr  "从"
+
+msgid   "Announcements"
+msgstr  "通告"
+
+msgid   "Created By"
+msgstr  "由...制作"
+
+msgid   "Add Announcement"
+msgstr  "添加公告"
+
+msgid   "Share With"
+msgstr  "与某人分享"
+
+msgid   "Team Members"
+msgstr  "团队成员"
+
+msgid   "Team Members & Clients"
+msgstr  "团队成员和客户"
+
+msgid   "Admins"
+msgstr  "管理员"
+
+msgid   "Add Admin"
+msgstr  "添加管理员"
+
+msgid   "Select Role"
+msgstr  "选择角色"
+
+msgid   "Inactive"
+msgstr  "待用"
+
+msgid   "Group Managers"
+msgstr  "集团经理"
+
+msgid   "Personal"
+msgstr  "个人"
+
+msgid   "Managers"
+msgstr  "经理"
+
+msgid   "Add Manager"
+msgstr  "添加经理"
+
+msgid   "Add Team Member"
+msgstr  "添加团队成员"
+
+msgid   "Add Staff"
+msgstr  "添加员工"
+
+msgid   "Male"
+msgstr  "男"
+
+msgid   "Female"
+msgstr  "女"
+
+msgid   "Add Group"
+msgstr  "添加组"
+
+msgid   "Groups"
+msgstr  "组"
+
+msgid   " View Members"
+msgstr  "查看会员"
+
+msgid   " Groups"
+msgstr  "组"
+
+msgid   " Payment Methods"
+msgstr  "支付方式"
+
+msgid   " Expenses Category"
+msgstr  "费用类别"
+
+msgid   " Add Admin Role"
+msgstr  "添加管理员角色"
+
+msgid   "Add Staff Role"
+msgstr  "添加员工角色"
+
+msgid   "Update Permission"
+msgstr  "更新权限"
+
+msgid   "Staff Role"
+msgstr  "员工角色"
+
+msgid   "View"
+msgstr  "视图"
+
+msgid   "Add"
+msgstr  "加"
+
+msgid   "Module Permission"
+msgstr  "模块许可"
+
+msgid   " Ticket Departments"
+msgstr  "票务部门"
+
+msgid   "Add Department"
+msgstr  "添加部门"
+
+msgid   "Add Ticket Department"
+msgstr  "添加票务部门"
+
+msgid   "Add Payment Method"
+msgstr  "添加付款方式"
+
+msgid   "Add Expense Category"
+msgstr  "添加费用类别"
+
+msgid   "Update Announcement"
+msgstr  "更新公告"
+

@@ -1,0 +1,1688 @@
+# @author:   AnkkSoft.com
+# Copyright: AnkkSoft 2020
+# Website:   https://www.ankksoft.com
+# CodeCanyon User:  https://codecanyon.net/user/codeloop 
+
+
+#: Sidebar
+
+msgid   "Dashboard"
+msgstr  "Панель приборов"
+
+msgid   "Deals"
+msgstr  "предложения"
+
+msgid   "List Deals"
+msgstr  "Список отелей"
+
+msgid   "Won Deals"
+msgstr  "Выигранные предложения"
+
+msgid   "Loss Deals"
+msgstr  "Потеря предложения"
+
+msgid   "Tasks"
+msgstr  "Задания"
+
+msgid   "Task"
+msgstr  "задача"
+
+msgid   "All Task"
+msgstr  "Все Задача"
+
+msgid   "Contacts"
+msgstr  "контакты"
+
+msgid   "Companies"
+msgstr  "Компании"
+
+
+msgid   "Pipeline"
+msgstr  "Трубопровод"
+
+msgid   "Stages"
+msgstr  "Этапы"
+
+msgid   "Labels"
+msgstr  "Этикетки"
+
+msgid   "Activity"
+msgstr  "Мероприятия"
+
+msgid   "Number of Active Deals"
+msgstr  "Количество активных предложения"
+
+msgid   "Sources"
+msgstr  "источники"
+
+msgid   "Products"
+msgstr  "Продукты"
+
+msgid   "Messages"
+msgstr  "Сообщения"
+
+msgid   "Tickets"
+msgstr  "Билеты"
+
+msgid   "Exports"
+msgstr  "экспорт"
+
+msgid   "Custom Fields"
+msgstr  "Настраиваемые поля"
+
+msgid   "Users"
+msgstr  "пользователи"
+
+msgid   "Settings"
+msgstr  "настройки"
+
+#: Common
+msgid   "Name"
+msgstr  "имя"
+
+msgid   "Price"
+msgstr  "Цена"
+
+msgid   "Created"
+msgstr  "созданный"
+
+msgid   "Create"
+msgstr  "Создайте"
+
+msgid   "Filter"
+msgstr  "Фильтр"
+
+msgid   "Yes"
+msgstr  "Да"
+
+msgid   "No"
+msgstr  "Нет"
+
+msgid   "Date Range"
+msgstr  "Диапазон дат"
+
+msgid   "Email"
+msgstr  "Эл. адрес"
+
+msgid   "Previous"
+msgstr  "предыдущий"
+
+msgid   "First"
+msgstr  "Первый"
+
+msgid   "Next"
+msgstr  "Следующий"
+
+msgid   "Last"
+msgstr  "Последний"
+
+msgid   "Page"
+msgstr  "страница"
+
+msgid   "of"
+msgstr  "из"
+
+msgid   "Value"
+msgstr  "Стоимость"
+
+msgid   "at"
+msgstr  "в"
+
+msgid   "Active Again"
+msgstr  "Активный Опять"
+
+msgid   "By"
+msgstr  "От"
+
+msgid   "Save Changes"
+msgstr  "Сохранить изменения"
+
+msgid   "Loading"
+msgstr  "загрузка"
+
+msgid   "Load More"
+msgstr  "Загрузи больше"
+
+msgid   "Confirmation"
+msgstr  "подтверждение"
+
+msgid   "Basic Details"
+msgstr  "Основные детали"
+
+msgid   "Save"
+msgstr  "Сохранить"
+
+msgid   "Request has been completed."
+msgstr  "Запрос был завершен ."
+
+msgid   "Request has been not completed."
+msgstr  "Запрос был не завершен."
+
+#: Header
+
+msgid   "Logout"
+msgstr  "Выйти"
+
+#: Profile
+
+msgid   "Profile"
+msgstr  "Профиль"
+
+msgid   "Picture"
+msgstr  "Картина"
+
+msgid   "Edit Profile"
+msgstr  "Редактировать профиль"
+
+msgid   "Change Password"
+msgstr  "Изменить пароль"
+
+msgid   "Permission"
+msgstr  "разрешение"
+
+msgid   "Save Picture"
+msgstr  "Сохранить рисунок"
+
+msgid   "First Name"
+msgstr  "Имя"
+
+msgid   "Last Name"
+msgstr  "Фамилия"
+
+msgid   "About"
+msgstr  "Около"
+
+msgid   "Mobile Number"
+msgstr  "Мобильный номер"
+
+msgid   "Gender"
+msgstr  "Пол"
+
+msgid   "Location"
+msgstr  "Место нахождения"
+
+msgid   "Web Page"
+msgstr  "Веб-страница"
+
+msgid   "New Password"
+msgstr  "Новый пароль"
+
+msgid   "Re-type New Password"
+msgstr  "Введите повторно новый пароль"
+
+msgid   "Change Password"
+msgstr  "Изменить пароль"
+
+msgid   "Role"
+msgstr  "Роль"
+
+msgid   "Status"
+msgstr  "Положение дел"
+
+msgid   "Member since"
+msgstr  "Участник с"
+
+#: Task
+
+msgid   "My Task"
+msgstr  "My Task"
+
+msgid   "Overdue Tasks"
+msgstr  "Просроченные задачи"
+
+msgid   "Today"
+msgstr  "Cегодня"
+
+msgid   "Later Tasks"
+msgstr  "Более поздние задачи"
+
+msgid   "Appointment"
+msgstr  "Деловое свидание, встреча"
+
+msgid   "Call"
+msgstr  "Вызов"
+
+msgid   "Consultancy"
+msgstr  "Консультирование"
+
+msgid   "Quote"
+msgstr  "цитата"
+
+msgid   "Invoice"
+msgstr  "Выставленный счет"
+
+msgid   "Other"
+msgstr  "Другие"
+
+msgid   "Overdue Tasks"
+msgstr  "Просроченные задачи"
+
+
+msgid   "All Pipeline"
+msgstr  "Все трубопровода"
+
+msgid   "All"
+msgstr  "Все"
+
+
+
+msgid   "Are u sure to delete this task ?"
+msgstr  "Есть у забудьте удалить эту задачу?"
+
+msgid   "Update Task"
+msgstr  "Задача обновления"
+
+msgid   "Assign To"
+msgstr  "Назначить в"
+
+msgid   "Priority"
+msgstr  "приоритет"
+
+msgid   "Date"
+msgstr  "Дата"
+
+msgid   "Time"
+msgstr  "Время"
+
+
+
+
+#: Deal
+
+msgid   "Are you sure to delete this Deal ? All the data related to this deal also deleted like task, notes, files, discussion."
+msgstr  "Вы действительно хотите удалить этот курс ? Все данные, относящиеся к этой сделке также удаляются , как задачи, заметки, файлы , обсуждения ."
+
+msgid   "Deal"
+msgstr  "По рукам"
+
+#: Contact
+
+msgid   "Contact"
+msgstr  "контакт"
+
+msgid   "Are you sure to delete this contact ?"
+msgstr  "Вы уверены, что удалить этот контакт ?"
+
+msgid   "Add Contact"
+msgstr  "Добавить контакт"
+
+msgid   "Contact Name"
+msgstr  "Контактное лицо"
+
+msgid   "Select Company"
+msgstr  "Выберите компании"
+
+msgid   "Job Title"
+msgstr  "Название работы"
+
+msgid   "No deal in this contact"
+msgstr  "Нет сделка в этом контакте"
+
+msgid   "Skype"
+msgstr  "Skype"
+
+msgid   "LinkedIn"
+msgstr  "LinkedIn"
+
+msgid   "Twitter"
+msgstr  "щебет"
+
+msgid   "Facebook"
+msgstr  "facebook"
+
+msgid   "Social"
+msgstr  "Социальное"
+
+msgid   "Change"
+msgstr  "Изменить"
+
+msgid   "Remove"
+msgstr  "Удалить"
+
+msgid   "Select image"
+msgstr  "Выберите изображение"
+
+
+#: Company
+
+msgid   "Company"
+msgstr  "Компания"
+
+
+msgid   "Phone"
+msgstr  "Телефон"
+
+msgid   "Are you sure to delete this company ?"
+msgstr  "Вы действительно хотите удалить этот компанию ?"
+
+msgid   "Address"
+msgstr  "Адрес"
+
+msgid   "Website"
+msgstr  "Веб-сайт"
+
+msgid   "Permission"
+msgstr  "разрешение"
+
+msgid   "Default Active"
+msgstr  "По умолчанию вход"
+
+msgid   "Company Website"
+msgstr  "вебсайт компании"
+
+msgid   "Company Address"
+msgstr  "Адрес компании"
+
+msgid   "Company Email"
+msgstr  "Компания E-mail"
+
+msgid   "Company Phone"
+msgstr  "Телефон"
+
+msgid   "Company Name"
+msgstr  "название компании"
+
+msgid   "Add Company"
+msgstr  "Добавить компанию"
+
+msgid   "No Contacts in Company"
+msgstr  "Нет Контакты в Компании"
+
+#: Pipeline
+
+msgid   "Are you sure to delete this Pipeline ? Make Sure Pipeline have no active deal.If have active deal move or delete that deals before delete pipeline."
+msgstr  "Вы действительно хотите удалить этот трубопровод ? Убедитесь, что трубопровода не имеют активные deal.If не имеют активного сделки переместить или удалить , прежде чем что сделки удалить трубопровода."
+
+msgid   "Add Pipeline"
+msgstr  "Добавить трубопровода"
+
+msgid   "To"
+msgstr  "для"
+
+msgid   "Pipeline Name"
+msgstr  "Имя трубопроводов"
+
+
+
+#: Stages
+
+msgid   "Stage"
+msgstr  "Стадия"
+
+msgid   "Select Pipeline for Stages"
+msgstr  "Выберите трубопровода для этапов"
+
+msgid   "Add Stage"
+msgstr  "Добавить Стадия"
+
+msgid   "Stage Name"
+msgstr  "Сценический псевдоним"
+
+msgid   "Are you sure to delete this Stage ? Make sure stage have no active deal.If have active deal move or delete that deals before delete this stage."
+msgstr  "Вы действительно хотите удалить этот этап ? Убедитесь, что этап не имеют активные deal.If не имеют активного сделки переместить или удалить , прежде чем что сделки удалить эту сцену."
+
+
+
+#: Labels
+
+msgid   "Label"
+msgstr  "метка"
+
+msgid   "Select Pipeline to Label"
+msgstr  "Выберите трубопровода , чтобы маркировать"
+
+msgid   "Are you sure to delete this label ? Assign this label to deals also delete."
+msgstr  "Вы действительно хотите удалить этот ярлык ? Связать этот ярлык к сделкам также удалить."
+
+msgid   "Label Name"
+msgstr  "Название этикетки"
+
+msgid   "Add Label"
+msgstr  "Добавить метки"
+
+msgid   "Color"
+msgstr  "цвет"
+
+msgid   "Black"
+msgstr  "черный"
+
+msgid   "Blue"
+msgstr  "синий"
+
+msgid   "Green"
+msgstr  "зеленый"
+
+msgid   "Gray"
+msgstr  "Серый"
+
+msgid   "Red"
+msgstr  "красный"
+
+msgid   "Yellow"
+msgstr  "желтый"
+
+msgid   "Pink"
+msgstr  "розовый"
+
+msgid   "Orange"
+msgstr  "оранжевый"
+
+msgid   "Gold"
+msgstr  "Золото"
+
+
+
+
+
+#: Activity
+
+msgid   "Information"
+msgstr  "Информация"
+
+msgid   "Are you sure to delete this activity ?"
+msgstr  "Вы действительно хотите удалить эту деятельность ?"
+
+msgid   "Activity"
+msgstr  "Мероприятия"
+
+msgid   "All Pipeline"
+msgstr  "Все трубопровода"
+
+msgid   "All User"
+msgstr  "Все пользователи"
+
+msgid   "All Activity"
+msgstr  "Вся активность"
+
+msgid   "Created Deal"
+msgstr  "Создано сделки"
+
+msgid   "Deleted Deal"
+msgstr  "Удаленные сделки"
+
+msgid   "Stage changed"
+msgstr  "Стадия изменилось"
+
+msgid   "Pipeline changed"
+msgstr  "Трубопровод изменилось"
+
+msgid   "Mark deal as won"
+msgstr  "Марк выиграл дело, как"
+
+msgid   "Mark deal as loss"
+msgstr  "Отметить сделка , как потеря"
+
+msgid   "Again Active deal from won/loss"
+msgstr  "Опять Активный сделка выиграна / убыток"
+
+msgid   "Added Task"
+msgstr  "Добавлено Задача"
+
+msgid   "Updated Task"
+msgstr  "Обновлено Задача"
+
+msgid   "Deleted Task"
+msgstr  "Удаленные Задача"
+
+msgid   "Added Source to deal"
+msgstr  "Добавлено Источник для решения"
+
+msgid   "Deleted Source from deal"
+msgstr  "Удаленные Источник из сделки"
+
+msgid   "Added contact to deal"
+msgstr  "Добавлено контакт дело"
+
+msgid   "Deleted contact from deal"
+msgstr  "Удаленные контакты с сделки"
+
+msgid   "Apointed user to deal"
+msgstr  "Apointed пользователю дело"
+
+msgid   "Unpointed user from deal"
+msgstr  "Тупой пользователя из сделки"
+
+msgid   "Commented on deal"
+msgstr  "Комментарии по сделке"
+
+msgid   "Deleted the comment"
+msgstr  "Удаленные комментарий"
+
+msgid   "Added Product to deal"
+msgstr  "Товар добавлен в дело"
+
+msgid   "Updated Product in deal"
+msgstr  "Обновлено товаров в сделке"
+
+msgid   "Deleted Product from deal"
+msgstr  "Удаленные от сделки товаров"
+
+msgid   "Uploaded File in deal"
+msgstr  "Загружено файлов в сделке"
+
+msgid   "Deleted File from deal"
+msgstr  "Удаленных файлов из сделки"
+
+msgid   "Deal Created"
+msgstr  "Сделка Создано"
+
+msgid   "Deal Stage Changed"
+msgstr  "Сделка Стадия Изменено"
+
+msgid   "Deal Price Changed"
+msgstr  "Сделка Цена Изменено"
+
+msgid   "Deal Pipeline Changed"
+msgstr  "Трубопроводная сделка Изменено"
+
+msgid   "Deal Won"
+msgstr  "Сделка вон"
+
+msgid   "Deal Lost"
+msgstr  "Сделка Потерянный"
+
+msgid   "Deal Deleted"
+msgstr  "Сделка Удаленные"
+
+msgid   "Appoint User"
+msgstr  "Назначить пользователя"
+
+msgid   "Unappoint User"
+msgstr  "Unappoint Пользователь"
+
+msgid   "Deal Reactive"
+msgstr  "Сделка реактивной"
+
+msgid   "Task Created"
+msgstr  "Задача создания"
+
+msgid   "Task Updated"
+msgstr  "Задача Обновлено"
+
+msgid   "Task Deleted"
+msgstr  "Задача Удаленные"
+
+msgid   "File Added"
+msgstr  "Файл Добавлено"
+
+msgid   "File Removed"
+msgstr  "Удалены файла"
+
+msgid   "Comment Added"
+msgstr  "Комментарий добавлен"
+
+msgid   "Comment Deleted"
+msgstr  "Комментарий удалена"
+
+msgid   "Contact Added"
+msgstr  "Связаться Добавлено"
+
+msgid   "Contact Removed"
+msgstr  "Связаться с Удалены"
+
+msgid   "Product Added"
+msgstr  "Товар добавлен"
+
+msgid   "Product Updated"
+msgstr  "Продукт Обновлено"
+
+msgid   "Product Removed"
+msgstr  "Удалены товаров"
+
+msgid   "Source Added"
+msgstr  "Источник Добавлено"
+
+msgid   "Source Removed"
+msgstr  "Источник Удалены"
+
+
+#: Report
+
+msgid   "Active deal calculated according to date deal created."
+msgstr  "Активный сделка рассчитывается по дате сделки создали."
+
+msgid   "Number of Active Deals"
+msgstr  "Количество активных предложения"
+
+msgid   "Won Deals"
+msgstr  "Выигранные предложения"
+
+msgid   "Lost Deals"
+msgstr  "Потерянные предложения"
+
+msgid   "Price of Active Deals"
+msgstr  "Цена активные сделки"
+
+msgid   "Price of Won Deals"
+msgstr  "Цена предложения Вон"
+
+msgid   "Price of Loss Deals"
+msgstr  "Цена предложения потерь"
+
+msgid   "All Products"
+msgstr  "Все продукты"
+
+msgid   "All Sources"
+msgstr  "Все источники"
+
+msgid   "Report"
+msgstr  "отчет"
+
+msgid   "All Users"
+msgstr  "Все пользователи"
+
+msgid   "Number of Won Deals"
+msgstr  "Число сделок Вон"
+
+msgid   "Number of Lost Deals"
+msgstr  "Количество убыточных сделок"
+
+msgid   "Save"
+msgstr  "Сохранить"
+
+
+
+
+#: Source
+msgid   "Source"
+msgstr  "Источник"
+
+msgid   "Add Source"
+msgstr  "Добавить источник"
+
+msgid   "Are you sure to delete this Source"
+msgstr  "Вы уверены, что удалить этот источник"
+
+msgid   "Source Name"
+msgstr  "Название источника"
+
+msgid   "No deal in this source"
+msgstr  "Нет сделка в этом источнике"
+
+msgid   "Active"
+msgstr  "активный"
+
+msgid   "Won"
+msgstr  "Выиграл"
+
+msgid   "Loss"
+msgstr  "Выиграл"
+
+#: Product
+msgid   "Product"
+msgstr  "Продукт"
+
+msgid   "Add Product"
+msgstr  "Добавить продукт"
+
+msgid   "Are you sure to delete this Product ?"
+msgstr  "Вы действительно хотите удалить этот продукт ?"
+
+msgid   "Product Name"
+msgstr  "наименование товара"
+
+msgid   "Product Price"
+msgstr  "Цена товаров"
+
+msgid   "No deal in this product."
+msgstr  "Нет сделка в этом продукте ."
+
+
+
+#: Messages
+msgid   "Select member to message"
+msgstr  "Выберите членом сообщению"
+
+
+msgid   "Send message"
+msgstr  "Отправить сообщение"
+
+msgid   "Message Reply"
+msgstr  "Сообщение Ответить"
+
+msgid   "Are you sure to delete this message ?"
+msgstr  "Вы уверены, что удалить это сообщение ?"
+
+
+
+#: Tickets
+msgid   "Ticket"
+msgstr  "Билет"
+
+msgid   "Ticket ID"
+msgstr  "ID продаже билетов"
+
+msgid   "Subject"
+msgstr  "Предмет"
+
+msgid   "Submitted By"
+msgstr  "Представленный"
+
+msgid   "Are you sure to delete this ticket ? All messages and files related to this ticket also deleted."
+msgstr  "Вы уверены, что удалить этот билет ? Все сообщения и файлы, относящиеся к этим билетом также удаляются."
+
+msgid   "Open"
+msgstr  "открыто"
+
+msgid   "In Progress"
+msgstr  "В ходе выполнения"
+
+msgid   "On Hold"
+msgstr  "На удерживании"
+
+msgid   "Reopened"
+msgstr  "Возобновлена"
+
+msgid   "Closed"
+msgstr  "закрыто"
+
+msgid   "Are you sure to delete this ticket ? All messages and files related to this ticket also deleted."
+msgstr  "Вы уверены, что удалить этот билет ? Все сообщения и файлы, относящиеся к этим билетом также удаляются."
+
+msgid   "Message"
+msgstr  "Сообщение"
+
+msgid   "Add Ticket"
+msgstr  "Добавить билет"
+
+msgid   "Message Reply"
+msgstr  "Сообщение Ответить"
+
+msgid   "Status"
+msgstr  "Положение дел"
+
+msgid   "Ticket Number"
+msgstr  "Номер билета"
+
+msgid   "Ticket Details"
+msgstr  "подробности билетов"
+
+msgid   "Update Ticket"
+msgstr  "Обновление билетов"
+
+#: Exports
+msgid   "Exports"
+msgstr  "экспорт"
+
+msgid   "Export"
+msgstr  "экспорт"
+
+msgid   "Export all companies"
+msgstr  "Экспорт всех компаний"
+
+msgid   "Export Company"
+msgstr  "Экспорт компании"
+
+msgid   "Export all contacts"
+msgstr  "Экспорт всех контактов"
+
+msgid   "Export Contacts"
+msgstr  "Export Контакты"
+
+msgid   "Task Type"
+msgstr  "Тип задачи"
+
+msgid   "Export Task"
+msgstr  "Экспорт Задача"
+
+msgid   "Export Deals"
+msgstr  "Экспорт предложения"
+
+msgid   "All Deals"
+msgstr  "Все предложения"
+
+msgid   "Active Deals"
+msgstr  "Активные предложения"
+
+#: Custom Fields
+
+msgid   "Field"
+msgstr  "поле"
+
+msgid   "Text"
+msgstr  "Текст"
+
+msgid   "Text Area"
+msgstr  "Текстовая область"
+
+msgid   "Are you sure to delete this custom field ? Data related to this custom field also deleted."
+msgstr  "Вы действительно хотите удалить этот обычай поле? Данные, относящиеся к этой области пользовательского также удаляются."
+
+msgid   "Field Name"
+msgstr  "Имя поля"
+
+msgid   "Text Field"
+msgstr  "Текстовое поле"
+
+msgid   "Custom Field added to old deal or contact or company"
+msgstr  "Пользовательские поля добавляются к старому сделки или контакт или компании"
+
+msgid   "Module"
+msgstr  "модуль"
+
+msgid   "Add Custom Field"
+msgstr  "Добавить пользовательское поле"
+
+#: Users
+msgid   "User"
+msgstr  "пользователь"
+
+msgid   "Are you sure to delete this user ? All data related to this user also deleted."
+msgstr  "Вы действительно хотите удалить этого пользователя? Все данные, относящиеся к этому пользователю , также удаляются."
+
+msgid   "Role"
+msgstr  "Роль"
+
+msgid   "Password"
+msgstr  "пароль"
+
+msgid   "Add User"
+msgstr  "Добавить пользователя"
+
+msgid   "Client"
+msgstr  "клиент"
+
+msgid   "Staff"
+msgstr  "Сотрудники"
+
+msgid   "Admin"
+msgstr  "Админ"
+
+#: Settings
+
+msgid   "Database Backup"
+msgstr  "Резервное копирование базы данных"  
+
+
+msgid   "<i class="fa fa-plus-circle fa-lg"></i> Database Backup"
+msgstr  "< class="fa fa-plus-circle fa-lg"></i> Резервное копирование базы данных"
+
+msgid   "Title"
+msgstr  "заглавие"
+
+msgid   "Title Text"
+msgstr  "Название Текст"
+
+msgid   "Logo"
+msgstr  "логотип"
+
+msgid   "Pipeline (Active)"
+msgstr  "Трубопровод ( Активный )"
+
+msgid   "Language"
+msgstr  "язык"
+
+msgid   "Currency"
+msgstr  "валюта"
+
+msgid   "Currency Symbol"
+msgstr  "Символ валюты"
+
+msgid   "Date Format"
+msgstr  "Формат даты"
+
+msgid   "Time Format"
+msgstr  "Формат времени"
+
+msgid   "Time Zone"
+msgstr  "Часовой пояс"
+
+msgid   "Address"
+msgstr  "Адрес"
+
+msgid   "City"
+msgstr  "город"
+
+msgid   "State"
+msgstr  "состояние"
+
+msgid   "Zip/Post Code"
+msgstr  "Страна / Почтовый код"
+
+msgid   "Country"
+msgstr  "Страна"
+
+msgid   "Telephone"
+msgstr  "телефон"
+
+msgid   "System Email"
+msgstr  "система E-mail"
+
+msgid   "Email (From Name)"
+msgstr  "E-mail ( От имени )"
+
+msgid   "Ticket Type"
+msgstr  "Тип билетов"
+
+msgid   "Are you sure to delete this file backup ?"
+msgstr  "Вы уверены, что удалить этот файл резервной копии ?"
+
+msgid   "Are you sure to delete this Ticket Type ? Make Sure Ticket Type  have no active tickets.If have tickets delete that tickets before delete Ticket Type."
+msgstr  "Вы уверены, что удалить этот тип билета ? Убедитесь, что тип билета не имеют никакого активного tickets.If есть билеты удалять , что билеты , прежде чем удалить тип билета ."
+
+msgid   "General"
+msgstr  "Генеральная"
+
+msgid   "Type"
+msgstr  "Тип"
+
+msgid   "File Name"
+msgstr  "Имя файла"
+
+msgid   "Date Created"
+msgstr  "Дата создания"
+
+msgid   "System"
+msgstr  "система"
+
+msgid   "Email Settings"
+msgstr  "Настройки электронной почты"
+
+msgid   "Notification"
+msgstr  "уведомление"
+
+msgid   "SMTP"
+msgstr  "SMTP-"
+
+msgid   "SMTP Email Protocol"
+msgstr  "SMTP- протокол E-mail"
+
+msgid   "SMTP Host"
+msgstr  "SMTP- хост"
+
+msgid   "SMTP User"
+msgstr  "SMTP- пользователя"
+
+msgid   "SMTP Password"
+msgstr  "Пароль SMTP"
+
+msgid   "SMTP Port"
+msgstr  "SMTP Порт"
+
+msgid   "Email Notification on add user to user (username & password)"
+msgstr  "E-mail Уведомление о надстройке пользователя к пользователю (имя пользователя и пароль)"
+
+msgid   "Email Notification on Ticket messages"
+msgstr  "Уведомление по электронной почте о сообщениях билетов"
+
+msgid   "Email Notification on Messages"
+msgstr  "Уведомление по электронной почте на сообщения"
+
+msgid   "On Local Host Please set SMTP to work notification and application."
+msgstr  "На локальный хост Пожалуйста, установите SMTP работать уведомление и применение."
+
+
+
+#: Deal View
+
+msgid   "Uploaded By"
+msgstr  "Загружено пользователем"
+
+msgid   "Files"
+msgstr  "файлы"
+
+msgid   "Members"
+msgstr  "члены"
+
+msgid   "Notes"
+msgstr  "Заметки"
+
+msgid   "Description"
+msgstr  "Описание"
+
+msgid   "Are you sure to delete ?"
+msgstr  "Вы уверены, что хотите удалить?"
+
+msgid   "Are you sure to make deal won ?"
+msgstr  "Вы уверены, что сделать сделку вон ?"
+
+msgid   "Are you sure to make deal loss ?"
+msgstr  "Вы уверены, что сделать потерю сделки ?"
+
+msgid   "Are you sure to delete this deal? All the data related to this deal also deleted like task, notes, files, discussion."
+msgstr  "Вы действительно хотите удалить эту сделку ? Все данные, относящиеся к этой сделке также удаляются , как задачи, заметки, файлы , обсуждения ."
+
+msgid   "Change Pipeline"
+msgstr  "Изменить трубопроводов"
+
+msgid   "General"
+msgstr  "Генеральная"
+
+msgid   "Notes (Private)"
+msgstr  "Примечания (Частный )"
+
+msgid   "Members"
+msgstr  "члены"
+
+msgid   "Delete"
+msgstr  "Удалить"
+
+msgid   "Post Reply"
+msgstr  "Ответить"
+
+msgid   "Message Reply"
+msgstr  "Сообщение Ответить"
+
+msgid   "Reply"
+msgstr  "Ответить"
+
+msgid   "Send message"
+msgstr  "Отправить сообщение"
+
+msgid   "Message"
+msgstr  "Сообщение"
+
+msgid   "New Message"
+msgstr  "Новое сообщение"
+
+msgid   "Low Priority"
+msgstr  "Низкий приоритет"
+
+msgid   "Medium Priority"
+msgstr  "Средний приоритет"
+
+msgid   "High Priority"
+msgstr  "Высокий приоритет"
+
+msgid   "No Task Added in Deal, Add new task."
+msgstr  "Нет Задача Добавлено в Deal, Добавить новую задачу."
+
+msgid   "No Source Added in Deal, Search Source to Add."
+msgstr  "Нет Источник Добавлено в Deal, не Поиск Источник Добавить."
+
+msgid   "Delete Source"
+msgstr  "Удалить Источник"
+
+msgid   "Quantity"
+msgstr  "Количество"
+
+msgid   "Discount"
+msgstr  "скидка"
+
+msgid   "Sum"
+msgstr  "сумма"
+
+msgid   "Delete Product"
+msgstr  "Удалить продукт"
+
+msgid   "No Product Added in Deal, Search Product to Add."
+msgstr  "Нет товаров Добавлено в Deal, поиск товаров не добавить ."
+
+msgid   "Search Product"
+msgstr  "Поиск товаров"
+
+msgid   "Search Source"
+msgstr  "Поиск Источник"
+
+msgid   "Search Members"
+msgstr  "Поиск Пользователи"
+
+msgid   "Delete Memeber"
+msgstr  "Удалить защищённые"
+
+msgid   "Search Contact"
+msgstr  "Поиск Контакты"
+
+msgid   "Delete Contact"
+msgstr  "Удалить контакт"
+
+msgid   "No Contact Added in Deal, Search Contact to Add."
+msgstr  "Нет Контактная Добавлено в Deal , поиск контактов , чтобы добавить ."
+
+msgid   "No Task added"
+msgstr  "Не добавлено ни одна из задач"
+
+msgid   "Search Deals"
+msgstr  "Поиск отелей"
+
+msgid   "Deal Details"
+msgstr  "Deal Подробнее"
+
+msgid   "Add Deal"
+msgstr  "Добавить сделки"
+
+msgid   "Deal Name"
+msgstr  "Сделка Имя"
+
+msgid   "Deal Price"
+msgstr  "Сделка Цена"
+
+msgid   "Deal Details"
+msgstr  "Deal Подробнее"
+
+msgid   "Won Deals"
+msgstr  "Выигранные предложения"
+
+msgid   "Lost Deals"
+msgstr  "Потерянные предложения"
+
+msgid   "Later Tasks"
+msgstr  "Более поздние задачи"
+
+msgid   "Delete Discussion"
+msgstr  "Удалить Обсуждение"
+
+msgid   "created the Deal"
+msgstr  "создал курс"
+
+msgid   "Added the contact"
+msgstr  "Добавлена ​​контакт"
+
+msgid   "Delete the contact"
+msgstr  "Удалить контакт"
+
+msgid   "Added the Product"
+msgstr  "Добавлена ​​продукт"
+
+msgid   "Updated the Product"
+msgstr  "Обновлен продукт"
+
+msgid   "Delete the Product"
+msgstr  "Удалить продукт"
+
+msgid   "Added the Source"
+msgstr  "Добавил источник"
+
+msgid   "Delete the Source"
+msgstr  "Удалить источника"
+
+msgid   "Added the File"
+msgstr  "Добавлена ​​файл"
+
+msgid   "Delete the File"
+msgstr  "Удалить файл"
+
+msgid   "Added the comment"
+msgstr  "Добавлена ​​комментарий"
+
+msgid   "Delete the comment"
+msgstr  "Удалить комментарий"
+
+msgid   "Added the Task"
+msgstr  "Добавлено Целевая"
+
+msgid   "Updated the Task"
+msgstr  "Обновлено Целевая"
+
+msgid   "Delete the Task"
+msgstr  "Удалить задачу"
+
+msgid   "Appoint the User"
+msgstr  "Назначить пользователя"
+
+msgid   "Unappoint the User"
+msgstr  "Unappoint Пользователя"
+
+msgid   "Change Deal Price from"
+msgstr  "Изменить Deal Цена от"
+
+msgid   "Change Deal Name from"
+msgstr  "Изменить Deal имя от"
+
+msgid   "Change Deal Pipeline from"
+msgstr  "Изменить трубопроводную сделку с"
+
+msgid   "Change Deal Stage from"
+msgstr  "Изменить Deal стадии из"
+
+msgid   "Won the deal"
+msgstr  "Выиграл сделку"
+
+msgid   "Loss the deal"
+msgstr  "Потеря сделка"
+
+msgid   "Active again deal"
+msgstr  "Активный раз дело"
+
+#: Admin
+
+msgid   "All Labels"
+msgstr  "Все Этикетки"
+
+msgid   "Select Pipeline"
+msgstr  "Выберите трубопроводов"
+
+#: Login
+
+msgid   "Email Address"
+msgstr  "Адрес электронной почты"
+
+msgid   "Login"
+msgstr  "Авторизоваться"
+
+msgid   "Forgot password?"
+msgstr  "Забыли пароль?"
+
+msgid   "Reset password"
+msgstr  "Сброс пароля"
+
+msgid   "Forgot your password?"
+msgstr  "Забыли пароль?"
+
+msgid   "Enter your email address to recover your password."
+msgstr  "Введите свой ​​адрес электронной почты для восстановления пароля."
+
+msgid   "Back to login"
+msgstr  "Вернуться на страницу входа"
+
+msgid   "Invalid username or password"
+msgstr  "неправильное имя пользователя или пароль"
+
+msgid   "Inactive Account,contact admin"
+msgstr  "Неактивный счет , контакт администратора"
+
+msgid   "Calendar"
+msgstr  "Календарь"
+
+#: Language
+
+msgid   "Chinese"
+msgstr  "中文"
+
+msgid   "Dutch"
+msgstr  "Голландский"
+
+msgid   "English"
+msgstr  "английский"
+
+msgid   "French"
+msgstr  "Французский"
+
+msgid   "German"
+msgstr  "Немецкий"
+
+msgid   "Italian"
+msgstr  "итальянский"
+
+msgid   "Polish"
+msgstr  "польский"
+
+msgid   "Portuguese"
+msgstr  "португальский"
+
+msgid   "Romanian"
+msgstr  "румынский"
+
+msgid   "Russians"
+msgstr  "русские"
+
+msgid   "Spanish"
+msgstr  "испанский"
+
+msgid   " System Settings"
+msgstr  "Настройки системы"
+
+msgid   " Company Details"
+msgstr  "Сведения о компании"
+
+msgid   " Roles"
+msgstr  "Roles"
+
+msgid   "Admin Role"
+msgstr  "Роль администратора"
+
+msgid   "Reason"
+msgstr  "причина"
+
+msgid   "Add Task"
+msgstr  "Добавить задачу"
+
+msgid   "Category"
+msgstr  "категория"
+
+msgid   "Assign"
+msgstr  "приписывать"
+
+msgid   "Note"
+msgstr  "Заметка"
+
+msgid   "Close"
+msgstr  "близко"
+
+msgid   "Yet to Start"
+msgstr  "Еще не начать"
+
+msgid   "Completed"
+msgstr  "Завершенный"
+
+
+msgid   "Missed"
+msgstr  "Пропущенный"
+
+msgid   "Tommorow"
+msgstr  "Завтра"
+
+msgid   "Later"
+msgstr  "Потом"
+
+msgid   "Select Deal"
+msgstr  "Выберите предложение"
+
+
+msgid   "Create Event"
+msgstr  "Создать событие"
+
+msgid   "month"
+msgstr  "месяц"
+
+msgid   "week"
+msgstr  "неделю"
+
+msgid   "day"
+msgstr  "день"
+
+msgid   "Start Date"
+msgstr  "Дата начала"
+
+msgid   "End Date"
+msgstr  "Дата окончания"
+
+msgid   "Public"
+msgstr  "общественного"
+
+msgid   "Private"
+msgstr  "Частный"
+
+msgid   "Group"
+msgstr  "группа"
+
+msgid   "Select Group"
+msgstr  "Выберите группу"
+
+msgid   "Active"
+msgstr  "активный"
+
+msgid   "Sales"
+msgstr  "Продажи"
+
+msgid   "Invoices"
+msgstr  "Счета-фактуры"
+
+msgid   "Issue Date"
+msgstr  "Дата выпуска"
+
+msgid   "Due Date"
+msgstr  "Срок оплаты"
+
+msgid   "Add Invoice"
+msgstr  "Добавить счет"
+
+msgid   "REFERENCE ID*"
+msgstr  "СПРАВОЧНИК ID"
+
+msgid   "Tax (%)"
+msgstr  "налог (%)"
+
+msgid   "DISCOUNT"
+msgstr  "СКИДКА"
+
+msgid   "TERMS"
+msgstr  "ТЕРМИНЫ"
+
+msgid   "Select Client"
+msgstr  "Выберите клиента"
+
+msgid   "Paid"
+msgstr  "оплаченный"
+
+msgid   "Not Paid"
+msgstr  "Не выплачивается"
+
+msgid   "Edit"
+msgstr  "редактировать"
+
+msgid   "Add Payment"
+msgstr  "Добавить платеж"
+
+msgid   "Preview"
+msgstr  "предварительный просмотр"
+
+msgid   "Invoice no."
+msgstr  "Счет №"
+
+msgid   "Invoice date"
+msgstr  "Дата счета"
+
+msgid   "Subtotal"
+msgstr  "Промежуточный итог"
+
+msgid   "Tax (0.00%)"
+msgstr  "налог(0.00%)"
+
+msgid   "Total"
+msgstr  "Всего"
+
+msgid   "Balance Due"
+msgstr  "Задолжность"
+
+msgid   "Payments"
+msgstr  "платежи"
+
+msgid   "Transaction ID"
+msgstr  "номер транзакции"
+
+msgid   "Payment Date"
+msgstr  "Дата оплаты"
+
+msgid   "Payment Method"
+msgstr  "Способ оплаты"
+
+msgid   "Amount"
+msgstr  "Количество"
+
+msgid   "Edit Invoice"
+msgstr  "Изменить счет"
+
+msgid   "Partialy Paid"
+msgstr  "Частично оплачено"
+
+msgid   "Cancelled"
+msgstr  "отменен"
+
+msgid   "Expenses"
+msgstr  "Расходы"
+
+msgid   "Add Expense"
+msgstr  "Добавить расходы"
+
+msgid   "Member"
+msgstr  "член"
+
+msgid   "Select Member"
+msgstr  "Выберите члена"
+
+msgid   "Attachment"
+msgstr  "прикрепление"
+
+msgid   "Payment ID"
+msgstr  "Идентификатор платежа"
+
+msgid   "Tax Rates"
+msgstr  "Налоговые ставки"
+
+msgid   "Percentage %"
+msgstr  "Percentage %"
+
+msgid   "Add Tax Rate"
+msgstr  "Добавить налоговую ставку"
+
+msgid   "Tax Rate Name"
+msgstr  "Название налоговой ставки"
+
+msgid   "Tax Rate%"
+msgstr  "Ставка налога%"
+
+msgid   "Clients"
+msgstr  "клиенты"
+
+msgid   "Import Company"
+msgstr  "Импортная Компания"
+
+msgid   "CONTACTS"
+msgstr  "КОНТАКТЫ"
+
+msgid   "INVOICES"
+msgstr  "СЧЕТА"
+
+msgid   "DEALS"
+msgstr  "СДЕЛКИ"
+
+msgid   "Assign Group"
+msgstr  "Назначить группу"
+
+msgid   "Add Client"
+msgstr  "Добавить клиента"
+
+msgid   "Edit Company"
+msgstr  "Редактировать компанию"
+
+msgid   "Company description"
+msgstr  "Описание Компании"
+
+msgid   "Groups:"
+msgstr  "группы"
+
+msgid   "Import Contact"
+msgstr  "Импортировать контакт"
+
+msgid   "Contact description "
+msgstr  "Описание контакта"
+
+msgid   "Reports"
+msgstr  "Отчеты"
+
+msgid   "More"
+msgstr  "Больше"
+
+msgid   "In Pipeline"
+msgstr  "В трубопроводе"
+
+msgid   "All Department"
+msgstr  "Весь отдел"
+
+msgid   "All Status"
+msgstr  "Весь статус"
+
+msgid   "Change Status"
+msgstr  "Изменить статус"
+
+msgid   "Change Type"
+msgstr  "Изменить тип"
+
+msgid   "Assign to"
+msgstr  "Назначить на"
+
+msgid   "From"
+msgstr  "От"
+
+msgid   "Announcements"
+msgstr  "Объявления"
+
+msgid   "Created By"
+msgstr  "Создано"
+
+msgid   "Add Announcement"
+msgstr  "Добавить объявление"
+
+msgid   "Share With"
+msgstr  "Поделиться с"
+
+msgid   "Team Members"
+msgstr  "Члены команды"
+
+msgid   "Team Members & Clients"
+msgstr  "Члены команды и клиенты"
+
+msgid   "Admins"
+msgstr  "Админы"
+
+msgid   "Add Admin"
+msgstr  "Добавить администратора"
+
+msgid   "Select Role"
+msgstr  "Выберите роль"
+
+msgid   "Inactive"
+msgstr  "Неактивный"
+
+msgid   "Group Managers"
+msgstr  "Менеджеры группы"
+
+msgid   "Personal"
+msgstr  "личный"
+
+msgid   "Managers"
+msgstr  "Менеджеры"
+
+msgid   "Add Manager"
+msgstr  "Добавить менеджер"
+
+msgid   "Add Team Member"
+msgstr  "Добавить члена команды"
+
+msgid   "Add Staff"
+msgstr  "Добавить персонал"
+
+msgid   "Male"
+msgstr  "мужчина"
+
+msgid   "Female"
+msgstr  "женский"
+
+msgid   "Add Group"
+msgstr  "Добавить группу"
+
+msgid   "Groups"
+msgstr  "группы"
+
+msgid   " View Members"
+msgstr  "Просмотр участников"
+
+msgid   " Groups"
+msgstr  "группы"
+
+msgid   " Payment Methods"
+msgstr  "Способы оплаты"
+
+msgid   " Expenses Category"
+msgstr  "Категория расходов"
+
+msgid   " Add Admin Role"
+msgstr  "Добавить роль администратора"
+
+msgid   "Add Staff Role"
+msgstr  "Добавить роль персонала"
+
+msgid   "Update Permission"
+msgstr  "Обновить разрешение"
+
+msgid   "Staff Role"
+msgstr  "Роль персонала"
+
+msgid   "View"
+msgstr  "Посмотреть"
+
+msgid   "Add"
+msgstr  "добавлять"
+
+msgid   "Module Permission"
+msgstr  "Модуль Разрешения"
+
+msgid   " Ticket Departments"
+msgstr  "Отделы продаж билетов"
+
+msgid   "Add Department"
+msgstr  "Добавить отдел"
+
+msgid   "Add Ticket Department"
+msgstr  "Добавить отдел продаж"
+
+msgid   "Add Payment Method"
+msgstr  "Добавить способ оплаты"
+
+msgid   "Add Expense Category"
+msgstr  "Добавить категорию расходов"
+
+msgid   "Update Announcement"
+msgstr  "Обновить объявление"
+
