@@ -14,7 +14,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
-        <title><?php echo __('Deals Manager 2'); ?> - <?php echo __('Forgot Password'); ?></title>
+        <title><?php echo __('aiDvantage-CRM'); ?> - <?php echo __('Forgot Password'); ?></title>
         <?php echo $this->Html->css('email.css?' . rand); ?>
     </head>
 

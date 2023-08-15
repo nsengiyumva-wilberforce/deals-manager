@@ -16,7 +16,7 @@ error_reporting(E_ALL ^ E_NOTICE ^ E_DEPRECATED);
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta name="description" content="Installation">
         <meta name="author" content="Ankksoft">
-        <title>Deals Manager 2 - Installation</title>
+        <title>aiDvantage-CRM</title>
         <!-- Favicon -->
         <link type="image/x-icon" href="favicon.gif" rel="shortcut icon"/>
         <!-- Theme style --> 
@@ -35,7 +35,7 @@ error_reporting(E_ALL ^ E_NOTICE ^ E_DEPRECATED);
                     <!-- Header Section --> 
                     <header id="login-header">
                         <div id="login-logo">
-                            Install Deals Manager 2
+                            Install aiDvantage-CRM
                         </div>
                     </header>
                     <!-- End Header Section --> 

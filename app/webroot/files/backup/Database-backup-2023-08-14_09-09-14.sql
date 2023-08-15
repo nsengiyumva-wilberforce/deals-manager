@@ -526,7 +526,7 @@ CREATE TABLE `settings` (
   PRIMARY KEY (`id`)
 ) ENGINE=InnoDB AUTO_INCREMENT=2 DEFAULT CHARSET=utf8 COLLATE=utf8_general_ci;
 
-INSERT INTO settings VALUES('1','2','Deals Manager 2','dm.png','en','Dollars','$','Y-m-d','g:i A','America/Adak','3');
+INSERT INTO settings VALUES('1','2','aiDvantage-CRM','dm.png','en','Dollars','$','Y-m-d','g:i A','America/Adak','3');
 
 
 
@@ -546,7 +546,7 @@ CREATE TABLE `settings_company` (
   PRIMARY KEY (`id`)
 ) ENGINE=InnoDB AUTO_INCREMENT=2 DEFAULT CHARSET=utf8 COLLATE=utf8_general_ci;
 
-INSERT INTO settings_company VALUES('1','Deals Manager 2','New York ,USA','New York','New York','160000','USA','12345678','taskmanager@gmail.com','Task Manager');
+INSERT INTO settings_company VALUES('1','aiDvantage-CRM','New York ,USA','New York','New York','160000','USA','12345678','taskmanager@gmail.com','Task Manager');
 
 
 

@@ -1,6 +1,6 @@
 <?php
 /**
- * Install deals manager 2
+ * Install aiDvantage-CRM
  * 
  * @author:   AnkkSoft.com
  * @Copyright: AnkkSoft 2020

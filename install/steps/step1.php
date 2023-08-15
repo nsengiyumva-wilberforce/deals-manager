@@ -30,7 +30,7 @@
     </ul>
 </div>
 <!--End Install Steps --> 
-<div class="alert home-content"><h2>Welcome to Deals Manager 2</h2>
+<div class="alert home-content"><h2>Welcome to aiDvantage-CRM</h2>
     <h4>Our easy to read Terms</h4>
     <ul>
         <li>I will not distribute copies of this software, modified or otherwise</li>

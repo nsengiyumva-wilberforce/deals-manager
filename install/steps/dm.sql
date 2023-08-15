@@ -618,7 +618,7 @@ CREATE TABLE IF NOT EXISTS `settings` (
 --
 
 INSERT INTO `settings` (`id`, `title`, `title_text`, `title_logo`, `language`, `currency`, `currency_symbol`, `date_format`, `time_format`, `time_zone`, `pipeline`) VALUES
-(1, 2, 'Deals Manager 2', 'dm.png', 'en', 'Dollars', '$', 'Y-m-d', 'g:i A', 'America/Adak', 1);
+(1, 2, 'aiDvantage-CRM', 'dm.png', 'en', 'Dollars', '$', 'Y-m-d', 'g:i A', 'America/Adak', 1);
 
 -- --------------------------------------------------------
 
@@ -646,7 +646,7 @@ CREATE TABLE IF NOT EXISTS `settings_company` (
 --
 
 INSERT INTO `settings_company` (`id`, `name`, `address`, `city`, `state`, `zip_code`, `country`, `telephone`, `system_email`, `system_email_from`) VALUES
-(1, 'Deals Manager 2', 'New York ,USA', 'New York', 'New York', 160000, 'USA', 12345678, 'dealsmanager@gmail.com', 'dealsmanager@gmail.com');
+(1, 'aiDvantage-CRM', 'New York ,USA', 'New York', 'New York', 160000, 'USA', 12345678, 'dealsmanager@gmail.com', 'dealsmanager@gmail.com');
 
 -- --------------------------------------------------------
 
