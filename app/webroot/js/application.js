@@ -58,7 +58,11 @@ $(document).ready(function () {
             "data[Task][user_id]": "required",
             "data[Task][date]": "required",
             "data[Task][time]": "required",
-            "data[Deal][price]": {required: true, digits: true}
+            "data[Deal][price]": {required: true, digits: true},
+            "data[Target][description]": "required",
+            "data[Target][target]": "required",
+            "data[Target][deadline]": "required"
+
         },
         messages: {"data[Deal][price]": "", "data[Product][price]": ""},
         submitHandler: function (form) {
@@ -530,6 +534,19 @@ $(document).on('submit', 'form.vForm1', function () {
 });
 function fieldU(fieldId, id) {
     $("#" + fieldId).val(id);
+    $("#productIdDisplay").text(id); // Display the ID in the modal
+}
+
+function fieldUT(fieldId, id) {
+    $("#" + fieldId).val(id);
+}
+
+function fieldUR(fieldId, id, name, quantity, sku) {
+    $("#productIdRequest").val(id)
+    $("#productNameDisplay").text(name); // Display the ID in the modal
+    $("#productSkuDisplay").text(sku); // Display the ID in the modal
+    $("#productQuantityDisplay").text(quantity); // Display the ID in the modal
+
 }
 function loadmodal(id) {
     $('#TaskM .modal-body').html('<div class="loader-modal"></div>');
@@ -574,6 +591,7 @@ $(document).on("click", '.vEdit', function (e) {
 $(document).on("click", '.delSubmit', function (e) {
     $('.loader').show();
     var form = $(this).parents('form:first');
+    console.log(form)
     $.ajax({
         type: "POST",
         url: form.attr("action"),
@@ -734,6 +752,7 @@ $('.select-box-label').select2({
 });
 $('.datepickerDate').datepicker({format: 'dd-mm-yyyy', autoclose: true}).datepicker("setDate", new Date());
 $('.datepickerDateT').datepicker({format: 'dd-mm-yyyy', autoclose: true}).datepicker("setDate", new Date());
+$('.datepickerDateI').datepicker({format: 'dd-mm-yyyy', autoclose: true});
 $('#datepickerDate').datepicker({format: 'dd-mm-yyyy', autoclose: true}).datepicker("setDate", new Date());
 $('.datepickerDates').datepicker({format: 'dd-mm-yyyy', autoclose: true}).datepicker();
 $('#timepicker').timepicker({

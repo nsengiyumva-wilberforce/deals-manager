@@ -19,7 +19,7 @@ class SettingsController extends AppController
      *
      * @var array
      */
-    public $uses = array('Setting', 'SettingCompany', 'TicketType', 'Backup', 'PipelinePermission', 'Backup', 'SettingEmail', 'PaymentMethod', 'ExpenseCategory');
+    public $uses = array('Setting', 'SettingCompany', 'TicketType', 'IssuanceCategory', 'Backup', 'PipelinePermission', 'Backup', 'SettingEmail', 'PaymentMethod', 'ExpenseCategory', 'ProductCategory', 'UnitCategory', 'BrandCategory');
 
     /**
      * This controller uses following helpers
@@ -249,7 +249,7 @@ class SettingsController extends AppController
         //path to file
         $path = WWW_ROOT . 'files/backup';
         $filepath = $path . '/' . $fileName;
-        if (file_exists($filepath)) :
+        if (file_exists($filepath)):
             //return download file
             $this->response->file($filepath, array('download' => true));
         else:
@@ -555,6 +555,66 @@ class EmailConfig
         //set variables to view
         $this->set(compact('expensesC'));
     }
+
+    /**
+     * This function is used to add products category
+     *
+     * @return array
+     */
+
+    public function product_categories()
+    {
+        //get all products category
+        $productsC = $this->ProductCategory->find('all');
+
+        //set variables to view
+        $this->set(compact('productsC'));
+    }
+
+    /**
+     * This function is used to add brands category
+     *
+     * @return array
+     */
+    public function brand_categories()
+    {
+        //get all brands category
+        $brandsC = $this->BrandCategory->find('all');
+
+        //set variables to view
+        $this->set(compact('brandsC'));
+    }
+
+    /**
+     * This function is used to add units category
+     *
+     * @return array
+     */
+
+    public function unit_categories()
+    {
+        //get all units category
+        $unitsC = $this->UnitCategory->find('all');
+
+        //set variables to view
+        $this->set(compact('unitsC'));
+    }
+
+        /**
+     * This function is used to add units category
+     *
+     * @return array
+     */
+
+     public function issuance_categories()
+     {
+         //get all issuances category
+         $issuancesC = $this->IssuanceCategory->find('all');
+ 
+         //set variables to view
+         $this->set(compact('issuancesC'));
+     }
+
 }
 
 /* End of file SettingsController.php */

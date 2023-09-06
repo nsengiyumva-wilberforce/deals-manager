@@ -71,7 +71,7 @@
                         <!-- Footer Section -->
                         <footer class="row" id="footer-bar" >                          
                             <p class="col-xs-12" id="footer-copyright">
-                                Powered by <a href="https://www.ankksoft.com/" >AnkkSoft</a>
+                                Powered by <a href="https://www.ankksoft.com/" >Impact Outsourcing</a>
                             </p>
                         </footer>
                         <!-- End Footer Section -->

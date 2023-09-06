@@ -16,7 +16,7 @@ class ProductsController extends AppController
      *
      * @var array
      */
-    public $uses = array('Product', 'ProductDeal', 'Deal');
+    public $uses = array('Product', 'ProductDeal', 'Deal', 'Request', 'ProductCategory', 'BrandCategory', 'UnitCategory', 'IssuanceCategory');
 
     /**
      * This controller uses following helpers
@@ -62,8 +62,23 @@ class ProductsController extends AppController
         //get all products
         $products = $this->Product->getAllProducts();
 
+        //get approved Requests
+        $approvedRequests = $this->Request->getApprovedRequests();
+
+        //brand categories
+        $brandCategories = $this->BrandCategory->getAllCategories();
+
+        //units categories
+        $unitCategories = $this->UnitCategory->getAllCategories();
+
+        //product categories
+        $productCategories = $this->ProductCategory->getAllCategories();
+
+        //issuance categorries
+        $issuanceCategories = $this->IssuanceCategory->getAllIssuancesArr();
+
         //set product variable for view
-        $this->set(compact('products'));
+        $this->set(compact('products', 'approvedRequests', 'brandCategories', 'unitCategories', 'productCategories', 'issuanceCategories'));
     }
 
     /**
@@ -89,7 +104,7 @@ class ProductsController extends AppController
                 $this->Flash->success(__('Request has been not completed.'), array('key' => 'fail', 'params' => array('class' => 'alert alert-danger')));
             }
             return $this->redirect(
-                    array('controller' => 'products', 'action' => 'index')
+                array('controller' => 'products', 'action' => 'index')
             );
         }
     }
@@ -115,8 +130,16 @@ class ProductsController extends AppController
                 $this->request->data['Product']['id'] = $this->request->data['pk'];
                 if ($field == 'name') {
                     $this->request->data['Product']['name'] = $this->request->data['value'];
-                } else {
+                } else if ($field == 'price') {
                     $this->request->data['Product']['price'] = $this->request->data['value'];
+                } else if ($field == 'sku') {
+                    $this->request->data['Product']['sku'] = $this->request->data['value'];
+                } else if ($field == 'brand') {
+                    $this->request->data['Product']['brand'] = $this->request->data['value'];
+                } else if ($field == 'category') {
+                    $this->request->data['Product']['category'] = $this->request->data['value'];
+                } else if ($field == 'unit') {
+                    $this->request->data['Product']['unit'] = $this->request->data['value'];
                 }
                 //save product
                 $success = $this->Product->save($this->request->data);
@@ -340,8 +363,284 @@ class ProductsController extends AppController
         }
         //redirect to deal view
         return $this->redirect(
-                array('controller' => 'deals', 'action' => 'view', $ProductDeal['ProductDeal']['deal_id'])
+            array('controller' => 'deals', 'action' => 'view', $ProductDeal['ProductDeal']['deal_id'])
         );
+    }
+
+    public function request_item()
+    {
+        // autorender off for view
+        $this->autoRender = false;
+        //check permissions
+        // $this->checkStaffPermission('32');
+        //--------- Post request  -----------
+        if ($this->request->is('post')) {
+            $this->Request->create();
+            $this->request->data['Request']['return_date'] = ($this->request->data['Request']['return_date']) ? date('Y-m-d', strtotime($this->request->data['Request']['return_date'])) : null;
+            $this->request->data['Request']['requester_id'] = $this->Auth->user('id');
+            //save product
+            if ($this->Request->save($this->request->data)) {
+                //success message
+                $this->Flash->success(__('Request has been completed.'), array('key' => 'success', 'params' => array('class' => 'alert alert-info')));
+            } else {
+                //failure message
+                $this->Flash->success(__('Request has been not completed.'), array('key' => 'fail', 'params' => array('class' => 'alert alert-danger')));
+            }
+            return $this->redirect(
+                array('controller' => 'products', 'action' => 'index')
+            );
+        }
+    }
+
+    public function view_requested_items()
+    {
+        //check permissions
+        $this->checkStaffPermission('31');
+
+        //get all products
+        $requests = $this->Request->getAllRequests();
+
+        //set product variable for view
+        $this->set(compact('requests'));
+    }
+
+    public function approve_request($requestId)
+    {
+        // autorender off for view
+        $this->autoRender = false;
+        //check permissions
+        $this->checkStaffPermission('31');
+
+        $approval = $this->Request->approveRequest($requestId);
+
+        if ($approval) {
+            //success message
+            $this->Flash->success(__('Request has been approved.'), array('key' => 'success', 'params' => array('class' => 'alert alert-info')));
+        } else {
+            $this->Flash->success(__('Request has been not completed.'), array('key' => 'fail', 'params' => array('class' => 'alert alert-danger')));
+        }
+        return $this->redirect(
+            array('controller' => 'products', 'action' => 'view_requested_items')
+        );
+    }
+
+    /**
+     * This Function is used to add new category  from setting.
+     *
+     * @return void
+     */
+    public function add_brand_category()
+    {
+        // autorender off for view
+        $this->autoRender = false;
+        //--------- Post request  -----------
+        if ($this->request->is('post')) {
+            $this->BrandCategory->create();
+            //save ticket type
+            if ($this->BrandCategory->save($this->request->data)) {
+                //success message
+                $this->Flash->success('Request has been completed.', array('key' => 'success', 'params' => array('class' => 'alert alert-info')));
+            } else {
+                //failure message
+                $this->Flash->success('Request has been not completed.', array('key' => 'fail', 'params' => array('class' => 'alert alert-danger')));
+            }
+            //redirect to settings page
+            return $this->redirect(
+                array('controller' => 'settings', 'action' => 'brand_categories')
+            );
+        }
+    }
+    /**
+     * This Function is used to add new category  from setting.
+     *
+     * @return void
+     */
+    public function add_product_category()
+    {
+        // autorender off for view
+        $this->autoRender = false;
+        //--------- Post request  -----------
+        if ($this->request->is('post')) {
+            $this->ProductCategory->create();
+            //save ticket type
+            if ($this->ProductCategory->save($this->request->data)) {
+                //success message
+                $this->Flash->success('Request has been completed.', array('key' => 'success', 'params' => array('class' => 'alert alert-info')));
+            } else {
+                //failure message
+                $this->Flash->success('Request has been not completed.', array('key' => 'fail', 'params' => array('class' => 'alert alert-danger')));
+            }
+            //redirect to settings page
+            return $this->redirect(
+                array('controller' => 'settings', 'action' => 'product_categories')
+            );
+        }
+    }
+
+        /**
+     * This Function is used to add new category  from setting.
+     *
+     * @return void
+     */
+    public function add_issuance_category()
+    {
+        // autorender off for view
+        $this->autoRender = false;
+        //--------- Post request  -----------
+        if ($this->request->is('post')) {
+            $this->IssuanceCategory->create();
+            //save ticket type
+            if ($this->IssuanceCategory->save($this->request->data)) {
+                //success message
+                $this->Flash->success('Request has been completed.', array('key' => 'success', 'params' => array('class' => 'alert alert-info')));
+            } else {
+                //failure message
+                $this->Flash->success('Request has been not completed.', array('key' => 'fail', 'params' => array('class' => 'alert alert-danger')));
+            }
+            //redirect to settings page
+            return $this->redirect(
+                array('controller' => 'settings', 'action' => 'issuance_categories')
+            );
+        }
+    }
+
+    /**
+     * This Function is used to add new category  from setting.
+     *
+     * @return void
+     */
+    public function add_unit_category()
+    {
+        // autorender off for view
+        $this->autoRender = false;
+        //--------- Post request  -----------
+        if ($this->request->is('post')) {
+            $this->UnitCategory->create();
+            //save ticket type
+            if ($this->UnitCategory->save($this->request->data)) {
+                //success message
+                $this->Flash->success('Request has been completed.', array('key' => 'success', 'params' => array('class' => 'alert alert-info')));
+            } else {
+                //failure message
+                $this->Flash->success('Request has been not completed.', array('key' => 'fail', 'params' => array('class' => 'alert alert-danger')));
+            }
+            //redirect to settings page
+            return $this->redirect(
+                array('controller' => 'settings', 'action' => 'unit_categories')
+            );
+        }
+    }
+
+    /**
+     * This Function is used to delete category from settings.
+     *
+     * @return json
+     */
+    public function remove_category()
+    {
+        // autorender off for view
+        $this->autoRender = false;
+        $catId = $this->request->data['ProductCategory']['id'];
+        if (!empty($catId)) {
+            //--------- Post/Ajax request  -----------
+            if ($this->request->isPost() || $this->RequestHandler->isAjax()) {
+                //delete ticket
+                $success = $this->ProductCategory->delete($catId, false);
+                if ($success) {
+                    //return json success message
+                    $response = array('bug' => 0, 'msg' => 'success', 'vId' => $catId);
+                    return json_encode($response);
+                } else {
+                    //return json failure message
+                    $response = array('bug' => 1, 'msg' => 'failure');
+                    return json_encode($response);
+                }
+            }
+        }
+    }
+
+        /**
+     * This Function is used to delete brand from settings.
+     *
+     * @return json
+     */
+    public function remove_brand()
+    {
+        // autorender off for view
+        $this->autoRender = false;
+        $catId = $this->request->data['BrandCategory']['id'];
+        if (!empty($catId)) {
+            //--------- Post/Ajax request  -----------
+            if ($this->request->isPost() || $this->RequestHandler->isAjax()) {
+                //delete ticket
+                $success = $this->BrandCategory->delete($catId, false);
+                if ($success) {
+                    //return json success message
+                    $response = array('bug' => 0, 'msg' => 'success', 'vId' => $catId);
+                    return json_encode($response);
+                } else {
+                    //return json failure message
+                    $response = array('bug' => 1, 'msg' => 'failure');
+                    return json_encode($response);
+                }
+            }
+        }
+    }
+
+        /**
+     * This Function is used to delete unit from settings.
+     *
+     * @return json
+     */
+    public function remove_unit()
+    {
+        // autorender off for view
+        $this->autoRender = false;
+        $catId = $this->request->data['UnitCategory']['id'];
+        if (!empty($catId)) {
+            //--------- Post/Ajax request  -----------
+            if ($this->request->isPost() || $this->RequestHandler->isAjax()) {
+                //delete ticket
+                $success = $this->UnitCategory->delete($catId, false);
+                if ($success) {
+                    //return json success message
+                    $response = array('bug' => 0, 'msg' => 'success', 'vId' => $catId);
+                    return json_encode($response);
+                } else {
+                    //return json failure message
+                    $response = array('bug' => 1, 'msg' => 'failure');
+                    return json_encode($response);
+                }
+            }
+        }
+    }
+
+            /**
+     * This Function is used to delete issuance from settings.
+     *
+     * @return json
+     */
+    public function remove_issuance()
+    {
+        // autorender off for view
+        $this->autoRender = false;
+        $catId = $this->request->data['IssuanceCategory']['id'];
+        if (!empty($catId)) {
+            //--------- Post/Ajax request  -----------
+            if ($this->request->isPost() || $this->RequestHandler->isAjax()) {
+                //delete ticket
+                $success = $this->IssuanceCategory->delete($catId, false);
+                if ($success) {
+                    //return json success message
+                    $response = array('bug' => 0, 'msg' => 'success', 'vId' => $catId);
+                    return json_encode($response);
+                } else {
+                    //return json failure message
+                    $response = array('bug' => 1, 'msg' => 'failure');
+                    return json_encode($response);
+                }
+            }
+        }
     }
 }
 

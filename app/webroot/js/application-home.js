@@ -71,6 +71,9 @@ $(document).ready(function () {
     function fieldU(fieldId, id) {
         $("#" + fieldId).val(id);
     }
+    function fieldUT(fieldId, id) {
+        $("#" + fieldId).val(id);
+    }
     $('.select-box-search').select2();
     $('.select-box-label').select2({
         templateResult: function (state) {
@@ -250,6 +253,7 @@ $(document).ready(function () {
 
 });
 $('.datepickerDateT').datepicker({format: 'dd-mm-yyyy', autoclose: true}).datepicker("setDate", new Date());
+$('.datepickerDateI').datepicker({format: 'dd-mm-yyyy', autoclose: true});
 $('#timepicker').timepicker({
 }).focus(function () {
     $(this).next().trigger('click');

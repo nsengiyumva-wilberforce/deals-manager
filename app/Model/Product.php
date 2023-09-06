@@ -46,6 +46,26 @@ class Product extends AppModel
     }
 
     /**
+     * get products array key-value pair
+     */
+    public function getAllProductsArr()
+    {
+        //query
+        $products = $this->find('all', array('order' => array('Product.id DESC')));
+
+        // Initialize an empty array to store the result
+        $result = array();
+
+        // Loop through the products and format the result array
+        foreach ($products as $product) {
+            $result[$product['Product']['id']] = $product['Product']['name'];
+        }
+
+        return $result;
+    }
+
+
+    /**
      * This function is used to get product by product id
      *
      * @access public
@@ -67,8 +87,10 @@ class Product extends AppModel
     public function getProductsByDeal($dealId)
     {
         //query
-        $results = $this->find('all', array('joins' => array(
-                array('table' => 'product_deals',
+        $results = $this->find('all', array(
+            'joins' => array(
+                array(
+                    'table' => 'product_deals',
                     'alias' => 'ProductDeal',
                     'type' => 'left',
                     'foreignKey' => false,
@@ -78,7 +100,8 @@ class Product extends AppModel
             'conditions' => array('ProductDeal.deal_id' => $dealId),
             'fields' => array('Product.id', 'Product.name', 'Product.price', 'ProductDeal.id', 'ProductDeal.quantity', 'ProductDeal.discount', 'ProductDeal.price'),
             'order' => array('Product.name ASC')
-        ));
+        )
+        );
         return $results;
     }
 
@@ -104,8 +127,10 @@ class Product extends AppModel
     public function getProductsForDeal($Id)
     {
         //query
-        $results = $this->find('first', array('joins' => array(
-                array('table' => 'product_deals',
+        $results = $this->find('first', array(
+            'joins' => array(
+                array(
+                    'table' => 'product_deals',
                     'alias' => 'ProductDeal',
                     'type' => 'left',
                     'foreignKey' => false,
@@ -114,7 +139,8 @@ class Product extends AppModel
             ),
             'conditions' => array('Product.id' => $Id),
             'fields' => array('Product.id', 'Product.name', 'Product.price', 'ProductDeal.id', 'ProductDeal.quantity', 'ProductDeal.discount', 'ProductDeal.price'),
-        ));
+        )
+        );
         return $results;
     }
 

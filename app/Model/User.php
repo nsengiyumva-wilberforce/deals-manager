@@ -209,6 +209,25 @@ class User extends AppModel
     }
 
     /**
+     * get products array key-value pair
+     */
+    public function getAllUsersArr()
+    {
+        //query
+        $users = $this->find('all', array('order' => array('User.id DESC')));
+
+        // Initialize an empty array to store the result
+        $result = array();
+
+        // Loop through the users and format the result array
+        foreach ($users as $user) {
+            $result[$user['User']['id']] = $user['User']['name'];
+        }
+
+        return $result;
+    }
+
+    /**
      * This function is used to get all users
      *
      * @access public

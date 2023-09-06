@@ -40,6 +40,8 @@
                             <li class="<?= ($action == 'tasks') ? 'active' : 'nav-noactive' ?>"><a href="<?php echo $this->Html->url(array('controller' => 'tasks', 'action' => 'index')); ?>"><i class='fa fa-tasks'></i><span><?php echo __('Task'); ?></span></a> </li>
                         <?php endif; ?>
                         <li class="<?= ($action == 'calenders') ? 'active' : 'nav-noactive' ?>"><a href="<?php echo $this->Html->url(array('controller' => 'calenders', 'action' => 'index')); ?>"><i class='fa fa-calendar'></i><span><?php echo __('Calendar'); ?></span></a> </li>
+                        <li class="<?= ($action == 'maintenances') ? 'active' : 'nav-noactive' ?>"><a href="<?php echo $this->Html->url(array('controller' => 'maintenances', 'action' => 'index')); ?>"><i class='fa fa-asterisk'></i><span><?php echo __('Maintenance'); ?></span></a> </li>
+                        <li class="<?= ($action == 'targets') ? 'active' : 'nav-noactive' ?>"><a href="<?php echo $this->Html->url(array('controller' => 'targets', 'action' => 'index')); ?>"><i class='fa fa-spinner'></i><span><?php echo __('Targets'); ?></span></a> </li>
                         <li class="<?= ($action == 'invoices' || $action == 'expenses') ? 'active' : 'nav-noactive' ?>">
                             <a class="dropdown-toggle" href="#"><i class='fa fa-shopping-cart'></i><span><?php echo __('Sales'); ?></span><i class="fa fa-angle-right drop-icon"></i></a>
                             <ul class="submenu">
