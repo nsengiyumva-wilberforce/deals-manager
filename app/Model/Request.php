@@ -41,7 +41,7 @@ class Request extends AppModel
     public function getAllRequests()
     {
         $result = $this->find('all', array(
-            'fields' => array('Request.id', 'Request.purpose_of_issuance', 'Request.quantity_requested', 'Request.description', 'Request.return_date', 'Request.status', 'User.username', 'Product.sku'),
+            'fields' => array('Request.id', 'IssuanceCategory.name', 'Request.quantity_requested', 'Request.description', 'Request.return_date', 'Request.status', 'User.username', 'Product.sku'),
             'order' => array('Request.id ASC'),
             'joins' => array(
                 array(
@@ -58,6 +58,14 @@ class Request extends AppModel
                     'type' => 'INNER',
                     'conditions' => array(
                         'Product.id = Request.product_id'
+                    )
+                    ),
+                                    array(
+                    'table' => 'issuances_category',
+                    'alias' => 'IssuanceCategory',
+                    'type' => 'INNER',
+                    'conditions' => array(
+                        'IssuanceCategory.id = Request.purpose_of_issuance'
                     )
                 )
             )

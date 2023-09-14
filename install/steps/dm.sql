@@ -331,6 +331,90 @@ INSERT INTO `expenses_category` (`id`, `name`, `description`) VALUES
 -- --------------------------------------------------------
 
 --
+-- Table structure for table `products_category`
+--
+
+DROP TABLE IF EXISTS `products_category`;
+CREATE TABLE IF NOT EXISTS `products_category` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `name` mediumtext NOT NULL,
+  `description` mediumtext NOT NULL,
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB AUTO_INCREMENT=2 DEFAULT CHARSET=utf8;
+
+--
+-- Dumping data for table `products_category`
+--
+
+INSERT INTO `products_category` (`id`, `name`, `description`) VALUES
+(1, 'Product Category', 'Description');
+
+-- --------------------------------------------------------
+
+--
+-- Table structure for table `brands_category`
+--
+
+DROP TABLE IF EXISTS `brands_category`;
+CREATE TABLE IF NOT EXISTS `brands_category` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `name` mediumtext NOT NULL,
+  `description` mediumtext NOT NULL,
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB AUTO_INCREMENT=2 DEFAULT CHARSET=utf8;
+
+--
+-- Dumping data for table `brands_category`
+--
+
+INSERT INTO `brands_category` (`id`, `name`, `description`) VALUES
+(1, 'Brand Category', 'Description');
+
+-- --------------------------------------------------------
+
+--
+-- Table structure for table `expenses_category`
+--
+
+DROP TABLE IF EXISTS `units_category`;
+CREATE TABLE IF NOT EXISTS `units_category` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `name` mediumtext NOT NULL,
+  `description` mediumtext NOT NULL,
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB AUTO_INCREMENT=2 DEFAULT CHARSET=utf8;
+
+--
+-- Dumping data for table `units_category`
+--
+
+INSERT INTO `units_category` (`id`, `name`, `description`) VALUES
+(1, 'Units Category', 'Description');
+
+-- --------------------------------------------------------
+
+--
+-- Table structure for table `issuances_category`
+--
+
+DROP TABLE IF EXISTS `issuances_category`;
+CREATE TABLE IF NOT EXISTS `issuances_category` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `name` mediumtext NOT NULL,
+  `description` mediumtext NOT NULL,
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB AUTO_INCREMENT=2 DEFAULT CHARSET=utf8;
+
+--
+-- Dumping data for table `issuances_category`
+--
+
+INSERT INTO `issuances_category` (`id`, `name`, `description`) VALUES
+(1, 'issuances Category', 'Description');
+
+-- --------------------------------------------------------
+
+--
 -- Table structure for table `files`
 --
 
@@ -567,8 +651,71 @@ CREATE TABLE IF NOT EXISTS `pipeline_permission` (
 DROP TABLE IF EXISTS `products`;
 CREATE TABLE IF NOT EXISTS `products` (
   `id` int(11) NOT NULL AUTO_INCREMENT,
+  `sku` varchar(255) NOT NULL,
   `name` varchar(255) NOT NULL,
+  `category` varchar(255) NOT NULL,
+  `brand` varchar(255) NOT NULL,
+  `unit` varchar(255) NOT NULL,
+  `quantity` float NOT NULL DEFAULT '0',
+  `quantity_issued` float NOT NULL DEFAULT '0',
   `price` float NOT NULL DEFAULT '0',
+  `created` datetime NOT NULL,
+  `modified` datetime NOT NULL,
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+
+-- --------------------------------------------------------
+
+--
+-- Table structure for table `item requests`
+--
+
+DROP TABLE IF EXISTS `requests`;
+CREATE TABLE IF NOT EXISTS `requests` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `product_id` int(1) NOT NULL,
+  `requester_id` int(1) NOT NULL,
+  `purpose_of_issuance` varchar(255) NOT NULL,
+  `quantity_requested` float NOT NULL DEFAULT '0',
+  `description` mediumtext NOT NULL,
+  `return_date` date NULL DEFAULT NULL,
+  `status` int(1) NOT NULL DEFAULT '0',
+  `created` datetime NOT NULL,
+  `modified` datetime NOT NULL,
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+
+-- --------------------------------------------------------
+
+--
+-- Table structure for table `maintenance logs`
+--
+
+DROP TABLE IF EXISTS `maintenances`;
+CREATE TABLE IF NOT EXISTS `maintenances` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `product_id` int(1) NOT NULL,
+  `performed_by` varchar(255) NOT NULL,
+  `description` varchar(255) NOT NULL,
+  `created` datetime NOT NULL,
+  `modified` datetime NOT NULL,
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+
+-- --------------------------------------------------------
+
+--
+-- Table structure for table `targets`
+--
+
+DROP TABLE IF EXISTS `targets`;
+CREATE TABLE IF NOT EXISTS `targets` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `product_id` int(1) NOT NULL,
+  `target_owner` int(1) NOT NULL,
+  `target` float NOT NULL DEFAULT '0',
+  `description` varchar(255) NULL,
+  `deadline` date NOT NULL,
   `created` datetime NOT NULL,
   `modified` datetime NOT NULL,
   PRIMARY KEY (`id`)

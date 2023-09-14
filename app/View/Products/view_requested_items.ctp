@@ -93,10 +93,10 @@
                                                         <?php if ($this->Common->isStaffPermission('33')): ?>
                                                             <a href="javascript:void(0)" data-type="text"
                                                                 data-pk="<?php echo h($row['Request']['id']); ?>" data-name="product_id"
-                                                                ref="popover"><?php echo h($row['Request']['purpose_of_issuance']); ?></a>
+                                                                ref="popover"><?php echo h($row['IssuanceCategory']['name']); ?></a>
                                                             <?php
                                                         else:
-                                                            echo h($row['Request']['purpose_of_issuance']);
+                                                            echo h($row['IssuanceCategory']['name']);
                                                         endif;
 
                                                         ?>

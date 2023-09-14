@@ -40,10 +40,51 @@ class Product extends AppModel
      */
     public function getAllProducts()
     {
-        //query
-        $result = $this->find('all', array('order' => array('Product.id DESC')));
+        // Subquery to calculate the count of approved requests for each product
+        $subquery = $this->find('all', array(
+            'fields' => array(
+                'product_id',
+                'COUNT(*) AS requests_count'
+            ),
+            'conditions' => array(
+                'status' => 'approved'
+            ),
+            'group' => 'product_id'
+        ));
+    
+        // Main query to fetch products and join with the subquery result
+        $result = $this->find('all', array(
+            'fields' => array(
+                'Product.id', 
+                'Product.sku', 
+                'Product.name', 
+                'Product.category', 
+                'Product.brand', 
+                'Product.unit', 
+                'Product.quantity', 
+                'Product.quantity_issued', 
+                'Product.price', 
+                'Product.created', 
+                'UnitCategory.name',
+                'COALESCE(subquery.requests_count, 0) AS requests_count' // Use COALESCE to handle products with no requests
+            ),
+            'order' => array('Product.id DESC'),
+            'joins' => array(
+                array(
+                    'table' => 'units_category',
+                    'alias' => 'UnitCategory',
+                    'type' => 'INNER',
+                    'conditions' => array(
+                        'UnitCategory.id = Product.unit'
+                    )
+                )
+            ),
+            'subquery' => $subquery, // Include the subquery result
+        ));
+    
         return $result;
     }
+    
 
     /**
      * get products array key-value pair
@@ -87,20 +128,22 @@ class Product extends AppModel
     public function getProductsByDeal($dealId)
     {
         //query
-        $results = $this->find('all', array(
-            'joins' => array(
-                array(
-                    'table' => 'product_deals',
-                    'alias' => 'ProductDeal',
-                    'type' => 'left',
-                    'foreignKey' => false,
-                    'conditions' => array('Product.id = ProductDeal.product_id')
-                )
-            ),
-            'conditions' => array('ProductDeal.deal_id' => $dealId),
-            'fields' => array('Product.id', 'Product.name', 'Product.price', 'ProductDeal.id', 'ProductDeal.quantity', 'ProductDeal.discount', 'ProductDeal.price'),
-            'order' => array('Product.name ASC')
-        )
+        $results = $this->find(
+            'all',
+            array(
+                'joins' => array(
+                    array(
+                        'table' => 'product_deals',
+                        'alias' => 'ProductDeal',
+                        'type' => 'left',
+                        'foreignKey' => false,
+                        'conditions' => array('Product.id = ProductDeal.product_id')
+                    )
+                ),
+                'conditions' => array('ProductDeal.deal_id' => $dealId),
+                'fields' => array('Product.id', 'Product.name', 'Product.price', 'ProductDeal.id', 'ProductDeal.quantity', 'ProductDeal.discount', 'ProductDeal.price'),
+                'order' => array('Product.name ASC')
+            )
         );
         return $results;
     }
@@ -127,19 +170,21 @@ class Product extends AppModel
     public function getProductsForDeal($Id)
     {
         //query
-        $results = $this->find('first', array(
-            'joins' => array(
-                array(
-                    'table' => 'product_deals',
-                    'alias' => 'ProductDeal',
-                    'type' => 'left',
-                    'foreignKey' => false,
-                    'conditions' => array('Product.id = ProductDeal.product_id')
-                )
-            ),
-            'conditions' => array('Product.id' => $Id),
-            'fields' => array('Product.id', 'Product.name', 'Product.price', 'ProductDeal.id', 'ProductDeal.quantity', 'ProductDeal.discount', 'ProductDeal.price'),
-        )
+        $results = $this->find(
+            'first',
+            array(
+                'joins' => array(
+                    array(
+                        'table' => 'product_deals',
+                        'alias' => 'ProductDeal',
+                        'type' => 'left',
+                        'foreignKey' => false,
+                        'conditions' => array('Product.id = ProductDeal.product_id')
+                    )
+                ),
+                'conditions' => array('Product.id' => $Id),
+                'fields' => array('Product.id', 'Product.name', 'Product.price', 'ProductDeal.id', 'ProductDeal.quantity', 'ProductDeal.discount', 'ProductDeal.price'),
+            )
         );
         return $results;
     }

@@ -297,10 +297,10 @@
                                                             <a href="javascript:void(0)" data-type="text"
                                                                 data-pk="<?php echo h($row['Product']['id']); ?>" data-name="unit"
                                                                 data-url="products/edit" class="editable editable-click vEdit"
-                                                                ref="popover" data-content="Edit Unit "><?php echo h($row['Product']['unit']); ?></a>
+                                                                ref="popover" data-content="Edit Unit "><?php echo h($row['UnitCategory']['name']); ?></a>
                                                             <?php
                                                         else:
-                                                            echo h($row['Product']['unit']);
+                                                            echo h($row['UnitCategory']['name']);
                                                         endif;
 
                                                         ?>
